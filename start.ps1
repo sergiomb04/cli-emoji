@@ -1,0 +1,1 @@
+Start-Process powershell -WindowStyle Hidden -ArgumentList "-Command", "npm run electron"

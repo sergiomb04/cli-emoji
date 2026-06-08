@@ -1,0 +1,23 @@
+{
+  "name": "cli-emoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "node src/cli/index.js",
+    "electron": "electron .",
+    "update-emojis": "node scripts/update_emojis.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^4.0.0"
+  },
+  "devDependencies": {
+    "electron": "^42.0.0"
+  }
+}

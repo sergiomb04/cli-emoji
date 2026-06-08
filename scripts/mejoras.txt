@@ -1,0 +1,4 @@
+🧠:cerebro,mente,inteligencia,ideas,thinking
+💬:chat,mensaje,conversación,hablar,texto
+🗨️:burbuja diálogo,chat,hablar,mensaje
+🗯️:burbuja enfado,grito,enojo,comic,explosión🤖

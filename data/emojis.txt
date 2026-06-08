@@ -1,0 +1,3943 @@
+😀:sonrisa,feliz,contento,alegría,cara
+😃:sonrisa,feliz,ojos abiertos,alegría
+😄:sonrisa,feliz,contento,alegría,divertido
+😁:sonrisa amplia,feliz,risa,dientes
+😆:risa,feliz,carcajada,ojos cerrados
+😅:sudor,nervioso,alivio,sonrisa
+🤣:risas a carcajadas,muy gracioso,rodando de risa
+😂:carcajada,llorar de risa,gracioso,diversión
+🙂:sonrisa ligera,neutral,amable,ok,educado,formal,suave
+🙃:cabeza abajo,sarcástico,irónico,broma
+🫠:cara derritiéndose,vergüenza,calor,incomodidad,derretido,cringe,agotamiento
+😉:guiño,coqueto,pícaro,complicidad
+😊:feliz,sonrisa tímida,contento,rubor
+😇:ángel,inocente,bueno,halo
+🥰:cariño,corazones,abrazo,ternura
+😍:amor,enamorado,corazones,me encanta
+🤩:estrella,emocionado,fascinado,impresionado,admiración
+😘:beso,besito,cara de beso,corazón
+😗:beso,silbar,pato
+☺️:sonrisa,feliz,tímido,amable,satisfacción
+😚:beso con ojos cerrados,cariño,rubor
+😙:beso sonriente,silbar,feliz
+🥲:sonrisa con lágrima,emocionado,orgullo,tristeza feliz
+😋:sabroso,comida,hambre,delicioso
+😛:sacar la lengua,broma,divertido
+😜:guiño con lengua,loco,broma,pícaro
+🤪:locura,divertido,tonto,desenfrenado,loco,enloquecido
+😝:lengua,asco,burla,ojos cerrados
+🤑:dinero,rico,billetes,dólar
+🤗:abrazo,cariño,manos,bienvenida
+🤭:boca tapada,secreto,risa disimulada,ups
+🫢:sorpresa,shock,callado,secreto,vergüenza,taparse la boca,asombro,incómodo
+🫣:vergüenza,tímido,oculto,no mirar,incómodo,espiar,curiosidad,miedo
+🤫:silencio,shhh,callado,secreto
+🤔:pensando,duda,reflexión,curiosidad,analizar,idea
+🫡:saludo militar,respecto,ok,entendido,obedecer
+🤐:silenciador,boca cerrada,secreto,cremallera
+🤨:ceja levantada,sospecha,incredulidad,duda,juicio
+😐:neutral,serio,sin comentarios,sin emoción,indiferente,expresión vacía
+😑:sin expresión,indiferente,aburrimiento,aburrido,cansado,harto
+😶:sin boca,mudo,silencio,sin palabras,incómodo,callado
+🫥:cara punteada,invisible,tímido,desaparecer,ausente,ignorado,camuflado
+😶‍🌫️:cara en nubes,confusión,mente nublada,perdido
+😏:sonrisa pícara,coqueto,sarcasmo,astuto,pervertido,sexy,insinuación
+😒:mirada de reojo,molesto,aburrido,insatisfecho,fastidio,desinterés
+🙄:rodar ojos,desdén,sarcasmo,aburrimiento,hartazgo, no sé
+😬:diente,dientes,mueca,nervioso,incómodo,oops,error,tensión,sorpresa
+😮‍💨:suspiro,alivio,cansancio,exhalar,frustración,relajación,enfadado
+🤥:mentiroso,pinocho,nariz larga,mentira
+🫨:cara temblando,shock,miedo,impacto,terremoto,vibración,nervios
+🙂‍↔️:negar,no,desacuerdo,rechazo,decir no
+🙂‍↕️:afirmar,sí,acuerdo,asentir,confirmación
+😌:aliviado,relajado,paz,tranquilo
+😔:triste,deprimido,decepcionado,pena
+😪:sueño,cansado,baba,dormir,agotado
+🤤:babeando,deseo,hambre,delicioso
+😴:durmiendo,zzz,cansado,sueño
+🫩:agotado,cansado,suspirar,estresado,exhausto,quemado,saturado,respirar profundo
+😷:mascarilla,enfermo,salud,médico
+🤒:termómetro,fiebre,enfermo,temperatura
+🤕:vendaje,herido,accidente,dolor
+🤢:asco,vómito,náuseas,enfermo
+🤮:vómito,asco,enfermo,repugnancia
+🤧:estornudo,resfriado,salud,alergia
+🥵:calor,sudor,sofoco,picante
+🥶:frío,congelado,hielo,invierno
+🥴:mareado,borracho,confuso,desorientado,ebrio,intoxicado
+😵:mareo,sorpresa,inconsciente,aturdido,desmayo,confusión
+😵‍💫:ojos en espiral,hipnotizado,confusión,mareo
+🤯:cabeza explota,sorpresa,alucinante,shock
+🤠:vaquero,sombrero,oeste,cowboy,texas,rural
+🥳:fiesta,celebración,cumpleaños,alegría
+🥸:disfraz,incógnito,oculto,broma,espía,identidad falsa,camuflaje,gafas
+😎:gafas de sol,guay,fresco,confiado
+🤓:empollón,gafas,inteligente,estudio
+🧐:monóculo,inspeccionar,investigar,elegante
+😕:confundido,duda,incertidumbre,no entender
+🫤:cara con línea diagonal,duda,incomodidad,meh,indiferente,confusión leve
+😟:preocupado,nervioso,ansiedad,estrés,inquietud
+🙁:triste,ligeramente fruncido,descontento
+☹️:muy triste,fruncido,decepción
+😮:sorpresa,boca abierta,asombro,impacto
+😯:asombro,sorpresa,silencio,impresionado
+😲:conmocionado,sorprendido,pasmoso,impactado
+😳:sonrojado,vergüenza,sorpresa,tímido,awkward
+🫪:cara deformada,cara,distorsionado,extraño,raro,incómodo,expresión rara
+🥺:ojos suplicantes,por favor,tristeza,ternura,pena
+🥹:ojos llorosos,emoción,agradecido,ternura
+😦:boca abierta con el ceño fruncido,susto,boca abierta con ceño,preocupación
+😧:angustiado,dolor,sufrimiento,ansiedad
+😨:miedo,susto,terror,ansiedad,pánico
+😰:ansioso con sudor,nervios,frío,estrés,miedo
+😥:triste pero aliviado,sudor,preocupación,agotamiento
+😢:llorando,lágrima,tristeza,pena,dolor
+😭:llorando a mares,tristeza,desesperación,drama,intenso
+😱:grito,terror,miedo,pánico,susto extremo
+😖:confundido,frustrado,dolor,tensión,estrés
+😣:perseverante,dolor,sufrimiento,esfuerzo,perseverar,aguantar
+😞:decepcionado,tristeza,derrota,desánimo
+😓:sudor frío,cansancio,esfuerzo,estrés
+😩:cansado,agotado,frustración,estrés extremo
+😫:fatigado,cansado,grito,agotamiento
+🥱:bostezo,sueño,aburrimiento,cansancio,pereza
+😤:triunfo,resoplando,orgullo,enojo,frustración,ira leve
+😡:enojado,furia,rabia,rojo,ira intensa
+😠:enfadado,molesto,ira,enfado leve
+🤬:insultos,maldiciendo,enojado,grosería,rabia
+😈:diablo sonriente,malvado,cuernos,travieso
+👿:diablo enojado,demonio,malo,enfado
+💀:calavera,muerte,huesos,peligro,meme,gracioso,dead,xd
+☠️:calavera y huesos,veneno,pirata,peligro
+💩:caca,mierda,estiércol,broma,meme,shit
+🤡:payaso,broma,circo,tonto,idiota,ridículo
+👹:demonio,ogro,malvado,furia,criatura
+👺:duende,ogro japonés,tengu,travieso,amenaza,máscara,japonés
+👻:fantasma,miedo,halloween,susto,invisible,espíritu
+👽:alien,extraterrestre,ovni,espacio
+👾:monstruo alienígena,videojuego,retro,arcade
+🤖:robot,tecnología,inteligencia artificial,bot,ia,automatización
+😺:gato,feliz,sonriente,contento,amistoso
+😸:gato riendo,alegría,risa,divertido,felicidad
+😹:gato llorando de risa,carcajadas,gracioso,humor,diversión
+😻:gato enamorado,amor,adoración,corazones,ternura
+😼:gato travieso,sarcasmo,astuto,malicia,sonrisa picara
+😽:gato besando,beso,afecto,cariño,ternura
+🙀:gato sorprendido,shock,asombro,miedo,alarma
+😿:gato triste,pena,llanto,melancolía,decepción
+😾:gato enfadado,enojo,ira,gruñón,frustración
+🙈:mono que no ve,ciego,vergüenza,esconderse
+🙉:mono que no oye,sordo,ignorar
+🙊:mono que no habla,mudo,secreto,callado
+💌:carta de amor,mensaje romántico,corazón en sobre,romance,confesión
+💘:corazón con flecha,cupido,enamorado,amor
+💝:corazón con lazo,regalo,amor,san valentín
+💖:corazón brillante,amor,destellos,bonito
+💗:corazón creciente,amor,cariño,emoción
+💓:corazón latiendo,amor,nervios,emoción
+💞:corazones giratorios,amor,cariño,enamorado
+💕:dos corazones,amor,cariño,enamorado
+💟:adorno de corazón,amor,decoración,morado
+❣️:amor intenso,corazón exclamación,pasión,afecto fuerte,romántico
+💔:corazón roto,desamor,tristeza,dolor
+❤️‍🔥:corazón en llamas,pasión,amor intenso,fuego
+❤️‍🩹:corazón vendado,curación,recuperación,sanar
+❤️:corazón rojo,amor,pasión,me gusta
+🩷:corazón rosa,amor suave,ternura,cariño,afecto dulce
+🧡:corazón naranja,amor,amistad
+💛:corazón amarillo,amor,alegría,amistad
+💚:corazón verde,amor,naturaleza,esperanza
+💙:blue heart
+🩵:corazón azul claro,tranquilidad,amistad,calma,confianza
+💜:corazón morado,amor,lujo,afecto,premium
+🤎:corazón marrón,amor,chocolate,tierra
+🖤:corazón negro,amor oscuro,tristeza,luto
+🩶:corazón gris,neutralidad,amor apagado,equilibrio,serenidad
+🤍:white heart
+💋:beso,labial,amor,romance,seducción
+💯:cien puntos,perfecto,100,aprobado
+💢:símbolo de enfado,vena saltada,rabia,rojo
+🫯:explosión emocional,impacto,shock,mente explotada,sorpresa
+💥:explosión,bomba,impacto,boom,choque,estallido
+💫:mareo,estrella,magia,desmayo,confusión
+💦:agua,sudor,salpicar,gotas,humedad
+💨:viento,rápido,huida,aire,velocidad
+🕳️:agujero,hoyo,caer,profundo,vacío
+💬:burbuja de diálogo,conversación,chat,mensaje,hablar,texto
+👁️‍🗨️:observación,comentario,opinión,atención,mirada
+🗨️:diálogo,habla,comentario,conversación,texto,burbuja diálogo,chat,hablar,mensaje
+🗯️:enojo,grito,queja,burbuja agresiva,frustración,burbuja enfado,comic,explosión
+💭:pensamiento,idea,reflexión,mente,soñar
+💤:zzz,dormir,sueño,cansado
+👋:saludar,hola,adiós,mano,saludo
+👋🏻:saludar,hola,adiós,mano,saludo
+👋🏼:saludar,hola,adiós,mano,saludo
+👋🏽:saludar,hola,adiós,mano,saludo
+👋🏾:saludar,hola,adiós,mano,saludo
+👋🏿:saludar,hola,adiós,mano,saludo
+🤚:dorso de mano,alto,detente
+🤚🏻:dorso de mano,alto,detente
+🤚🏼:dorso de mano,alto,detente
+🤚🏽:dorso de mano,alto,detente
+🤚🏾:dorso de mano,alto,detente
+🤚🏿:dorso de mano,alto,detente
+🖐️:mano abierta,cinco,chocar esos cinco
+🖐🏻:mano abierta,cinco,chocar esos cinco
+🖐🏼:mano abierta,cinco,chocar esos cinco
+🖐🏽:mano abierta,cinco,chocar esos cinco
+🖐🏾:mano abierta,cinco,chocar esos cinco
+🖐🏿:mano abierta,cinco,chocar esos cinco
+✋:mano levantada,alto,espera,parar
+✋🏻:mano levantada,alto,espera,parar
+✋🏼:mano levantada,alto,espera,parar
+✋🏽:mano levantada,alto,espera,parar
+✋🏾:mano levantada,alto,espera,parar
+✋🏿:mano levantada,alto,espera,parar
+🖖:saludo vulcano,star trek,prosperidad
+🖖🏻:saludo vulcano,star trek,prosperidad
+🖖🏼:saludo vulcano,star trek,prosperidad
+🖖🏽:saludo vulcano,star trek,prosperidad
+🖖🏾:saludo vulcano,star trek,prosperidad
+🖖🏿:saludo vulcano,star trek,prosperidad
+���:rightwards hand
+🫱🏻:mano hacia la derecha,ofrecer,ayuda
+🫱🏼:mano hacia la derecha,ofrecer,ayuda
+🫱🏽:mano hacia la derecha,ofrecer,ayuda
+🫱🏾:mano hacia la derecha,ofrecer,ayuda
+🫱🏿:mano hacia la derecha,ofrecer,ayuda
+🫲:mano hacia la izquierda,recibir,aceptar
+🫲🏻:mano hacia la izquierda,recibir,aceptar
+🫲🏼:mano hacia la izquierda,recibir,aceptar
+🫲🏽:mano hacia la izquierda,recibir,aceptar
+🫲🏾:mano hacia la izquierda,recibir,aceptar
+🫲🏿:mano hacia la izquierda,recibir,aceptar
+🫳:mano hacia abajo,soltar,dejar
+🫳🏻:mano hacia abajo,soltar,dejar
+🫳🏼:mano hacia abajo,soltar,dejar
+🫳🏽:mano hacia abajo,soltar,dejar
+🫳🏾:mano hacia abajo,soltar,dejar
+🫳🏿:mano hacia abajo,soltar,dejar
+🫴:mano hacia arriba,recibir,pedir
+🫴🏻:mano hacia arriba,recibir,pedir
+🫴🏼:mano hacia arriba,recibir,pedir
+🫴🏽:mano hacia arriba,recibir,pedir
+🫴��:palm up hand: medium-dark skin tone
+🫴🏿:mano hacia arriba,recibir,pedir
+🫷:empujar mano izquierda,alto,parar
+🫷🏻:empujar mano izquierda,alto,parar
+🫷🏼:empujar mano izquierda,alto,parar
+🫷🏽:empujar mano izquierda,alto,parar
+🫷🏾:empujar mano izquierda,alto,parar
+🫷🏿:empujar mano izquierda,alto,parar
+🫸:empujar mano derecha,stop,detener
+🫸🏻:empujar mano derecha,stop,detener
+🫸🏼:empujar mano derecha,stop,detener
+🫸🏽:empujar mano derecha,stop,detener
+🫸🏾:empujar mano derecha,stop,detener
+🫸🏿:empujar mano derecha,stop,detener
+👌:ok,perfecto,genial,bien
+👌🏻:ok,perfecto,genial,bien
+👌🏼:ok,perfecto,genial,bien
+👌🏽:ok,perfecto,genial,bien
+👌🏾:ok,perfecto,genial,bien
+👌🏿:ok,perfecto,genial,bien
+🤌:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
+🤌🏻:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
+🤌🏼:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
+🤌🏽:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
+🤌🏾:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
+🤌🏿:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
+🤏:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+🤏🏻:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+🤏🏼:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+🤏🏽:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+🤏🏾:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+🤏🏿:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+✌️:victoria,paz,dos,v
+✌🏻:victory hand: light skin tone
+✌🏼:victory hand: medium-light skin tone
+✌🏽:victory hand: medium skin tone
+✌🏾:victory hand: medium-dark skin tone
+✌🏿:victory hand: dark skin tone
+🤞:dedos cruzados,suerte,esperanza
+🤞🏻:dedos cruzados,suerte,esperanza
+🤞🏼:dedos cruzados,suerte,esperanza
+🤞🏽:dedos cruzados,suerte,esperanza
+🤞🏾:dedos cruzados,suerte,esperanza
+🤞🏿:dedos cruzados,suerte,esperanza
+🫰:amor coreano,corazón con dedos,afecto,gesto,k-pop
+🫰🏻:amor coreano,corazón con dedos,afecto,gesto,k-pop
+🫰🏼:amor coreano,corazón con dedos,afecto,gesto,k-pop
+🫰🏽:amor coreano,corazón con dedos,afecto,gesto,k-pop
+🫰🏾:amor coreano,corazón con dedos,afecto,gesto,k-pop
+🫰🏿:amor coreano,corazón con dedos,afecto,gesto,k-pop
+🤟:te quiero,amor,lenguaje de señas
+🤟🏻:te quiero,amor,lenguaje de señas
+🤟🏼:te quiero,amor,lenguaje de señas
+🤟🏽:te quiero,amor,lenguaje de señas
+🤟🏾:te quiero,amor,lenguaje de señas
+🤟🏿:te quiero,amor,lenguaje de señas
+🤘:cuernos,rock,música,heavy
+🤘🏻:cuernos,rock,música,heavy
+🤘🏼:cuernos,rock,música,heavy
+🤘🏽:cuernos,rock,música,heavy
+🤘🏾:cuernos,rock,música,heavy
+🤘🏿:cuernos,rock,música,heavy
+🤙:llámame,surf,teléfono,tranquilo
+🤙🏻:llámame,surf,teléfono,tranquilo
+🤙🏼:llámame,surf,teléfono,tranquilo
+🤙🏽:llámame,surf,teléfono,tranquilo
+🤙🏾:llámame,surf,teléfono,tranquilo
+🤙🏿:llámame,surf,teléfono,tranquilo
+👈:índice izquierda,apuntar,aquí
+👈🏻:índice izquierda,apuntar,aquí
+👈🏼:índice izquierda,apuntar,aquí
+👈🏽:índice izquierda,apuntar,aquí
+👈🏾:índice izquierda,apuntar,aquí
+👈🏿:índice izquierda,apuntar,aquí
+👉:índice derecha,apuntar,allí
+👉🏻:índice derecha,apuntar,allí
+👉🏼:índice derecha,apuntar,allí
+👉🏽:índice derecha,apuntar,allí
+👉🏾:índice derecha,apuntar,allí
+👉🏿:índice derecha,apuntar,allí
+👆:índice arriba,arriba,señalar
+👆🏻:índice arriba,arriba,señalar
+👆🏼:índice arriba,arriba,señalar
+👆🏽:índice arriba,arriba,señalar
+👆🏾:índice arriba,arriba,señalar
+👆🏿:índice arriba,arriba,señalar
+🖕:dedo medio,insulto,peineta,grosería
+🖕🏻:dedo medio,insulto,peineta,grosería
+🖕🏼:dedo medio,insulto,peineta,grosería
+🖕🏽:dedo medio,insulto,peineta,grosería
+🖕🏾:dedo medio,insulto,peineta,grosería
+🖕🏿:dedo medio,insulto,peineta,grosería
+👇:índice abajo,abajo,aquí
+👇🏻:índice abajo,abajo,aquí
+👇🏼:índice abajo,abajo,aquí
+👇🏽:índice abajo,abajo,aquí
+👇🏾:índice abajo,abajo,aquí
+👇🏿:índice abajo,abajo,aquí
+☝️:índice arriba,un momento,uno,atención
+☝🏻:índice arriba,un momento,uno,atención
+☝🏼:índice arriba,un momento,uno,atención
+☝🏽:índice arriba,un momento,uno,atención
+☝🏾:índice arriba,un momento,uno,atención
+☝🏿:índice arriba,un momento,uno,atención
+🫵:apuntar al usuario,tú,señalar
+🫵🏻:apuntar al usuario,tú,señalar
+🫵🏼:apuntar al usuario,tú,señalar
+🫵🏽:apuntar al usuario,tú,señalar
+🫵🏾:apuntar al usuario,tú,señalar
+🫵🏿:apuntar al usuario,tú,señalar
+👍:pulgar arriba,ok,bien,aprobación,like
+👍🏻:pulgar arriba claro,ok,bien,aprobación,like
+👍🏼:pulgar arriba medio claro,ok,bien,aprobación,like
+👍🏽:pulgar arriba medio,ok,bien,aprobación,like
+👍🏾:pulgar arriba medio oscuro,ok,bien,aprobación,like
+👍🏿:pulgar arriba oscuro,ok,bien,aprobación,like
+👎:pulgar abajo,mal,desaprobación,no,dislike
+👎🏻:pulgar abajo,mal,desaprobación,no,dislike
+👎🏼:pulgar abajo,mal,desaprobación,no,dislike
+👎🏽:pulgar abajo,mal,desaprobación,no,dislike
+👎🏾:pulgar abajo,mal,desaprobación,no,dislike
+👎🏿:pulgar abajo,mal,desaprobación,no,dislike
+✊:puño en alto,fuerza,poder,solidaridad
+✊🏻:puño en alto,fuerza,poder,solidaridad
+✊🏼:puño en alto,fuerza,poder,solidaridad
+✊🏽:puño en alto,fuerza,poder,solidaridad
+✊🏾:puño en alto,fuerza,poder,solidaridad
+✊🏿:puño en alto,fuerza,poder,solidaridad
+👊:puño cerrado,golpe,chocar puños
+👊🏻:puño cerrado,golpe,chocar puños
+👊🏼:puño cerrado,golpe,chocar puños
+👊🏽:puño cerrado,golpe,chocar puños
+👊🏾:puño cerrado,golpe,chocar puños
+👊🏿:puño cerrado,golpe,chocar puños
+🤛:puño hacia la izquierda,choque,saludo
+🤛🏻:puño hacia la izquierda,choque,saludo
+🤛🏼:puño hacia la izquierda,choque,saludo
+🤛🏽:puño hacia la izquierda,choque,saludo
+🤛🏾:puño hacia la izquierda,choque,saludo
+🤛🏿:puño hacia la izquierda,choque,saludo
+🤜:puño hacia la derecha,choque,saludo
+🤜🏻:puño hacia la derecha,choque,saludo
+🤜🏼:puño hacia la derecha,choque,saludo
+🤜🏽:puño hacia la derecha,choque,saludo
+🤜🏾:puño hacia la derecha,choque,saludo
+🤜🏿:puño hacia la derecha,choque,saludo
+👏:aplausos,bravo,felicidades,palmadas,celebrar
+👏🏻:aplausos,bravo,felicidades,palmadas,celebrar
+👏🏼:aplausos,bravo,felicidades,palmadas,celebrar
+👏🏽:aplausos,bravo,felicidades,palmadas,celebrar
+👏🏾:aplausos,bravo,felicidades,palmadas,celebrar
+👏🏿:aplausos,bravo,felicidades,palmadas,celebrar
+🙌:manos levantadas,celebración,éxito,aleluya
+🙌🏻:manos levantadas,celebración,éxito,aleluya
+🙌🏼:manos levantadas,celebración,éxito,aleluya
+🙌🏽:manos levantadas,celebración,éxito,aleluya
+🙌🏾:manos levantadas,celebración,éxito,aleluya
+🙌🏿:manos levantadas,celebración,éxito,aleluya
+🫶:manos en forma de corazón,amor,aprecio,gracias,afecto,corazón
+🫶🏻:manos en forma de corazón,amor,aprecio,gracias,afecto,corazón
+🫶🏼:manos en forma de corazón,amor,aprecio,gracias,afecto,corazón
+🫶🏽:manos en forma de corazón,amor,aprecio,gracias,afecto,corazón
+🫶🏾:manos en forma de corazón,amor,aprecio,gracias,afecto,corazón
+🫶🏿:manos en forma de corazón,amor,aprecio,gracias,afecto,corazón
+👐:manos abiertas,abrazo,jazz hands
+👐🏻:manos abiertas,abrazo,jazz hands
+👐🏼:manos abiertas,abrazo,jazz hands
+👐🏽:manos abiertas,abrazo,jazz hands
+👐🏾:manos abiertas,abrazo,jazz hands
+👐🏿:manos abiertas,abrazo,jazz hands
+🤲:palmas juntas,rezar,pedir,suplicar
+🤲🏻:palmas juntas,rezar,pedir,suplicar
+🤲🏼:palmas juntas,rezar,pedir,suplicar
+🤲🏽:palmas juntas,rezar,pedir,suplicar
+🤲🏾:palmas juntas,rezar,pedir,suplicar
+🤲🏿:palmas juntas,rezar,pedir,suplicar
+🤝:apretón de manos,trato,acuerdo,saludo
+🤝🏻:apretón de manos claro,acuerdo,saludo
+🤝🏼:apretón de manos,trato,acuerdo,saludo
+🤝🏽:apretón de manos,trato,acuerdo,saludo
+🤝🏾:apretón de manos,trato,acuerdo,saludo
+🤝🏿:apretón de manos oscuro,acuerdo,saludo
+🫱🏻‍🫲🏼:handshake: light skin tone, medium-light skin tone
+🫱🏻‍🫲🏽:handshake: light skin tone, medium skin tone
+🫱🏻‍🫲🏾:handshake: light skin tone, medium-dark skin tone
+🫱🏻‍🫲🏿:handshake: light skin tone, dark skin tone
+🫱🏼‍🫲🏻:handshake: medium-light skin tone, light skin tone
+🫱🏼‍🫲🏽:handshake: medium-light skin tone, medium skin tone
+🫱🏼‍🫲🏾:handshake: medium-light skin tone, medium-dark skin tone
+🫱🏼‍🫲🏿:handshake: medium-light skin tone, dark skin tone
+🫱🏽‍🫲🏻:handshake: medium skin tone, light skin tone
+🫱🏽‍🫲🏼:handshake: medium skin tone, medium-light skin tone
+🫱🏽‍🫲🏾:handshake: medium skin tone, medium-dark skin tone
+🫱🏽‍🫲🏿:handshake: medium skin tone, dark skin tone
+🫱🏾‍🫲🏻:handshake: medium-dark skin tone, light skin tone
+🫱🏾‍🫲🏼:handshake: medium-dark skin tone, medium-light skin tone
+🫱🏾‍🫲🏽:handshake: medium-dark skin tone, medium skin tone
+🫱🏾‍🫲🏿:handshake: medium-dark skin tone, dark skin tone
+🫱🏿‍🫲🏻:handshake: dark skin tone, light skin tone
+🫱🏿‍🫲🏼:handshake: dark skin tone, medium-light skin tone
+🫱🏿‍🫲🏽:handshake: dark skin tone, medium skin tone
+🫱🏿‍🫲🏾:handshake: dark skin tone, medium-dark skin tone
+🙏:manos juntas,por favor,gracias,rezar,suplicar
+🙏🏻:manos juntas,por favor,gracias,rezar,suplicar
+🙏🏼:manos juntas,por favor,gracias,rezar,suplicar
+🙏🏽:manos juntas,por favor,gracias,rezar,suplicar
+🙏🏾:manos juntas,por favor,gracias,rezar,suplicar
+🙏🏿:manos juntas,por favor,gracias,rezar,suplicar
+✍️:escribiendo,bolígrafo,firma,escribir
+✍🏻:writing hand: light skin tone
+✍🏼:writing hand: medium-light skin tone
+✍🏽:writing hand: medium skin tone
+✍🏾:writing hand: medium-dark skin tone
+✍🏿:writing hand: dark skin tone
+💅:pintarse las uñas,belleza,manicura,despreocupado
+💅🏻:pintarse las uñas,belleza,manicura,despreocupado
+💅🏼:pintarse las uñas,belleza,manicura,despreocupado
+💅🏽:pintarse las uñas,belleza,manicura,despreocupado
+💅🏾:pintarse las uñas,belleza,manicura,despreocupado
+💅🏿:pintarse las uñas,belleza,manicura,despreocupado
+🤳:selfie,foto,cámara,móvil
+🤳🏻:selfie,foto,cámara,móvil
+🤳🏼:selfie,foto,cámara,móvil
+🤳🏽:selfie,foto,cámara,móvil
+🤳🏾:selfie,foto,cámara,móvil
+🤳🏿:selfie,foto,cámara,móvil
+💪:bíceps,fuerza,músculo,gimnasio,power,fitness
+💪🏻:bíceps,fuerza,músculo,gimnasio,power,fitness
+💪🏼:bíceps,fuerza,músculo,gimnasio,power,fitness
+💪🏽:bíceps,fuerza,músculo,gimnasio,power,fitness
+💪🏾:bíceps,fuerza,músculo,gimnasio,power,fitness
+💪🏿:bíceps,fuerza,músculo,gimnasio,power,fitness
+🦾:brazo robótico,cyborg,prótesis,tecnología,fuerza
+🦿:pierna robótica,prótesis,cyborg,movilidad,tecnología
+🦵:pierna,extremidad,patear
+🦵🏻:pierna,extremidad,patear
+🦵🏼:pierna,extremidad,patear
+🦵🏽:pierna,extremidad,patear
+🦵🏾:pierna,extremidad,patear
+🦵🏿:pierna,extremidad,patear
+🦶:pie,caminar,paso
+🦶🏻:pie,caminar,paso
+🦶🏼:pie,caminar,paso
+🦶🏽:pie,caminar,paso
+🦶🏾:pie,caminar,paso
+🦶🏿:pie,caminar,paso
+👂:oreja,escuchar,oído,sonido,audición
+👂🏻:oreja,escuchar,oído,sonido,audición
+👂🏼:oreja,escuchar,oído,sonido,audición
+👂🏽:oreja,escuchar,oído,sonido,audición
+👂🏾:oreja,escuchar,oído,sonido,audición
+👂🏿:oreja,escuchar,oído,sonido,audición
+🦻:audífono,sordera,escuchar
+🦻🏻:audífono,sordera,escuchar
+🦻🏼:audífono,sordera,escuchar
+🦻🏽:audífono,sordera,escuchar
+🦻🏾:audífono,sordera,escuchar
+🦻🏿:audífono,sordera,escuchar
+👃:nariz,oler,olfato,olor,respirar
+👃🏻:nariz,oler,olfato,olor,respirar
+👃🏼:nariz,oler,olfato,olor,respirar
+👃🏽:nariz,oler,olfato,olor,respirar
+👃🏾:nariz,oler,olfato,olor,respirar
+👃🏿:nariz,oler,olfato,olor,respirar
+🧠:cerebro,inteligencia,pensar,mente,ideas,memoria,thinking
+🫀:corazón anatómico,órgano,salud,vida,biología
+🫁:pulmones,respirar,aire,órgano,oxígeno,biología,salud
+🦷:diente,dentista,muela,salud,odontología
+🦴:hueso,esqueleto,perro,anatomía,estructura,biología
+👀:ojos,mirar,ver,curiosidad,atención,vigilancia,atento,stalker
+👁️:ojo,visión,mirada
+👅:lengua,saborear,lamer,gusto,comida
+👄:boca,labios,hablar,beso,voz
+🫦:labio mordido,coqueto,tensión,deseo,seducción,nervios,ansiedad
+👶:bebé,niño,infantil,pequeño,recién nacido
+👶🏻:bebé,niño,infantil,pequeño,recién nacido
+👶🏼:bebé,niño,infantil,pequeño,recién nacido
+👶🏽:bebé,niño,infantil,pequeño,recién nacido
+👶🏾:bebé,niño,infantil,pequeño,recién nacido
+👶🏿:bebé,niño,infantil,pequeño,recién nacido
+🧒:niño,joven,infancia
+🧒🏻:niño,joven,infancia
+🧒🏼:niño,joven,infancia
+🧒🏽:niño,joven,infancia
+🧒🏾:niño,joven,infancia
+🧒🏿:niño,joven,infancia
+👦:chico,niño,joven
+👦🏻:chico,niño,joven
+👦🏼:chico,niño,joven
+👦🏽:chico,niño,joven
+👦🏾:chico,niño,joven
+👦🏿:chico,niño,joven
+👧:chica,niña,joven
+👧🏻:chica,niña,joven
+👧🏼:chica,niña,joven
+👧🏽:chica,niña,joven
+👧🏾:chica,niña,joven
+👧🏿:chica,niña,joven
+🧑:persona,adulto,gente,individuo,humano
+🧑🏻:persona,adulto,gente,individuo,humano
+🧑🏼:persona,adulto,gente,individuo,humano
+🧑🏽:persona,adulto,gente,individuo,humano
+🧑🏾:persona,adulto,gente,individuo,humano
+🧑🏿:persona,adulto,gente,individuo,humano
+👱:persona rubia,rubio,cabello
+👱🏻:persona rubia,rubio,cabello
+👱🏼:persona rubia,rubio,cabello
+👱🏽:persona rubia,rubio,cabello
+👱🏾:persona rubia,rubio,cabello
+👱🏿:persona rubia,rubio,cabello
+👨:hombre,chico,adulto,señor,varón,persona
+👨🏻:hombre,chico,adulto,señor,varón,persona
+👨🏼:hombre,chico,adulto,señor,varón,persona
+👨🏽:hombre,chico,adulto,señor,varón,persona
+👨🏾:hombre,chico,adulto,señor,varón,persona
+👨🏿:hombre,chico,adulto,señor,varón,persona
+🧔:hombre con barba,barbudo,vello facial,estilo
+🧔🏻:hombre con barba,barbudo,vello facial,estilo
+🧔🏼:hombre con barba,barbudo,vello facial,estilo
+🧔🏽:hombre con barba,barbudo,vello facial,estilo
+🧔🏾:hombre con barba,barbudo,vello facial,estilo
+🧔🏿:hombre con barba,barbudo,vello facial,estilo
+🧔‍♂️:hombre con barba,barbudo,adulto,estilo facial,masculino
+🧔🏻‍♂️:hombre con barba,barbudo,adulto,estilo facial,masculino
+🧔🏼‍♂️:hombre con barba,barbudo,adulto,estilo facial,masculino
+🧔🏽‍♂️:hombre con barba,barbudo,adulto,estilo facial,masculino
+🧔🏾‍♂️:hombre con barba,barbudo,adulto,estilo facial,masculino
+🧔🏿‍♂️:hombre con barba,barbudo,adulto,estilo facial,masculino
+🧔‍♀️:mujer con barba,humor,cosplay,estilo raro,diversión
+🧔🏻‍♀️:mujer con barba,humor,cosplay,estilo raro,diversión
+🧔🏼‍♀️:mujer con barba,humor,cosplay,estilo raro,diversión
+🧔🏽‍♀️:mujer con barba,humor,cosplay,estilo raro,diversión
+🧔🏾‍♀️:mujer con barba,humor,cosplay,estilo raro,diversión
+🧔🏿‍♀️:mujer con barba,humor,cosplay,estilo raro,diversión
+👨‍🦰:hombre pelirrojo,pelirrojo,cabello rojo
+👨🏻‍🦰:hombre pelirrojo,pelirrojo,cabello rojo
+👨🏼‍🦰:hombre pelirrojo,pelirrojo,cabello rojo
+👨🏽‍🦰:hombre pelirrojo,pelirrojo,cabello rojo
+👨🏾‍🦰:hombre pelirrojo,pelirrojo,cabello rojo
+👨🏿‍🦰:hombre pelirrojo,pelirrojo,cabello rojo
+👨‍🦱:hombre con pelo rizado,rizos
+👨🏻‍🦱:hombre con pelo rizado,rizos
+👨🏼‍🦱:hombre con pelo rizado,rizos
+👨🏽‍🦱:hombre con pelo rizado,rizos
+👨🏾‍🦱:hombre con pelo rizado,rizos
+👨🏿‍🦱:hombre con pelo rizado,rizos
+👨‍🦳:hombre con pelo canoso,canas,viejo
+👨🏻‍🦳:hombre con pelo canoso,canas,viejo
+👨🏼‍🦳:hombre con pelo canoso,canas,viejo
+👨🏽‍🦳:hombre con pelo canoso,canas,viejo
+👨🏾‍🦳:hombre con pelo canoso,canas,viejo
+👨🏿‍🦳:hombre con pelo canoso,canas,viejo
+👨‍🦲:hombre calvo,sin pelo,calvicie
+👨🏻‍🦲:hombre calvo,sin pelo,calvicie
+👨🏼‍🦲:hombre calvo,sin pelo,calvicie
+👨🏽‍🦲:hombre calvo,sin pelo,calvicie
+👨🏾‍🦲:hombre calvo,sin pelo,calvicie
+👨🏿‍🦲:hombre calvo,sin pelo,calvicie
+👩:mujer,chica,adulta,señora,femenino,persona
+👩🏻:mujer,chica,adulta,señora,femenino,persona
+👩🏼:mujer,chica,adulta,señora,femenino,persona
+👩🏽:mujer,chica,adulta,señora,femenino,persona
+👩🏾:mujer,chica,adulta,señora,femenino,persona
+👩🏿:mujer,chica,adulta,señora,femenino,persona
+👩‍🦰:mujer pelirroja,pelirroja,cabello rojo
+👩🏻‍🦰:mujer pelirroja,pelirroja,cabello rojo
+👩🏼‍🦰:mujer pelirroja,pelirroja,cabello rojo
+👩🏽‍🦰:mujer pelirroja,pelirroja,cabello rojo
+👩🏾‍🦰:mujer pelirroja,pelirroja,cabello rojo
+👩🏿‍🦰:mujer pelirroja,pelirroja,cabello rojo
+🧑‍🦰:persona pelirroja,rojo cabello,ginger,estilo,identidad
+🧑🏻‍🦰:persona pelirroja,rojo cabello,ginger,estilo,identidad
+🧑🏼‍🦰:persona pelirroja,rojo cabello,ginger,estilo,identidad
+🧑🏽‍🦰:persona pelirroja,rojo cabello,ginger,estilo,identidad
+🧑🏾‍🦰:persona pelirroja,rojo cabello,ginger,estilo,identidad
+🧑🏿‍🦰:persona pelirroja,rojo cabello,ginger,estilo,identidad
+👩‍🦱:mujer con pelo rizado,rizos
+👩🏻‍🦱:mujer con pelo rizado,rizos
+👩🏼‍🦱:mujer con pelo rizado,rizos
+👩🏽‍🦱:mujer con pelo rizado,rizos
+👩🏾‍🦱:mujer con pelo rizado,rizos
+👩🏿‍🦱:mujer con pelo rizado,rizos
+🧑‍🦱:cabello rizado,rizos,peinado,volumen,estilo
+🧑🏻‍🦱:cabello rizado,rizos,peinado,volumen,estilo
+🧑🏼‍🦱:cabello rizado,rizos,peinado,volumen,estilo
+🧑🏽‍🦱:cabello rizado,rizos,peinado,volumen,estilo
+🧑🏾‍🦱:cabello rizado,rizos,peinado,volumen,estilo
+🧑🏿‍🦱:cabello rizado,rizos,peinado,volumen,estilo
+👩‍🦳:mujer con pelo canoso,canas,vieja
+👩🏻‍🦳:mujer con pelo canoso,canas,vieja
+👩🏼‍🦳:mujer con pelo canoso,canas,vieja
+👩🏽‍🦳:mujer con pelo canoso,canas,vieja
+👩🏾‍🦳:mujer con pelo canoso,canas,vieja
+👩🏿‍🦳:mujer con pelo canoso,canas,vieja
+🧑‍🦳:cabello canoso,anciano,gris,edad,experiencia
+🧑🏻‍🦳:cabello canoso,anciano,gris,edad,experiencia
+🧑🏼‍🦳:cabello canoso,anciano,gris,edad,experiencia
+🧑🏽‍🦳:cabello canoso,anciano,gris,edad,experiencia
+🧑🏾‍🦳:cabello canoso,anciano,gris,edad,experiencia
+🧑🏿‍🦳:cabello canoso,anciano,gris,edad,experiencia
+👩‍🦲:mujer calva,sin pelo,calvicie
+👩🏻‍🦲:mujer calva,sin pelo,calvicie
+👩🏼‍🦲:mujer calva,sin pelo,calvicie
+👩🏽‍🦲:mujer calva,sin pelo,calvicie
+👩🏾‍🦲:mujer calva,sin pelo,calvicie
+👩🏿‍🦲:mujer calva,sin pelo,calvicie
+🧑‍🦲:calvo,sin cabello,rapado,estilo,limpio
+🧑🏻‍🦲:calvo,sin cabello,rapado,estilo,limpio
+🧑🏼‍🦲:calvo,sin cabello,rapado,estilo,limpio
+🧑🏽‍🦲:calvo,sin cabello,rapado,estilo,limpio
+🧑🏾‍🦲:calvo,sin cabello,rapado,estilo,limpio
+🧑🏿‍🦲:calvo,sin cabello,rapado,estilo,limpio
+👱‍♀️:rubia,mujer rubia,cabello claro,estilo,persona
+👱🏻‍♀️:rubia,mujer rubia,cabello claro,estilo,persona
+👱🏼‍♀️:rubia,mujer rubia,cabello claro,estilo,persona
+👱🏽‍♀️:rubia,mujer rubia,cabello claro,estilo,persona
+👱🏾‍♀️:rubia,mujer rubia,cabello claro,estilo,persona
+👱🏿‍♀️:rubia,mujer rubia,cabello claro,estilo,persona
+👱‍♂️:hombre rubio,rubio,cabello claro,estilo,persona
+👱🏻‍♂️:hombre rubio,rubio,cabello claro,estilo,persona
+👱🏼‍♂️:hombre rubio,rubio,cabello claro,estilo,persona
+👱🏽‍♂️:hombre rubio,rubio,cabello claro,estilo,persona
+👱🏾‍♂️:hombre rubio,rubio,cabello claro,estilo,persona
+👱🏿‍♂️:hombre rubio,rubio,cabello claro,estilo,persona
+🧓:persona mayor,anciano,viejo,edad,senior
+🧓🏻:persona mayor,anciano,viejo,edad,senior
+🧓🏼:persona mayor,anciano,viejo,edad,senior
+🧓🏽:persona mayor,anciano,viejo,edad,senior
+🧓🏾:persona mayor,anciano,viejo,edad,senior
+🧓🏿:persona mayor,anciano,viejo,edad,senior
+👴:anciano,abuelo,viejo
+👴🏻:anciano,abuelo,viejo
+👴🏼:anciano,abuelo,viejo
+👴🏽:anciano,abuelo,viejo
+👴🏾:anciano,abuelo,viejo
+👴🏿:anciano,abuelo,viejo
+👵:anciana,abuela,vieja
+👵🏻:anciana,abuela,vieja
+👵🏼:anciana,abuela,vieja
+👵🏽:anciana,abuela,vieja
+👵🏾:anciana,abuela,vieja
+👵🏿:anciana,abuela,vieja
+🙍:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
+🙍🏻:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
+🙍🏼:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
+🙍🏽:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
+��🏾:person frowning: medium-dark skin tone
+🙍🏿:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
+🙍‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
+🙍🏻‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
+🙍🏼‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
+🙍🏽‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
+🙍🏾‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
+🙍🏿‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
+🙍‍♀️:mujer triste,preocupación,desagrado,ceño,melancolía
+🙍🏻‍♀️:mujer triste,preocupación,desagrado,ceño,melancolía
+🙍🏼‍♀️:mujer triste,preocupación,desagrado,ceño,melancolía
+🙍🏽‍♀️:mujer triste,preocupación,desagrado,ceño,melancolía
+🙍🏾‍♀️:mujer triste,preocupación,desagrado,ceño,melancolía
+🙍🏿‍♀️:mujer triste,preocupación,desagrado,ceño,melancolía
+🙎:persona molesta,insatisfecho,ceño,enojo leve,desagrado
+🙎🏻:persona molesta,insatisfecho,ceño,enojo leve,desagrado
+🙎🏼:persona molesta,insatisfecho,ceño,enojo leve,desagrado
+🙎🏽:persona molesta,insatisfecho,ceño,enojo leve,desagrado
+🙎🏾:persona molesta,insatisfecho,ceño,enojo leve,desagrado
+🙎🏿:persona molesta,insatisfecho,ceño,enojo leve,desagrado
+🙎‍♂️:hombre molesto,fastidio,enojo leve,ceño,disgusto
+🙎🏻‍♂️:hombre molesto,fastidio,enojo leve,ceño,disgusto
+🙎🏼‍♂️:hombre molesto,fastidio,enojo leve,ceño,disgusto
+🙎🏽‍♂️:hombre molesto,fastidio,enojo leve,ceño,disgusto
+🙎🏾‍♂️:hombre molesto,fastidio,enojo leve,ceño,disgusto
+🙎🏿‍♂️:hombre molesto,fastidio,enojo leve,ceño,disgusto
+🙎‍♀️:mujer molesta,irritación,ceño fruncido,desagrado,enojo
+🙎🏻‍♀️:mujer molesta,irritación,ceño fruncido,desagrado,enojo
+🙎🏼‍♀️:mujer molesta,irritación,ceño fruncido,desagrado,enojo
+🙎🏽‍♀️:mujer molesta,irritación,ceño fruncido,desagrado,enojo
+🙎🏾‍♀️:mujer molesta,irritación,ceño fruncido,desagrado,enojo
+🙎🏿‍♀️:mujer molesta,irritación,ceño fruncido,desagrado,enojo
+🙅:no,prohibición,rechazo,cruzar brazos,negación
+🙅🏻:no,prohibición,rechazo,cruzar brazos,negación
+🙅🏼:no,prohibición,rechazo,cruzar brazos,negación
+🙅🏽:no,prohibición,rechazo,cruzar brazos,negación
+🙅🏾:no,prohibición,rechazo,cruzar brazos,negación
+🙅🏿:no,prohibición,rechazo,cruzar brazos,negación
+🙅‍♂️:hombre diciendo no,prohibido,rechazo,negativa,gesto
+🙅🏻‍♂️:hombre diciendo no,prohibido,rechazo,negativa,gesto
+🙅🏼‍♂️:hombre diciendo no,prohibido,rechazo,negativa,gesto
+🙅🏽‍♂️:hombre diciendo no,prohibido,rechazo,negativa,gesto
+🙅🏾‍♂️:hombre diciendo no,prohibido,rechazo,negativa,gesto
+🙅🏿‍♂️:hombre diciendo no,prohibido,rechazo,negativa,gesto
+🙅‍♀️:mujer diciendo no,negación,prohibido,rechazo,gesto
+🙅🏻‍♀️:mujer diciendo no,negación,prohibido,rechazo,gesto
+🙅🏼‍♀️:mujer diciendo no,negación,prohibido,rechazo,gesto
+🙅🏽‍♀️:mujer diciendo no,negación,prohibido,rechazo,gesto
+🙅🏾‍♀️:mujer diciendo no,negación,prohibido,rechazo,gesto
+🙅🏿‍♀️:mujer diciendo no,negación,prohibido,rechazo,gesto
+🙆:OK,aceptación,perfecto,acuerdo,gesto positivo
+🙆🏻:OK,aceptación,perfecto,acuerdo,gesto positivo
+🙆🏼:OK,aceptación,perfecto,acuerdo,gesto positivo
+🙆🏽:OK,aceptación,perfecto,acuerdo,gesto positivo
+🙆🏾:OK,aceptación,perfecto,acuerdo,gesto positivo
+🙆🏿:OK,aceptación,perfecto,acuerdo,gesto positivo
+🙆‍♂️:hombre OK,acuerdo,positivo,aprobación,gesto
+🙆🏻‍♂️:hombre OK,acuerdo,positivo,aprobación,gesto
+🙆🏼‍♂️:hombre OK,acuerdo,positivo,aprobación,gesto
+🙆🏽‍♂️:hombre OK,acuerdo,positivo,aprobación,gesto
+🙆🏾‍♂️:hombre OK,acuerdo,positivo,aprobación,gesto
+🙆🏿‍♂️:hombre OK,acuerdo,positivo,aprobación,gesto
+🙆‍♀️:mujer OK,aceptación,aprobación,positivo,gesto
+🙆🏻‍♀️:mujer OK,aceptación,aprobación,positivo,gesto
+🙆🏼‍♀️:mujer OK,aceptación,aprobación,positivo,gesto
+🙆🏽‍♀️:mujer OK,aceptación,aprobación,positivo,gesto
+🙆🏾‍♀️:mujer OK,aceptación,aprobación,positivo,gesto
+🙆🏿‍♀️:mujer OK,aceptación,aprobación,positivo,gesto
+💁:información,explicación,asistente,actitud,gesto
+💁🏻:información,explicación,asistente,actitud,gesto
+💁🏼:información,explicación,asistente,actitud,gesto
+💁🏽:información,explicación,asistente,actitud,gesto
+💁🏾:información,explicación,asistente,actitud,gesto
+💁🏿:información,explicación,asistente,actitud,gesto
+💁‍♂️:hombre informando,ayuda,explicación,asistente,gesto
+💁🏻‍♂️:hombre informando,ayuda,explicación,asistente,gesto
+💁🏼‍♂️:hombre informando,ayuda,explicación,asistente,gesto
+💁🏽‍♂️:hombre informando,ayuda,explicación,asistente,gesto
+💁🏾‍♂️:hombre informando,ayuda,explicación,asistente,gesto
+💁🏿‍♂️:hombre informando,ayuda,explicación,asistente,gesto
+💁‍♀️:mujer informando,ayuda,servicio,explicación,gesto
+💁🏻‍♀️:mujer informando,ayuda,servicio,explicación,gesto
+💁🏼‍♀️:mujer informando,ayuda,servicio,explicación,gesto
+💁🏽‍♀️:mujer informando,ayuda,servicio,explicación,gesto
+💁🏾‍♀️:mujer informando,ayuda,servicio,explicación,gesto
+💁🏿‍♀️:mujer informando,ayuda,servicio,explicación,gesto
+🙋:levantar mano,pregunta,participar,voluntario,atención
+🙋🏻:levantar mano,pregunta,participar,voluntario,atención
+🙋🏼:levantar mano,pregunta,participar,voluntario,atención
+🙋🏽:levantar mano,pregunta,participar,voluntario,atención
+🙋🏾:levantar mano,pregunta,participar,voluntario,atención
+🙋🏿:levantar mano,pregunta,participar,voluntario,atención
+🙋‍♂️:hombre levantando mano,pregunta,participación,voluntario,gesto
+🙋🏻‍♂️:hombre levantando mano,pregunta,participación,voluntario,gesto
+🙋🏼‍♂️:hombre levantando mano,pregunta,participación,voluntario,gesto
+🙋🏽‍♂️:hombre levantando mano,pregunta,participación,voluntario,gesto
+🙋🏾‍♂️:hombre levantando mano,pregunta,participación,voluntario,gesto
+🙋🏿‍♂️:hombre levantando mano,pregunta,participación,voluntario,gesto
+🙋‍♀️:mujer levantando mano,pregunta,participación,voluntaria,gesto
+🙋🏻‍♀️:mujer levantando mano,pregunta,participación,voluntaria,gesto
+🙋🏼‍♀️:mujer levantando mano,pregunta,participación,voluntaria,gesto
+🙋🏽‍♀️:mujer levantando mano,pregunta,participación,voluntaria,gesto
+🙋🏾‍♀️:mujer levantando mano,pregunta,participación,voluntaria,gesto
+🙋🏿‍♀️:mujer levantando mano,pregunta,participación,voluntaria,gesto
+🧏:persona sorda,accesibilidad,lengua de señas,comunicación,audición
+🧏🏻:persona sorda,accesibilidad,lengua de señas,comunicación,audición
+🧏🏼:persona sorda,accesibilidad,lengua de señas,comunicación,audición
+🧏🏽:persona sorda,accesibilidad,lengua de señas,comunicación,audición
+🧏🏾:persona sorda,accesibilidad,lengua de señas,comunicación,audición
+🧏🏿:persona sorda,accesibilidad,lengua de señas,comunicación,audición
+🧏‍♂️:hombre sordo,accesibilidad,comunicación,señas,audición
+🧏🏻‍♂️:hombre sordo,accesibilidad,comunicación,señas,audición
+🧏🏼‍♂️:hombre sordo,accesibilidad,comunicación,señas,audición
+🧏🏽‍♂️:hombre sordo,accesibilidad,comunicación,señas,audición
+🧏🏾‍♂️:hombre sordo,accesibilidad,comunicación,señas,audición
+🧏🏿‍♂️:hombre sordo,accesibilidad,comunicación,señas,audición
+🧏‍♀️:mujer sorda,accesibilidad,señas,comunicación,audición
+🧏🏻‍♀️:mujer sorda,accesibilidad,señas,comunicación,audición
+🧏🏼‍♀️:mujer sorda,accesibilidad,señas,comunicación,audición
+🧏🏽‍♀️:mujer sorda,accesibilidad,señas,comunicación,audición
+🧏🏾‍♀️:mujer sorda,accesibilidad,señas,comunicación,audición
+🧏🏿‍♀️:mujer sorda,accesibilidad,señas,comunicación,audición
+🙇:reverencia,respeto,disculpa,agradecimiento,inclinación
+🙇🏻:reverencia,respeto,disculpa,agradecimiento,inclinación
+🙇🏼:reverencia,respeto,disculpa,agradecimiento,inclinación
+🙇🏽:reverencia,respeto,disculpa,agradecimiento,inclinación
+🙇🏾:reverencia,respeto,disculpa,agradecimiento,inclinación
+🙇🏿:reverencia,respeto,disculpa,agradecimiento,inclinación
+🙇‍♂️:hombre inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏻‍♂️:hombre inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏼‍♂️:hombre inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏽‍♂️:hombre inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏾‍♂️:hombre inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏿‍♂️:hombre inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇‍♀️:mujer inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏻‍♀️:mujer inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏼‍♀️:mujer inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏽‍♀️:mujer inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏾‍♀️:mujer inclinándose,respeto,disculpa,agradecimiento,reverencia
+🙇🏿‍♀️:mujer inclinándose,respeto,disculpa,agradecimiento,reverencia
+🤦:facepalm,vergüenza,frustración,error,desesperación
+🤦🏻:facepalm,vergüenza,frustración,error,desesperación
+🤦🏼:facepalm,vergüenza,frustración,error,desesperación
+🤦🏽:facepalm,vergüenza,frustración,error,desesperación
+🤦🏾:facepalm,vergüenza,frustración,error,desesperación
+🤦🏿:facepalm,vergüenza,frustración,error,desesperación
+🤦‍♂️:hombre facepalm,error,vergüenza,frustración,desilusión
+🤦🏻‍♂️:hombre facepalm,error,vergüenza,frustración,desilusión
+🤦🏼‍♂️:hombre facepalm,error,vergüenza,frustración,desilusión
+🤦🏽‍♂️:hombre facepalm,error,vergüenza,frustración,desilusión
+🤦🏾‍♂️:hombre facepalm,error,vergüenza,frustración,desilusión
+🤦🏿‍♂️:hombre facepalm,error,vergüenza,frustración,desilusión
+🤦‍♀️:mujer facepalm,vergüenza,error,frustración,desesperación
+🤦🏻‍♀️:mujer facepalm,vergüenza,error,frustración,desesperación
+🤦🏼‍♀️:mujer facepalm,vergüenza,error,frustración,desesperación
+🤦🏽‍♀️:mujer facepalm,vergüenza,error,frustración,desesperación
+🤦🏾‍♀️:mujer facepalm,vergüenza,error,frustración,desesperación
+🤦🏿‍♀️:mujer facepalm,vergüenza,error,frustración,desesperación
+🤷:encogerse de hombros,duda,incertidumbre,confusión,no sé
+🤷🏻:encogerse de hombros,duda,incertidumbre,confusión,no sé
+🤷🏼:encogerse de hombros,duda,incertidumbre,confusión,no sé
+🤷🏽:encogerse de hombros,duda,incertidumbre,confusión,no sé
+🤷🏾:encogerse de hombros,duda,incertidumbre,confusión,no sé
+🤷🏿:encogerse de hombros,duda,incertidumbre,confusión,no sé
+🤷‍♂️:hombre encogiéndose de hombros,duda,incertidumbre,desconocimiento,gesto
+🤷🏻‍♂️:hombre encogiéndose de hombros,duda,incertidumbre,desconocimiento,gesto
+🤷🏼‍♂️:hombre encogiéndose de hombros,duda,incertidumbre,desconocimiento,gesto
+🤷🏽‍♂️:hombre encogiéndose de hombros,duda,incertidumbre,desconocimiento,gesto
+🤷🏾‍♂️:hombre encogiéndose de hombros,duda,incertidumbre,desconocimiento,gesto
+🤷🏿‍♂️:hombre encogiéndose de hombros,duda,incertidumbre,desconocimiento,gesto
+🤷‍♀️:mujer encogiéndose de hombros,duda,incertidumbre,confusión,gesto
+🤷🏻‍♀️:mujer encogiéndose de hombros,duda,incertidumbre,confusión,gesto
+🤷🏼‍♀️:mujer encogiéndose de hombros,duda,incertidumbre,confusión,gesto
+🤷🏽‍♀️:mujer encogiéndose de hombros,duda,incertidumbre,confusión,gesto
+🤷🏾‍♀️:mujer encogiéndose de hombros,duda,incertidumbre,confusión,gesto
+🤷🏿‍♀️:mujer encogiéndose de hombros,duda,incertidumbre,confusión,gesto
+🧑‍⚕️:profesional de salud,médico,enfermería,clínica,atención médica
+🧑🏻‍⚕️:profesional de salud,médico,enfermería,clínica,atención médica
+🧑🏼‍⚕️:profesional de salud,médico,enfermería,clínica,atención médica
+🧑🏽‍⚕️:profesional de salud,médico,enfermería,clínica,atención médica
+🧑🏾‍⚕️:profesional de salud,médico,enfermería,clínica,atención médica
+🧑🏿‍⚕️:profesional de salud,médico,enfermería,clínica,atención médica
+👨‍⚕️:doctor,médico,enfermero,hospital
+👨🏻‍⚕️:doctor,médico,enfermero,hospital
+👨🏼‍⚕️:doctor,médico,enfermero,hospital
+👨🏽‍⚕️:doctor,médico,enfermero,hospital
+👨🏾‍⚕️:doctor,médico,enfermero,hospital
+👨🏿‍⚕️:doctor,médico,enfermero,hospital
+👩‍⚕️:doctora,médica,enfermera,hospital
+👩🏻‍⚕️:doctora,médica,enfermera,hospital
+👩🏼‍⚕️:doctora,médica,enfermera,hospital
+👩🏽‍⚕️:doctora,médica,enfermera,hospital
+👩🏾‍⚕️:doctora,médica,enfermera,hospital
+👩🏿‍⚕️:doctora,médica,enfermera,hospital
+🧑‍🎓:estudiante,graduación,universidad,educación,aprendizaje
+🧑🏻‍🎓:estudiante,graduación,universidad,educación,aprendizaje
+🧑🏼‍🎓:estudiante,graduación,universidad,educación,aprendizaje
+🧑🏽‍🎓:estudiante,graduación,universidad,educación,aprendizaje
+🧑🏾‍🎓:estudiante,graduación,universidad,educación,aprendizaje
+🧑🏿‍🎓:estudiante,graduación,universidad,educación,aprendizaje
+👨‍🎓:estudiante hombre,graduado,universidad
+👨🏻‍🎓:estudiante hombre,graduado,universidad
+👨🏼‍🎓:estudiante hombre,graduado,universidad
+👨🏽‍🎓:estudiante hombre,graduado,universidad
+👨🏾‍🎓:estudiante hombre,graduado,universidad
+👨🏿‍🎓:estudiante hombre,graduado,universidad
+👩‍🎓:estudiante mujer,graduada,universidad
+👩🏻‍🎓:estudiante mujer,graduada,universidad
+👩🏼‍🎓:estudiante mujer,graduada,universidad
+👩🏽‍🎓:estudiante mujer,graduada,universidad
+👩🏾‍🎓:estudiante mujer,graduada,universidad
+👩🏿‍🎓:estudiante mujer,graduada,universidad
+🧑‍🏫:profesor,docente,enseñanza,clase,educación
+🧑🏻‍🏫:profesor,docente,enseñanza,clase,educación
+🧑🏼‍🏫:profesor,docente,enseñanza,clase,educación
+🧑🏽‍🏫:profesor,docente,enseñanza,clase,educación
+🧑🏾‍🏫:profesor,docente,enseñanza,clase,educación
+🧑🏿‍🏫:profesor,docente,enseñanza,clase,educación
+👨‍🏫:profesor,maestro,escuela,colegio
+👨🏻‍🏫:profesor,maestro,escuela,colegio
+👨🏼‍🏫:profesor,maestro,escuela,colegio
+👨🏽‍🏫:profesor,maestro,escuela,colegio
+👨🏾‍🏫:profesor,maestro,escuela,colegio
+👨🏿‍🏫:profesor,maestro,escuela,colegio
+👩‍🏫:profesora,maestra,escuela,colegio
+👩🏻‍🏫:profesora,maestra,escuela,colegio
+👩🏼‍🏫:profesora,maestra,escuela,colegio
+👩🏽‍🏫:profesora,maestra,escuela,colegio
+👩🏾‍🏫:profesora,maestra,escuela,colegio
+👩🏿‍🏫:profesora,maestra,escuela,colegio
+🧑‍⚖️:juez,justicia,tribunal,ley,decisión
+🧑🏻‍⚖️:juez,justicia,tribunal,ley,decisión
+🧑🏼‍⚖️:juez,justicia,tribunal,ley,decisión
+🧑🏽‍⚖️:juez,justicia,tribunal,ley,decisión
+🧑🏾‍⚖️:juez,justicia,tribunal,ley,decisión
+🧑🏿‍⚖️:juez,justicia,tribunal,ley,decisión
+👨‍⚖️:juez,ley,justicia
+👨🏻‍⚖️:juez,ley,justicia
+👨🏼‍⚖️:juez,ley,justicia
+👨🏽‍⚖️:juez,ley,justicia
+👨🏾‍⚖️:juez,ley,justicia
+👨🏿‍⚖️:juez,ley,justicia
+👩‍⚖️:jueza,ley,justicia
+👩🏻‍⚖️:jueza,ley,justicia
+👩🏼‍⚖️:jueza,ley,justicia
+👩🏽‍⚖️:jueza,ley,justicia
+👩🏾‍⚖️:jueza,ley,justicia
+👩🏿‍⚖️:jueza,ley,justicia
+🧑‍🌾:agricultor,granjero,campo,cultivo,agricultura
+🧑🏻‍🌾:agricultor,granjero,campo,cultivo,agricultura
+🧑🏼‍🌾:agricultor,granjero,campo,cultivo,agricultura
+🧑🏽‍🌾:agricultor,granjero,campo,cultivo,agricultura
+🧑🏾‍🌾:agricultor,granjero,campo,cultivo,agricultura
+🧑🏿‍🌾:agricultor,granjero,campo,cultivo,agricultura
+👨‍🌾:granjero,agricultor,campo
+👨🏻‍🌾:granjero,agricultor,campo
+👨🏼‍🌾:granjero,agricultor,campo
+👨🏽‍🌾:granjero,agricultor,campo
+👨🏾‍🌾:granjero,agricultor,campo
+👨🏿‍🌾:granjero,agricultor,campo
+👩‍🌾:granjera,agricultora,campo
+👩🏻‍🌾:granjera,agricultora,campo
+👩🏼‍🌾:granjera,agricultora,campo
+👩🏽‍🌾:granjera,agricultora,campo
+👩🏾‍🌾:granjera,agricultora,campo
+👩🏿‍🌾:granjera,agricultora,campo
+🧑‍🍳:chef,cocinero,cocina,gastronomía,preparación
+🧑🏻‍🍳:chef,cocinero,cocina,gastronomía,preparación
+🧑🏼‍🍳:chef,cocinero,cocina,gastronomía,preparación
+🧑🏽‍🍳:chef,cocinero,cocina,gastronomía,preparación
+🧑🏾‍🍳:chef,cocinero,cocina,gastronomía,preparación
+🧑🏿‍🍳:chef,cocinero,cocina,gastronomía,preparación
+👨‍🍳:chef hombre,cocinero,restaurante
+👨🏻‍🍳:chef hombre,cocinero,restaurante
+👨🏼‍🍳:chef hombre,cocinero,restaurante
+👨🏽‍🍳:chef hombre,cocinero,restaurante
+👨🏾‍🍳:chef hombre,cocinero,restaurante
+👨🏿‍🍳:chef hombre,cocinero,restaurante
+👩‍🍳:chef mujer,cocinera,restaurante
+👩🏻‍🍳:chef mujer,cocinera,restaurante
+👩🏼‍🍳:chef mujer,cocinera,restaurante
+👩🏽‍🍳:chef mujer,cocinera,restaurante
+👩🏾‍🍳:chef mujer,cocinera,restaurante
+👩🏿‍🍳:chef mujer,cocinera,restaurante
+🧑‍🔧:mecánico,reparación,arreglo,herramientas,oficio
+🧑🏻‍🔧:mecánico,reparación,arreglo,herramientas,oficio
+🧑🏼‍🔧:mecánico,reparación,arreglo,herramientas,oficio
+🧑🏽‍🔧:mecánico,reparación,arreglo,herramientas,oficio
+🧑🏾‍🔧:mecánico,reparación,arreglo,herramientas,oficio
+🧑🏿‍🔧:mecánico,reparación,arreglo,herramientas,oficio
+👨‍🔧:mecánico,reparador,herramientas
+👨🏻‍🔧:mecánico,reparador,herramientas
+👨🏼‍🔧:mecánico,reparador,herramientas
+👨🏽‍🔧:mecánico,reparador,herramientas
+👨🏾‍🔧:mecánico,reparador,herramientas
+👨🏿‍🔧:mecánico,reparador,herramientas
+👩‍🔧:mecánica,reparadora,herramientas
+👩🏻‍🔧:mecánica,reparadora,herramientas
+👩🏼‍🔧:mecánica,reparadora,herramientas
+👩🏽‍🔧:mecánica,reparadora,herramientas
+👩🏾‍🔧:mecánica,reparadora,herramientas
+👩🏿‍🔧:mecánica,reparadora,herramientas
+🧑‍🏭:trabajador fábrica,industria,producción,manufactura,planta
+🧑🏻‍🏭:trabajador fábrica,industria,producción,manufactura,planta
+🧑🏼‍🏭:trabajador fábrica,industria,producción,manufactura,planta
+🧑🏽‍🏭:trabajador fábrica,industria,producción,manufactura,planta
+🧑🏾‍🏭:trabajador fábrica,industria,producción,manufactura,planta
+🧑🏿‍🏭:trabajador fábrica,industria,producción,manufactura,planta
+👨‍🏭:trabajador de fábrica,obrero,industria
+👨🏻‍🏭:trabajador de fábrica,obrero,industria
+👨🏼‍🏭:trabajador de fábrica,obrero,industria
+👨🏽‍🏭:trabajador de fábrica,obrero,industria
+👨🏾‍🏭:trabajador de fábrica,obrero,industria
+👨🏿‍🏭:trabajador de fábrica,obrero,industria
+👩‍🏭:trabajadora de fábrica,obrera,industria
+👩🏻‍🏭:trabajadora de fábrica,obrera,industria
+👩🏼‍🏭:trabajadora de fábrica,obrera,industria
+👩🏽‍🏭:trabajadora de fábrica,obrera,industria
+👩🏾‍🏭:trabajadora de fábrica,obrera,industria
+👩🏿‍🏭:trabajadora de fábrica,obrera,industria
+🧑‍💼:oficinista,negocios,corporativo,trabajo,empresa
+🧑🏻‍💼:oficinista,negocios,corporativo,trabajo,empresa
+🧑🏼‍💼:oficinista,negocios,corporativo,trabajo,empresa
+🧑🏽‍💼:oficinista,negocios,corporativo,trabajo,empresa
+🧑🏾‍💼:oficinista,negocios,corporativo,trabajo,empresa
+🧑🏿‍💼:oficinista,negocios,corporativo,trabajo,empresa
+👨‍💼:oficinista hombre,negocios,empresario
+👨🏻‍💼:oficinista hombre,negocios,empresario
+👨🏼‍💼:oficinista hombre,negocios,empresario
+👨🏽‍💼:oficinista hombre,negocios,empresario
+👨🏾‍💼:oficinista hombre,negocios,empresario
+👨🏿‍💼:oficinista hombre,negocios,empresario
+👩‍💼:oficinista mujer,negocios,empresaria
+👩🏻‍💼:oficinista mujer,negocios,empresaria
+👩🏼‍💼:oficinista mujer,negocios,empresaria
+👩🏽‍💼:oficinista mujer,negocios,empresaria
+👩🏾‍💼:oficinista mujer,negocios,empresaria
+👩🏿‍💼:oficinista mujer,negocios,empresaria
+🧑‍🔬:científico,laboratorio,investigación,experimentos,ciencia
+🧑🏻‍🔬:científico,laboratorio,investigación,experimentos,ciencia
+🧑🏼‍🔬:científico,laboratorio,investigación,experimentos,ciencia
+🧑🏽‍🔬:científico,laboratorio,investigación,experimentos,ciencia
+🧑🏾‍🔬:científico,laboratorio,investigación,experimentos,ciencia
+🧑🏿‍🔬:científico,laboratorio,investigación,experimentos,ciencia
+👨‍🔬:científico,investigador,laboratorio,ciencia
+👨🏻‍🔬:científico,investigador,laboratorio,ciencia
+👨🏼‍🔬:científico,investigador,laboratorio,ciencia
+👨🏽‍🔬:científico,investigador,laboratorio,ciencia
+👨🏾‍🔬:científico,investigador,laboratorio,ciencia
+👨🏿‍🔬:científico,investigador,laboratorio,ciencia
+👩‍🔬:científica,investigadora,laboratorio,ciencia
+👩🏻‍🔬:científica,investigadora,laboratorio,ciencia
+👩🏼‍🔬:científica,investigadora,laboratorio,ciencia
+👩🏽‍🔬:científica,investigadora,laboratorio,ciencia
+👩🏾‍🔬:científica,investigadora,laboratorio,ciencia
+👩🏿‍🔬:científica,investigadora,laboratorio,ciencia
+🧑‍💻:programador,tecnología,código,informática,computadora
+🧑🏻‍💻:programador,tecnología,código,informática,computadora
+🧑🏼‍💻:programador,tecnología,código,informática,computadora
+🧑🏽‍💻:programador,tecnología,código,informática,computadora
+🧑🏾‍💻:programador,tecnología,código,informática,computadora
+🧑🏿‍��:technologist: dark skin tone
+👨‍💻:programador,desarrollador,informático,pc
+👨🏻‍💻:programador,desarrollador,informático,pc
+👨🏼‍💻:programador,desarrollador,informático,pc
+👨🏽‍💻:programador,desarrollador,informático,pc
+👨🏾‍💻:programador,desarrollador,informático,pc
+👨🏿‍💻:programador,desarrollador,informático,pc
+👩‍💻:programadora,desarrolladora,informática,pc
+👩🏻‍💻:programadora,desarrolladora,informática,pc
+👩🏼‍💻:programadora,desarrolladora,informática,pc
+👩🏽‍💻:programadora,desarrolladora,informática,pc
+👩🏾‍💻:programadora,desarrolladora,informática,pc
+👩🏿‍💻:programadora,desarrolladora,informática,pc
+🧑‍🎤:cantante,artista musical,concierto,escenario,performance
+🧑🏻‍🎤:cantante,artista musical,concierto,escenario,performance
+🧑🏼‍🎤:cantante,artista musical,concierto,escenario,performance
+🧑🏽‍🎤:cantante,artista musical,concierto,escenario,performance
+🧑🏾‍🎤:cantante,artista musical,concierto,escenario,performance
+🧑🏿‍🎤:cantante,artista musical,concierto,escenario,performance
+👨‍🎤:cantante hombre,estrella de rock,música
+👨🏻‍🎤:cantante hombre,estrella de rock,música
+👨🏼‍🎤:cantante hombre,estrella de rock,música
+👨🏽‍🎤:cantante hombre,estrella de rock,música
+👨🏾‍🎤:cantante hombre,estrella de rock,música
+👨🏿‍🎤:cantante hombre,estrella de rock,música
+👩‍🎤:cantante mujer,estrella de rock,música
+👩🏻‍🎤:cantante mujer,estrella de rock,música
+👩🏼‍🎤:cantante mujer,estrella de rock,música
+👩🏽‍🎤:cantante mujer,estrella de rock,música
+👩🏾‍🎤:cantante mujer,estrella de rock,música
+👩🏿‍🎤:cantante mujer,estrella de rock,música
+🧑‍🎨:artista,pintor,creatividad,arte,diseño
+🧑🏻‍🎨:artista,pintor,creatividad,arte,diseño
+🧑���‍🎨:artist: medium-light skin tone
+🧑🏽‍🎨:artista,pintor,creatividad,arte,diseño
+🧑🏾‍🎨:artista,pintor,creatividad,arte,diseño
+🧑🏿‍🎨:artista,pintor,creatividad,arte,diseño
+👨‍🎨:artista hombre,pintor,arte
+👨🏻‍🎨:artista hombre,pintor,arte
+👨🏼‍🎨:artista hombre,pintor,arte
+👨🏽‍🎨:artista hombre,pintor,arte
+👨🏾‍🎨:artista hombre,pintor,arte
+👨🏿‍🎨:artista hombre,pintor,arte
+👩‍🎨:artista mujer,pintora,arte
+👩🏻‍🎨:artista mujer,pintora,arte
+👩🏼‍🎨:artista mujer,pintora,arte
+👩🏽‍🎨:artista mujer,pintora,arte
+👩🏾‍🎨:artista mujer,pintora,arte
+👩🏿‍🎨:artista mujer,pintora,arte
+🧑‍✈️:piloto,avión,aviación,vuelo,viaje
+🧑🏻‍✈️:piloto,avión,aviación,vuelo,viaje
+🧑🏼‍✈️:piloto,avión,aviación,vuelo,viaje
+🧑🏽‍✈️:piloto,avión,aviación,vuelo,viaje
+🧑🏾‍✈️:piloto,avión,aviación,vuelo,viaje
+🧑🏿‍✈️:piloto,avión,aviación,vuelo,viaje
+👨‍✈️:piloto hombre,avión,vuelo
+👨🏻‍✈️:piloto hombre,avión,vuelo
+👨🏼‍✈️:piloto hombre,avión,vuelo
+👨🏽‍✈️:piloto hombre,avión,vuelo
+👨🏾‍✈️:piloto hombre,avión,vuelo
+👨🏿‍✈️:piloto hombre,avión,vuelo
+👩‍✈️:piloto mujer,avión,vuelo
+👩🏻‍✈️:piloto mujer,avión,vuelo
+👩🏼‍✈️:piloto mujer,avión,vuelo
+👩🏽‍✈️:piloto mujer,avión,vuelo
+👩🏾‍✈️:piloto mujer,avión,vuelo
+👩🏿‍✈️:piloto mujer,avión,vuelo
+🧑‍🚀:astronauta,espacio,cohete,misión espacial,universo
+🧑🏻‍🚀:astronauta,espacio,cohete,misión espacial,universo
+🧑🏼‍🚀:astronauta,espacio,cohete,misión espacial,universo
+🧑🏽‍🚀:astronauta,espacio,cohete,misión espacial,universo
+🧑🏾‍🚀:astronauta,espacio,cohete,misión espacial,universo
+🧑🏿‍🚀:astronauta,espacio,cohete,misión espacial,universo
+👨‍🚀:astronauta hombre,espacio,cohete
+👨🏻‍🚀:astronauta hombre,espacio,cohete
+👨🏼‍🚀:astronauta hombre,espacio,cohete
+👨🏽‍🚀:astronauta hombre,espacio,cohete
+👨🏾‍🚀:astronauta hombre,espacio,cohete
+👨🏿‍🚀:astronauta hombre,espacio,cohete
+👩‍🚀:astronauta mujer,espacio,cohete
+👩🏻‍🚀:astronauta mujer,espacio,cohete
+👩🏼‍🚀:astronauta mujer,espacio,cohete
+👩🏽‍🚀:astronauta mujer,espacio,cohete
+👩🏾‍🚀:astronauta mujer,espacio,cohete
+👩🏿‍🚀:astronauta mujer,espacio,cohete
+🧑‍🚒:bombero,incendios,emergencia,rescate,seguridad
+🧑🏻‍🚒:bombero,incendios,emergencia,rescate,seguridad
+🧑🏼‍🚒:bombero,incendios,emergencia,rescate,seguridad
+🧑🏽‍🚒:bombero,incendios,emergencia,rescate,seguridad
+🧑🏾‍🚒:bombero,incendios,emergencia,rescate,seguridad
+🧑🏿‍🚒:bombero,incendios,emergencia,rescate,seguridad
+👨‍🚒:bombero,fuego,emergencia
+👨🏻‍🚒:bombero,fuego,emergencia
+👨🏼‍🚒:bombero,fuego,emergencia
+👨🏽‍🚒:bombero,fuego,emergencia
+👨🏾‍🚒:bombero,fuego,emergencia
+👨🏿‍🚒:bombero,fuego,emergencia
+👩‍🚒:bombera,fuego,emergencia
+👩🏻‍🚒:bombera,fuego,emergencia
+👩🏼‍🚒:bombera,fuego,emergencia
+👩🏽‍🚒:bombera,fuego,emergencia
+👩🏾‍🚒:bombera,fuego,emergencia
+👩🏿‍🚒:bombera,fuego,emergencia
+👮:policía,oficial,seguridad,ley
+👮🏻:policía,oficial,seguridad,ley
+👮🏼:policía,oficial,seguridad,ley
+👮🏽:policía,oficial,seguridad,ley
+👮🏾:policía,oficial,seguridad,ley
+👮🏿:policía,oficial,seguridad,ley
+👮‍♂️:policía,hombre policía,seguridad,ley,orden
+👮🏻‍♂️:policía,hombre policía,seguridad,ley,orden
+👮🏼‍♂️:policía,hombre policía,seguridad,ley,orden
+👮🏽‍♂️:policía,hombre policía,seguridad,ley,orden
+👮🏾‍♂️:policía,hombre policía,seguridad,ley,orden
+👮🏿‍♂️:policía,hombre policía,seguridad,ley,orden
+👮‍♀️:policía,mujer policía,seguridad,protección,ley
+👮🏻‍♀️:policía,mujer policía,seguridad,protección,ley
+👮🏼‍♀️:policía,mujer policía,seguridad,protección,ley
+👮🏽‍♀️:policía,mujer policía,seguridad,protección,ley
+👮🏾‍♀️:policía,mujer policía,seguridad,protección,ley
+👮🏿‍♀️:policía,mujer policía,seguridad,protección,ley
+🕵️:detective,espía,investigador,lupa
+🕵🏻:detective,espía,investigador,lupa
+🕵🏼:detective,espía,investigador,lupa
+🕵🏽:detective,espía,investigador,lupa
+🕵🏾:detective,espía,investigador,lupa
+🕵🏿:detective,espía,investigador,lupa
+🕵️‍♂️:detective,hombre investigador,misterio,espía,caso
+🕵🏻‍♂️:detective,hombre investigador,misterio,espía,caso
+🕵🏼‍♂️:detective,hombre investigador,misterio,espía,caso
+🕵🏽‍♂️:detective,hombre investigador,misterio,espía,caso
+🕵🏾‍♂️:detective,hombre investigador,misterio,espía,caso
+🕵🏿‍♂️:detective,hombre investigador,misterio,espía,caso
+🕵️‍♀️:detective,mujer investigadora,misterio,investigación,espía
+🕵🏻‍♀️:detective,mujer investigadora,misterio,investigación,espía
+🕵🏼‍♀️:detective,mujer investigadora,misterio,investigación,espía
+🕵🏽‍♀️:detective,mujer investigadora,misterio,investigación,espía
+🕵🏾‍♀️:detective,mujer investigadora,misterio,investigación,espía
+🕵🏿‍♀️:detective,mujer investigadora,misterio,investigación,espía
+💂:guardia,soldado,seguridad
+💂🏻:guardia,soldado,seguridad
+💂🏼:guardia,soldado,seguridad
+💂🏽:guardia,soldado,seguridad
+💂🏾:guardia,soldado,seguridad
+💂🏿:guardia,soldado,seguridad
+💂‍♂️:guardia,hombre guardia,protección,ceremonial,seguridad
+💂🏻‍♂️:guardia,hombre guardia,protección,ceremonial,seguridad
+💂🏼‍♂️:guardia,hombre guardia,protección,ceremonial,seguridad
+💂🏽‍♂️:guardia,hombre guardia,protección,ceremonial,seguridad
+💂🏾‍♂️:guardia,hombre guardia,protección,ceremonial,seguridad
+💂🏿‍♂️:guardia,hombre guardia,protección,ceremonial,seguridad
+💂‍♀️:guardia,mujer guardia,protección,seguridad,ceremonial
+💂🏻‍♀️:guardia,mujer guardia,protección,seguridad,ceremonial
+💂🏼‍♀️:guardia,mujer guardia,protección,seguridad,ceremonial
+💂🏽‍♀️:guardia,mujer guardia,protección,seguridad,ceremonial
+💂🏾‍♀️:guardia,mujer guardia,protección,seguridad,ceremonial
+💂🏿‍♀️:guardia,mujer guardia,protección,seguridad,ceremonial
+🥷:ninja,sombra,sigilo,espía,artes marciales
+🥷🏻:ninja,sombra,sigilo,espía,artes marciales
+🥷🏼:ninja,sombra,sigilo,espía,artes marciales
+🥷🏽:ninja,sombra,sigilo,espía,artes marciales
+🥷🏾:ninja,sombra,sigilo,espía,artes marciales
+🥷🏿:ninja,sombra,sigilo,espía,artes marciales
+👷:trabajador de construcción,obrero,casco
+👷🏻:trabajador de construcción,obrero,casco
+👷🏼:trabajador de construcción,obrero,casco
+👷🏽:trabajador de construcción,obrero,casco
+👷🏾:trabajador de construcción,obrero,casco
+👷🏿:trabajador de construcción,obrero,casco
+👷‍♂️:obrero construcción,hombre construcción,casco,obra,trabajo
+👷🏻‍♂️:obrero construcción,hombre construcción,casco,obra,trabajo
+👷🏼‍♂️:obrero construcción,hombre construcción,casco,obra,trabajo
+👷🏽‍♂️:obrero construcción,hombre construcción,casco,obra,trabajo
+👷🏾‍♂️:obrero construcción,hombre construcción,casco,obra,trabajo
+👷🏿‍♂️:obrero construcción,hombre construcción,casco,obra,trabajo
+👷‍♀️:obrera construcción,mujer construcción,casco,obra,ingeniería
+👷🏻‍♀️:obrera construcción,mujer construcción,casco,obra,ingeniería
+👷🏼‍♀️:obrera construcción,mujer construcción,casco,obra,ingeniería
+👷🏽‍♀️:obrera construcción,mujer construcción,casco,obra,ingeniería
+👷🏾‍♀️:obrera construcción,mujer construcción,casco,obra,ingeniería
+👷🏿‍♀️:obrera construcción,mujer construcción,casco,obra,ingeniería
+🫅:persona con corona,realeza,rey/reina,estatus,autoridad
+🫅🏻:persona con corona,realeza,rey/reina,estatus,autoridad
+🫅🏼:persona con corona,realeza,rey/reina,estatus,autoridad
+🫅🏽:persona con corona,realeza,rey/reina,estatus,autoridad
+🫅🏾:persona con corona,realeza,rey/reina,estatus,autoridad
+🫅🏿:persona con corona,realeza,rey/reina,estatus,autoridad
+🤴:príncipe,realeza,hombre,corona,cuento
+🤴🏻:príncipe,realeza,hombre,corona,cuento
+🤴🏼:príncipe,realeza,hombre,corona,cuento
+🤴🏽:príncipe,realeza,hombre,corona,cuento
+🤴🏾:príncipe,realeza,hombre,corona,cuento
+🤴🏿:príncipe,realeza,hombre,corona,cuento
+👸:princesa,realeza,mujer,corona,cuento
+👸🏻:princesa,realeza,mujer,corona,cuento
+👸🏼:princesa,realeza,mujer,corona,cuento
+👸🏽:princesa,realeza,mujer,corona,cuento
+👸🏾:princesa,realeza,mujer,corona,cuento
+👸🏿:princesa,realeza,mujer,corona,cuento
+👳:turbante,persona con turbante,cultura,tradición,vestimenta
+👳🏻:turbante,persona con turbante,cultura,tradición,vestimenta
+👳🏼:turbante,persona con turbante,cultura,tradición,vestimenta
+👳🏽:turbante,persona con turbante,cultura,tradición,vestimenta
+👳🏾:turbante,persona con turbante,cultura,tradición,vestimenta
+👳🏿:turbante,persona con turbante,cultura,tradición,vestimenta
+👳‍♂️:hombre turbante,tradición,cultura,vestimenta,identidad
+👳🏻‍♂️:hombre turbante,tradición,cultura,vestimenta,identidad
+👳🏼‍♂️:hombre turbante,tradición,cultura,vestimenta,identidad
+👳🏽‍♂️:hombre turbante,tradición,cultura,vestimenta,identidad
+👳🏾‍♂️:hombre turbante,tradición,cultura,vestimenta,identidad
+👳🏿‍♂️:hombre turbante,tradición,cultura,vestimenta,identidad
+👳‍♀️:mujer turbante,cultura,tradición,vestimenta,identidad
+👳🏻‍♀️:mujer turbante,cultura,tradición,vestimenta,identidad
+👳🏼‍♀️:mujer turbante,cultura,tradición,vestimenta,identidad
+👳🏽‍♀️:mujer turbante,cultura,tradición,vestimenta,identidad
+👳🏾‍♀️:mujer turbante,cultura,tradición,vestimenta,identidad
+👳🏿‍♀️:mujer turbante,cultura,tradición,vestimenta,identidad
+👲:hombre con gorro tradicional,cultura asiática,tradición,vestimenta,identidad
+👲🏻:hombre con gorro tradicional,cultura asiática,tradición,vestimenta,identidad
+👲🏼:hombre con gorro tradicional,cultura asiática,tradición,vestimenta,identidad
+👲🏽:hombre con gorro tradicional,cultura asiática,tradición,vestimenta,identidad
+👲🏾:hombre con gorro tradicional,cultura asiática,tradición,vestimenta,identidad
+👲🏿:hombre con gorro tradicional,cultura asiática,tradición,vestimenta,identidad
+🧕:mujer con velo,hijab,cultura,religión,modestia
+🧕🏻:mujer con velo,hijab,cultura,religión,modestia
+🧕🏼:mujer con velo,hijab,cultura,religión,modestia
+🧕🏽:mujer con velo,hijab,cultura,religión,modestia
+🧕🏾:mujer con velo,hijab,cultura,religión,modestia
+🧕🏿:mujer con velo,hijab,cultura,religión,modestia
+🤵:persona con esmoquin,elegante,formal,evento,vestimenta
+🤵🏻:persona con esmoquin,elegante,formal,evento,vestimenta
+🤵🏼:persona con esmoquin,elegante,formal,evento,vestimenta
+🤵🏽:persona con esmoquin,elegante,formal,evento,vestimenta
+🤵🏾:persona con esmoquin,elegante,formal,evento,vestimenta
+🤵🏿:persona con esmoquin,elegante,formal,evento,vestimenta
+🤵‍♂️:hombre esmoquin,boda,formal,elegante,eventos
+🤵🏻‍♂️:hombre esmoquin,boda,formal,elegante,eventos
+🤵🏼‍♂️:hombre esmoquin,boda,formal,elegante,eventos
+🤵🏽‍♂️:hombre esmoquin,boda,formal,elegante,eventos
+🤵🏾‍♂️:hombre esmoquin,boda,formal,elegante,eventos
+🤵🏿‍♂️:hombre esmoquin,boda,formal,elegante,eventos
+🤵‍♀️:mujer esmoquin,elegancia,formal,evento,estilo
+🤵🏻‍♀️:mujer esmoquin,elegancia,formal,evento,estilo
+🤵🏼‍♀️:mujer esmoquin,elegancia,formal,evento,estilo
+🤵🏽‍♀️:mujer esmoquin,elegancia,formal,evento,estilo
+🤵🏾‍♀️:mujer esmoquin,elegancia,formal,evento,estilo
+🤵🏿‍♀️:mujer esmoquin,elegancia,formal,evento,estilo
+👰:persona con velo,boda,matrimonio,novia,celebración
+👰🏻:persona con velo,boda,matrimonio,novia,celebración
+👰🏼:persona con velo,boda,matrimonio,novia,celebración
+👰🏽:persona con velo,boda,matrimonio,novia,celebración
+👰🏾:persona con velo,boda,matrimonio,novia,celebración
+👰🏿:persona con velo,boda,matrimonio,novia,celebración
+👰‍♂️:hombre con velo,boda,humor,matrimonio,role
+👰🏻‍♂️:hombre con velo,boda,humor,matrimonio,role
+👰🏼‍♂️:hombre con velo,boda,humor,matrimonio,role
+👰🏽‍♂️:hombre con velo,boda,humor,matrimonio,role
+👰🏾‍♂️:hombre con velo,boda,humor,matrimonio,role
+👰🏿‍♂️:hombre con velo,boda,humor,matrimonio,role
+👰‍♀️:mujer con velo,novia,boda,matrimonio,celebración
+👰🏻‍♀️:mujer con velo,novia,boda,matrimonio,celebración
+👰🏼‍♀️:mujer con velo,novia,boda,matrimonio,celebración
+👰🏽‍♀️:mujer con velo,novia,boda,matrimonio,celebración
+👰🏾‍♀️:mujer con velo,novia,boda,matrimonio,celebración
+👰🏿‍♀️:mujer con velo,novia,boda,matrimonio,celebración
+🤰:embarazo,gestación,maternidad,embarazada,bebé
+🤰🏻:embarazo,gestación,maternidad,embarazada,bebé
+🤰🏼:embarazo,gestación,maternidad,embarazada,bebé
+🤰🏽:embarazo,gestación,maternidad,embarazada,bebé
+🤰🏾:embarazo,gestación,maternidad,embarazada,bebé
+🤰🏿:embarazo,gestación,maternidad,embarazada,bebé
+🫃:hombre embarazado,humor,panza,embarazo ficticio,comedia
+🫃🏻:hombre embarazado,humor,panza,embarazo ficticio,comedia
+🫃🏼:hombre embarazado,humor,panza,embarazo ficticio,comedia
+🫃🏽:hombre embarazado,humor,panza,embarazo ficticio,comedia
+🫃🏾:hombre embarazado,humor,panza,embarazo ficticio,comedia
+🫃🏿:hombre embarazado,humor,panza,embarazo ficticio,comedia
+🫄:persona embarazada,gestación,embarazo,neutral,representación
+🫄🏻:persona embarazada,gestación,embarazo,neutral,representación
+🫄🏼:persona embarazada,gestación,embarazo,neutral,representación
+🫄🏽:persona embarazada,gestación,embarazo,neutral,representación
+🫄🏾:persona embarazada,gestación,embarazo,neutral,representación
+🫄🏿:persona embarazada,gestación,embarazo,neutral,representación
+🤱:lactancia,amamantar,maternidad,bebé,cuidado
+🤱🏻:lactancia,amamantar,maternidad,bebé,cuidado
+🤱🏼:lactancia,amamantar,maternidad,bebé,cuidado
+🤱🏽:lactancia,amamantar,maternidad,bebé,cuidado
+🤱🏾:lactancia,amamantar,maternidad,bebé,cuidado
+🤱🏿:lactancia,amamantar,maternidad,bebé,cuidado
+👩‍🍼:mujer alimentando bebé,cuidados maternales,crianza,lactancia,bebé
+👩🏻‍🍼:mujer alimentando bebé,cuidados maternales,crianza,lactancia,bebé
+👩🏼‍🍼:mujer alimentando bebé,cuidados maternales,crianza,lactancia,bebé
+👩🏽‍🍼:mujer alimentando bebé,cuidados maternales,crianza,lactancia,bebé
+👩🏾‍🍼:mujer alimentando bebé,cuidados maternales,crianza,lactancia,bebé
+👩🏿‍🍼:mujer alimentando bebé,cuidados maternales,crianza,lactancia,bebé
+👨‍🍼:hombre alimentando bebé,paternidad,cuidado,bebé,crianza
+👨🏻‍🍼:hombre alimentando bebé,paternidad,cuidado,bebé,crianza
+👨🏼‍🍼:hombre alimentando bebé,paternidad,cuidado,bebé,crianza
+👨🏽‍🍼:hombre alimentando bebé,paternidad,cuidado,bebé,crianza
+👨🏾‍🍼:hombre alimentando bebé,paternidad,cuidado,bebé,crianza
+👨🏿‍🍼:hombre alimentando bebé,paternidad,cuidado,bebé,crianza
+🧑‍🍼:persona alimentando bebé,cuidado,crianza,bebé,parental
+🧑🏻‍🍼:persona alimentando bebé,cuidado,crianza,bebé,parental
+🧑🏼‍🍼:persona alimentando bebé,cuidado,crianza,bebé,parental
+🧑🏽‍🍼:persona alimentando bebé,cuidado,crianza,bebé,parental
+🧑🏾‍🍼:persona alimentando bebé,cuidado,crianza,bebé,parental
+🧑🏿‍🍼:persona alimentando bebé,cuidado,crianza,bebé,parental
+👼:ángel,bebé ángel,ternura,pureza,espiritual
+👼🏻:ángel,bebé ángel,ternura,pureza,espiritual
+👼🏼:ángel,bebé ángel,ternura,pureza,espiritual
+👼🏽:ángel,bebé ángel,ternura,pureza,espiritual
+👼🏾:ángel,bebé ángel,ternura,pureza,espiritual
+👼🏿:ángel,bebé ángel,ternura,pureza,espiritual
+🎅:Santa Claus,Navidad,regalos,fiestas,invierno
+🎅🏻:Santa Claus,Navidad,regalos,fiestas,invierno
+🎅🏼:Santa Claus,Navidad,regalos,fiestas,invierno
+🎅🏽:Santa Claus,Navidad,regalos,fiestas,invierno
+🎅🏾:Santa Claus,Navidad,regalos,fiestas,invierno
+🎅🏿:Santa Claus,Navidad,regalos,fiestas,invierno
+🤶:señora Claus,Navidad,fiestas,regalos,invierno
+🤶🏻:señora Claus,Navidad,fiestas,regalos,invierno
+🤶🏼:señora Claus,Navidad,fiestas,regalos,invierno
+🤶🏽:señora Claus,Navidad,fiestas,regalos,invierno
+🤶🏾:señora Claus,Navidad,fiestas,regalos,invierno
+🤶🏿:señora Claus,Navidad,fiestas,regalos,invierno
+🧑‍🎄:persona navideña,elfo moderno,Navidad,fiestas,celebración
+🧑🏻‍🎄:persona navideña,elfo moderno,Navidad,fiestas,celebración
+🧑🏼‍🎄:persona navideña,elfo moderno,Navidad,fiestas,celebración
+🧑🏽‍🎄:persona navideña,elfo moderno,Navidad,fiestas,celebración
+🧑🏾‍🎄:persona navideña,elfo moderno,Navidad,fiestas,celebración
+🧑🏿‍🎄:persona navideña,elfo moderno,Navidad,fiestas,celebración
+🦸:superhéroe,poderes,héroe,justicia,acción
+🦸🏻:superhéroe,poderes,héroe,justicia,acción
+🦸🏼:superhéroe,poderes,héroe,justicia,acción
+🦸🏽:superhéroe,poderes,héroe,justicia,acción
+🦸🏾:superhéroe,poderes,héroe,justicia,acción
+🦸🏿:superhéroe,poderes,héroe,justicia,acción
+🦸‍♂️:superhéroe hombre,héroe masculino,poder,acción,justicia
+🦸🏻‍♂️:superhéroe hombre,héroe masculino,poder,acción,justicia
+🦸🏼‍♂️:superhéroe hombre,héroe masculino,poder,acción,justicia
+🦸🏽‍♂️:superhéroe hombre,héroe masculino,poder,acción,justicia
+🦸🏾‍♂️:superhéroe hombre,héroe masculino,poder,acción,justicia
+🦸🏿‍♂️:superhéroe hombre,héroe masculino,poder,acción,justicia
+🦸‍♀️:superhéroe mujer,heroína,poderes,acción,justicia
+🦸🏻‍♀️:superhéroe mujer,heroína,poderes,acción,justicia
+🦸🏼‍♀️:superhéroe mujer,heroína,poderes,acción,justicia
+🦸🏽‍♀️:superhéroe mujer,heroína,poderes,acción,justicia
+🦸🏾‍♀️:superhéroe mujer,heroína,poderes,acción,justicia
+🦸🏿‍♀️:superhéroe mujer,heroína,poderes,acción,justicia
+🦹:supervillano,villano,poderes oscuros,malvado,acción
+🦹🏻:supervillano,villano,poderes oscuros,malvado,acción
+🦹🏼:supervillano,villano,poderes oscuros,malvado,acción
+🦹🏽:supervillano,villano,poderes oscuros,malvado,acción
+🦹🏾:supervillano,villano,poderes oscuros,malvado,acción
+🦹🏿:supervillano,villano,poderes oscuros,malvado,acción
+🦹‍♂️:villano hombre,supervillano,malvado,acción,poder oscuro
+🦹🏻‍♂️:villano hombre,supervillano,malvado,acción,poder oscuro
+🦹🏼‍♂️:villano hombre,supervillano,malvado,acción,poder oscuro
+🦹🏽‍♂️:villano hombre,supervillano,malvado,acción,poder oscuro
+🦹🏾‍♂️:villano hombre,supervillano,malvado,acción,poder oscuro
+🦹🏿‍♂️:villano hombre,supervillano,malvado,acción,poder oscuro
+🦹‍♀️:villana mujer,supervillana,malvada,acción,poder oscuro
+🦹🏻‍♀️:villana mujer,supervillana,malvada,acción,poder oscuro
+🦹🏼‍♀️:villana mujer,supervillana,malvada,acción,poder oscuro
+🦹🏽‍♀️:villana mujer,supervillana,malvada,acción,poder oscuro
+🦹🏾‍♀️:villana mujer,supervillana,malvada,acción,poder oscuro
+🦹🏿‍♀️:villana mujer,supervillana,malvada,acción,poder oscuro
+🧙:mago,magia,hechicería,hechizo,fantasía
+🧙🏻:mago,magia,hechicería,hechizo,fantasía
+🧙🏼:mago,magia,hechicería,hechizo,fantasía
+🧙🏽:mago,magia,hechicería,hechizo,fantasía
+🧙🏾:mago,magia,hechicería,hechizo,fantasía
+🧙🏿:mago,magia,hechicería,hechizo,fantasía
+🧙‍♂️:mago hombre,hechicero,magia,encantamientos,fantasía
+🧙🏻‍♂️:mago hombre,hechicero,magia,encantamientos,fantasía
+🧙🏼‍♂️:mago hombre,hechicero,magia,encantamientos,fantasía
+🧙🏽‍♂️:mago hombre,hechicero,magia,encantamientos,fantasía
+🧙🏾‍♂️:mago hombre,hechicero,magia,encantamientos,fantasía
+🧙🏿‍♂️:mago hombre,hechicero,magia,encantamientos,fantasía
+🧙‍♀️:maga mujer,hechicera,magia,hechizos,fantasía
+🧙🏻‍♀️:maga mujer,hechicera,magia,hechizos,fantasía
+🧙🏼‍♀️:maga mujer,hechicera,magia,hechizos,fantasía
+🧙🏽‍♀️:maga mujer,hechicera,magia,hechizos,fantasía
+🧙🏾‍♀️:maga mujer,hechicera,magia,hechizos,fantasía
+🧙🏿‍♀️:maga mujer,hechicera,magia,hechizos,fantasía
+🧚:hada,magia,cuento,alas,fantasía
+🧚🏻:hada,magia,cuento,alas,fantasía
+🧚🏼:hada,magia,cuento,alas,fantasía
+🧚🏽:hada,magia,cuento,alas,fantasía
+🧚🏾:hada,magia,cuento,alas,fantasía
+🧚🏿:hada,magia,cuento,alas,fantasía
+🧚‍♂️:hada hombre,hada masculina,magia,fantasía,cuento
+🧚🏻‍♂️:hada hombre,hada masculina,magia,fantasía,cuento
+🧚🏼‍♂️:hada hombre,hada masculina,magia,fantasía,cuento
+🧚🏽‍♂️:hada hombre,hada masculina,magia,fantasía,cuento
+🧚🏾‍♂️:hada hombre,hada masculina,magia,fantasía,cuento
+🧚🏿‍♂️:hada hombre,hada masculina,magia,fantasía,cuento
+🧚‍♀️:hada mujer,hada femenina,magia,cuento,ternura
+🧚🏻‍♀️:hada mujer,hada femenina,magia,cuento,ternura
+🧚🏼‍♀️:hada mujer,hada femenina,magia,cuento,ternura
+🧚🏽‍♀️:hada mujer,hada femenina,magia,cuento,ternura
+🧚🏾‍♀️:hada mujer,hada femenina,magia,cuento,ternura
+🧚🏿‍♀️:hada mujer,hada femenina,magia,cuento,ternura
+🧛:vampiro,sangre,nocturno,dracula,terror
+🧛🏻:vampiro,sangre,nocturno,dracula,terror
+🧛🏼:vampiro,sangre,nocturno,dracula,terror
+🧛🏽:vampiro,sangre,nocturno,dracula,terror
+🧛🏾:vampiro,sangre,nocturno,dracula,terror
+🧛🏿:vampiro,sangre,nocturno,dracula,terror
+🧛‍♂️:vampiro hombre,drácula,terror,noche,sangre
+🧛🏻‍♂️:vampiro hombre,drácula,terror,noche,sangre
+🧛🏼‍♂️:vampiro hombre,drácula,terror,noche,sangre
+🧛🏽‍♂️:vampiro hombre,drácula,terror,noche,sangre
+🧛🏾‍♂️:vampiro hombre,drácula,terror,noche,sangre
+🧛🏿‍♂️:vampiro hombre,drácula,terror,noche,sangre
+🧛‍♀️:vampira mujer,terror,nocturna,sangre,fantasía oscura
+🧛🏻‍♀️:vampira mujer,terror,nocturna,sangre,fantasía oscura
+🧛🏼‍♀️:vampira mujer,terror,nocturna,sangre,fantasía oscura
+🧛🏽‍♀️:vampira mujer,terror,nocturna,sangre,fantasía oscura
+🧛🏾‍♀️:vampira mujer,terror,nocturna,sangre,fantasía oscura
+🧛🏿‍♀️:vampira mujer,terror,nocturna,sangre,fantasía oscura
+🧜:sirena,mar,criatura marina,mitología,océano
+🧜🏻:sirena,mar,criatura marina,mitología,océano
+🧜🏼:sirena,mar,criatura marina,mitología,océano
+🧜🏽:sirena,mar,criatura marina,mitología,océano
+🧜🏾:sirena,mar,criatura marina,mitología,océano
+🧜🏿:sirena,mar,criatura marina,mitología,océano
+🧜‍♂️:tritón,sireno,hombre mar,mitología,océano
+🧜🏻‍♂️:tritón,sireno,hombre mar,mitología,océano
+🧜🏼‍♂️:tritón,sireno,hombre mar,mitología,océano
+🧜🏽‍♂️:tritón,sireno,hombre mar,mitología,océano
+🧜🏾‍♂️:tritón,sireno,hombre mar,mitología,océano
+🧜🏿‍♂️:tritón,sireno,hombre mar,mitología,océano
+🧜‍♀️:sirena mujer,mar,mitología,océano,fantasía
+🧜🏻‍♀️:sirena mujer,mar,mitología,océano,fantasía
+🧜🏼‍♀️:sirena mujer,mar,mitología,océano,fantasía
+🧜🏽‍♀️:sirena mujer,mar,mitología,océano,fantasía
+🧜🏾‍♀️:sirena mujer,mar,mitología,océano,fantasía
+🧜🏿‍♀️:sirena mujer,mar,mitología,océano,fantasía
+🧝:elfo,magia,fantasía,bosque,criatura mística
+🧝🏻:elfo,magia,fantasía,bosque,criatura mística
+🧝🏼:elfo,magia,fantasía,bosque,criatura mística
+🧝🏽:elfo,magia,fantasía,bosque,criatura mística
+🧝🏾:elfo,magia,fantasía,bosque,criatura mística
+🧝🏿:elfo,magia,fantasía,bosque,criatura mística
+🧝‍♂️:elfo hombre,fantasía,arquería,magia,bosque
+🧝🏻‍♂️:elfo hombre,fantasía,arquería,magia,bosque
+🧝🏼‍♂️:elfo hombre,fantasía,arquería,magia,bosque
+🧝🏽‍♂️:elfo hombre,fantasía,arquería,magia,bosque
+🧝🏾‍♂️:elfo hombre,fantasía,arquería,magia,bosque
+🧝🏿‍♂️:elfo hombre,fantasía,arquería,magia,bosque
+🧝‍♀️:elfa mujer,fantasía,magia,bosque,criatura mágica
+🧝🏻‍♀️:elfa mujer,fantasía,magia,bosque,criatura mágica
+🧝🏼‍♀️:elfa mujer,fantasía,magia,bosque,criatura mágica
+🧝🏽‍♀️:elfa mujer,fantasía,magia,bosque,criatura mágica
+🧝🏾‍♀️:elfa mujer,fantasía,magia,bosque,criatura mágica
+🧝🏿‍♀️:elfa mujer,fantasía,magia,bosque,criatura mágica
+🧞:genio,lámpara,deseos,magia,concesión
+🧞‍♂️:genio hombre,deseos,magia,lámpara,cuento
+🧞‍♀️:genio mujer,deseos,magia,cuento,hechizo
+🧟:zombi,muerto viviente,apocalipsis,terror,infectado
+🧟‍♂️:zombi hombre,apocalipsis,terror,infectado,muerto viviente
+🧟‍♀️:zombi mujer,terror,apocalipsis,infectado,muerto viviente
+🧌:troll,criatura,mitología,grotesco,fantasía
+🫈:esfuerzo,empuje,cargar,levantar,fuerza,trabajo físico
+💆:masaje,relajación,spa,bienestar,descanso
+💆🏻:masaje,relajación,spa,bienestar,descanso
+💆🏼:masaje,relajación,spa,bienestar,descanso
+💆🏽:masaje,relajación,spa,bienestar,descanso
+💆🏾:masaje,relajación,spa,bienestar,descanso
+💆🏿:masaje,relajación,spa,bienestar,descanso
+💆‍♂️:masaje hombre,spa,relajación,bienestar,estrés
+💆🏻‍♂️:masaje hombre,spa,relajación,bienestar,estrés
+💆🏼‍♂️:masaje hombre,spa,relajación,bienestar,estrés
+💆🏽‍♂️:masaje hombre,spa,relajación,bienestar,estrés
+💆🏾‍♂️:masaje hombre,spa,relajación,bienestar,estrés
+💆🏿‍♂️:masaje hombre,spa,relajación,bienestar,estrés
+💆‍♀️:masaje mujer,spa,relajación,autocuidado,bienestar
+💆🏻‍♀️:masaje mujer,spa,relajación,autocuidado,bienestar
+💆🏼‍♀️:masaje mujer,spa,relajación,autocuidado,bienestar
+💆🏽‍♀️:masaje mujer,spa,relajación,autocuidado,bienestar
+💆🏾‍♀️:masaje mujer,spa,relajación,autocuidado,bienestar
+💆🏿‍♀️:masaje mujer,spa,relajación,autocuidado,bienestar
+💇:corte de cabello,peluquería,estilo,cambio look,barbería
+💇🏻:corte de cabello,peluquería,estilo,cambio look,barbería
+💇🏼:corte de cabello,peluquería,estilo,cambio look,barbería
+💇🏽:corte de cabello,peluquería,estilo,cambio look,barbería
+💇🏾:corte de cabello,peluquería,estilo,cambio look,barbería
+💇🏿:corte de cabello,peluquería,estilo,cambio look,barbería
+💇‍♂️:corte hombre,peluquero,barbería,estilo,corte
+💇🏻‍♂️:corte hombre,peluquero,barbería,estilo,corte
+💇🏼‍♂️:corte hombre,peluquero,barbería,estilo,corte
+💇🏽‍♂️:corte hombre,peluquero,barbería,estilo,corte
+💇🏾‍♂️:corte hombre,peluquero,barbería,estilo,corte
+💇🏿‍♂️:corte hombre,peluquero,barbería,estilo,corte
+💇‍♀️:corte mujer,peluquería,estilo,cambio look,belleza
+💇🏻‍♀️:corte mujer,peluquería,estilo,cambio look,belleza
+💇🏼‍♀️:corte mujer,peluquería,estilo,cambio look,belleza
+💇🏽‍♀️:corte mujer,peluquería,estilo,cambio look,belleza
+💇🏾‍♀️:corte mujer,peluquería,estilo,cambio look,belleza
+💇🏿‍♀️:corte mujer,peluquería,estilo,cambio look,belleza
+🚶:caminar,paseo,movimiento,andar,desplazamiento
+🚶🏻:caminar,paseo,movimiento,andar,desplazamiento
+🚶🏼:caminar,paseo,movimiento,andar,desplazamiento
+🚶🏽:caminar,paseo,movimiento,andar,desplazamiento
+🚶🏾:caminar,paseo,movimiento,andar,desplazamiento
+🚶🏿:caminar,paseo,movimiento,andar,desplazamiento
+🚶‍♂️:hombre caminando,paseo,caminar,movimiento,viaje
+🚶🏻‍♂️:hombre caminando,paseo,caminar,movimiento,viaje
+🚶🏼‍♂️:hombre caminando,paseo,caminar,movimiento,viaje
+🚶🏽‍♂️:hombre caminando,paseo,caminar,movimiento,viaje
+🚶🏾‍♂️:hombre caminando,paseo,caminar,movimiento,viaje
+🚶🏿‍♂️:hombre caminando,paseo,caminar,movimiento,viaje
+🚶‍♀️:mujer caminando,paseo,caminar,desplazamiento,vida diaria
+🚶🏻‍♀️:mujer caminando,paseo,caminar,desplazamiento,vida diaria
+🚶🏼‍♀️:mujer caminando,paseo,caminar,desplazamiento,vida diaria
+🚶🏽‍♀️:mujer caminando,paseo,caminar,desplazamiento,vida diaria
+🚶🏾‍♀️:mujer caminando,paseo,caminar,desplazamiento,vida diaria
+🚶🏿‍♀️:mujer caminando,paseo,caminar,desplazamiento,vida diaria
+🚶‍➡️:caminar hacia adelante,dirección,avanzar,movimiento,progreso
+🚶🏻‍➡️:caminar hacia adelante,dirección,avanzar,movimiento,progreso
+🚶🏼‍➡️:caminar hacia adelante,dirección,avanzar,movimiento,progreso
+🚶🏽‍➡️:caminar hacia adelante,dirección,avanzar,movimiento,progreso
+🚶🏾‍➡️:caminar hacia adelante,dirección,avanzar,movimiento,progreso
+🚶🏿‍➡️:caminar hacia adelante,dirección,avanzar,movimiento,progreso
+🚶‍♀️‍➡️:mujer avanzando,caminar hacia adelante,progreso,movimiento,dirección
+🚶🏻‍♀️‍➡️:mujer avanzando,caminar hacia adelante,progreso,movimiento,dirección
+🚶🏼‍♀️‍➡️:mujer avanzando,caminar hacia adelante,progreso,movimiento,dirección
+🚶🏽‍♀️‍➡️:mujer avanzando,caminar hacia adelante,progreso,movimiento,dirección
+🚶🏾‍♀️‍➡️:mujer avanzando,caminar hacia adelante,progreso,movimiento,dirección
+🚶🏿‍♀️‍➡️:mujer avanzando,caminar hacia adelante,progreso,movimiento,dirección
+🚶‍♂️‍➡️:hombre avanzando,caminar,progreso,dirección,movimiento
+🚶🏻‍♂️‍➡️:hombre avanzando,caminar,progreso,dirección,movimiento
+🚶🏼‍♂️‍➡️:hombre avanzando,caminar,progreso,dirección,movimiento
+🚶🏽‍♂️‍➡️:hombre avanzando,caminar,progreso,dirección,movimiento
+🚶🏾‍♂️‍➡️:hombre avanzando,caminar,progreso,dirección,movimiento
+🚶🏿‍♂️‍➡️:hombre avanzando,caminar,progreso,dirección,movimiento
+🧍:persona de pie,quieto,espera,parado,posición,inactivo
+🧍🏻:persona de pie,quieto,espera,parado,posición,inactivo
+🧍🏼:persona de pie,quieto,espera,parado,posición,inactivo
+🧍🏽:persona de pie,quieto,espera,parado,posición,inactivo
+🧍🏾:persona de pie,quieto,espera,parado,posición,inactivo
+🧍🏿:persona de pie,quieto,espera,parado,posición,inactivo
+🧍‍♂️:hombre de pie,esperando,quieto,posición,parado
+🧍🏻‍♂️:hombre de pie,esperando,quieto,posición,parado
+🧍🏼‍♂️:hombre de pie,esperando,quieto,posición,parado
+🧍🏽‍♂️:hombre de pie,esperando,quieto,posición,parado
+🧍🏾‍♂️:hombre de pie,esperando,quieto,posición,parado
+🧍🏿‍♂️:hombre de pie,esperando,quieto,posición,parado
+🧍‍♀️:mujer de pie,espera,quieta,posición,parada
+🧍🏻‍♀️:mujer de pie,espera,quieta,posición,parada
+🧍🏼‍♀️:mujer de pie,espera,quieta,posición,parada
+🧍🏽‍♀️:mujer de pie,espera,quieta,posición,parada
+🧍🏾‍♀️:mujer de pie,espera,quieta,posición,parada
+🧍🏿‍♀️:mujer de pie,espera,quieta,posición,parada
+🧎:arrodillado,oración,respecto,plegaria,sumisión
+🧎🏻:arrodillado,oración,respecto,plegaria,sumisión
+🧎🏼:arrodillado,oración,respecto,plegaria,sumisión
+🧎🏽:arrodillado,oración,respecto,plegaria,sumisión
+🧎🏾:arrodillado,oración,respecto,plegaria,sumisión
+🧎🏿:arrodillado,oración,respecto,plegaria,sumisión
+🧎‍♂️:hombre arrodillado,oración,respeto,plegaria,devoción
+🧎🏻‍♂️:hombre arrodillado,oración,respeto,plegaria,devoción
+🧎🏼‍♂️:hombre arrodillado,oración,respeto,plegaria,devoción
+🧎🏽‍♂️:hombre arrodillado,oración,respeto,plegaria,devoción
+🧎🏾‍♂️:hombre arrodillado,oración,respeto,plegaria,devoción
+🧎🏿‍♂️:hombre arrodillado,oración,respeto,plegaria,devoción
+🧎‍♀️:mujer arrodillada,oración,respeto,devoción,plegaria
+🧎🏻‍♀️:mujer arrodillada,oración,respeto,devoción,plegaria
+🧎🏼‍♀️:mujer arrodillada,oración,respeto,devoción,plegaria
+🧎🏽‍♀️:mujer arrodillada,oración,respeto,devoción,plegaria
+🧎🏾‍♀️:mujer arrodillada,oración,respeto,devoción,plegaria
+🧎🏿‍♀️:mujer arrodillada,oración,respeto,devoción,plegaria
+🧎‍➡️:arrodillarse hacia adelante,posición,movimiento,acción,dirección
+🧎🏻‍➡️:arrodillarse hacia adelante,posición,movimiento,acción,dirección
+🧎🏼‍➡️:arrodillarse hacia adelante,posición,movimiento,acción,dirección
+🧎🏽‍➡️:arrodillarse hacia adelante,posición,movimiento,acción,dirección
+🧎🏾‍➡️:arrodillarse hacia adelante,posición,movimiento,acción,dirección
+🧎🏿‍➡️:arrodillarse hacia adelante,posición,movimiento,acción,dirección
+🧎‍♀️‍➡️:mujer arrodillada avanzando,acción,movimiento,dirección,posición
+🧎🏻‍♀️‍➡️:mujer arrodillada avanzando,acción,movimiento,dirección,posición
+🧎🏼‍♀️‍➡️:mujer arrodillada avanzando,acción,movimiento,dirección,posición
+🧎🏽‍♀️‍➡️:mujer arrodillada avanzando,acción,movimiento,dirección,posición
+🧎🏾‍♀️‍➡️:mujer arrodillada avanzando,acción,movimiento,dirección,posición
+🧎🏿‍♀️‍➡️:mujer arrodillada avanzando,acción,movimiento,dirección,posición
+🧎‍♂️‍➡️:hombre arrodillado avanzando,acción,movimiento,dirección,desplazamiento
+🧎🏻‍♂️‍➡️:hombre arrodillado avanzando,acción,movimiento,dirección,desplazamiento
+🧎🏼‍♂️‍➡️:hombre arrodillado avanzando,acción,movimiento,dirección,desplazamiento
+🧎🏽‍♂️‍➡️:hombre arrodillado avanzando,acción,movimiento,dirección,desplazamiento
+🧎🏾‍♂️‍➡️:hombre arrodillado avanzando,acción,movimiento,dirección,desplazamiento
+🧎🏿‍♂️‍➡️:hombre arrodillado avanzando,acción,movimiento,dirección,desplazamiento
+🧑‍🦯:persona con bastón blanco,ceguera,accesibilidad,orientación,caminar
+🧑🏻‍🦯:persona con bastón blanco,ceguera,accesibilidad,orientación,caminar
+🧑🏼‍🦯:persona con bastón blanco,ceguera,accesibilidad,orientación,caminar
+🧑🏽‍🦯:persona con bastón blanco,ceguera,accesibilidad,orientación,caminar
+🧑🏾‍🦯:persona con bastón blanco,ceguera,accesibilidad,orientación,caminar
+🧑🏿‍🦯:persona con bastón blanco,ceguera,accesibilidad,orientación,caminar
+🧑‍🦯‍➡️:persona con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+🧑🏻‍🦯‍➡️:persona con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+🧑🏼‍🦯‍➡️:persona con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+🧑🏽‍🦯‍➡️:persona con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+🧑🏾‍🦯‍➡️:persona con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+🧑🏿‍🦯‍➡️:persona con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👨‍🦯:hombre con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👨🏻‍🦯:hombre con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👨🏼‍🦯:hombre con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👨🏽‍🦯:hombre con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👨🏾‍🦯:hombre con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👨🏿‍🦯:hombre con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👨‍🦯‍➡️:hombre con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👨🏻‍🦯‍➡️:hombre con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👨🏼‍🦯‍➡️:hombre con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👨🏽‍🦯‍➡️:hombre con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👨🏾‍🦯‍➡️:hombre con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👨🏿‍🦯‍➡️:hombre con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👩‍🦯:mujer con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👩🏻‍🦯:mujer con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👩🏼‍🦯:mujer con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👩🏽‍🦯:mujer con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👩🏾‍🦯:mujer con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👩🏿‍🦯:mujer con bastón blanco,ceguera,accesibilidad,caminar,orientación
+👩‍🦯‍➡️:mujer con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👩🏻‍🦯‍➡️:mujer con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👩🏼‍🦯‍➡️:mujer con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👩🏽‍🦯‍➡️:mujer con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👩🏾‍🦯‍➡️:mujer con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+👩🏿‍🦯‍➡️:mujer con bastón avanzando,orientación,movimiento,accesibilidad,dirección
+🧑‍🦼:persona en silla eléctrica,movilidad,accesibilidad,transporte,discapacidad
+🧑🏻‍🦼:persona en silla eléctrica,movilidad,accesibilidad,transporte,discapacidad
+🧑🏼‍🦼:persona en silla eléctrica,movilidad,accesibilidad,transporte,discapacidad
+🧑🏽‍🦼:persona en silla eléctrica,movilidad,accesibilidad,transporte,discapacidad
+🧑🏾‍🦼:persona en silla eléctrica,movilidad,accesibilidad,transporte,discapacidad
+🧑🏿‍🦼:persona en silla eléctrica,movilidad,accesibilidad,transporte,discapacidad
+🧑‍🦼‍➡️:persona en silla eléctrica avanzando,movimiento,accesibilidad,dirección,movilidad
+🧑🏻‍🦼‍➡️:persona en silla eléctrica avanzando,movimiento,accesibilidad,dirección,movilidad
+🧑🏼‍🦼‍➡️:persona en silla eléctrica avanzando,movimiento,accesibilidad,dirección,movilidad
+🧑🏽‍🦼‍➡️:persona en silla eléctrica avanzando,movimiento,accesibilidad,dirección,movilidad
+🧑🏾‍🦼‍➡️:persona en silla eléctrica avanzando,movimiento,accesibilidad,dirección,movilidad
+🧑🏿‍🦼‍➡️:persona en silla eléctrica avanzando,movimiento,accesibilidad,dirección,movilidad
+👨‍🦼:hombre en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👨🏻‍🦼:hombre en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👨🏼‍🦼:hombre en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👨🏽‍🦼:hombre en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👨🏾‍🦼:hombre en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👨🏿‍🦼:hombre en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👨‍🦼‍➡️:hombre en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👨🏻‍🦼‍➡️:hombre en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👨🏼‍🦼‍➡️:hombre en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👨🏽‍🦼‍➡️:hombre en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👨🏾‍🦼‍➡️:hombre en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👨🏿‍🦼‍➡️:hombre en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👩‍🦼:mujer en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👩🏻‍🦼:mujer en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👩🏼‍🦼:mujer en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👩🏽‍🦼:mujer en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👩🏾‍🦼:mujer en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👩🏿‍🦼:mujer en silla eléctrica,movilidad,accesibilidad,discapacidad,transporte
+👩‍🦼‍➡️:mujer en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👩🏻‍🦼‍➡️:mujer en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👩🏼‍🦼‍➡️:mujer en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👩🏽‍🦼‍➡️:mujer en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👩🏾‍🦼‍➡️:mujer en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+👩🏿‍🦼‍➡️:mujer en silla eléctrica avanzando,movimiento,accesibilidad,dirección
+🧑‍🦽:persona en silla manual,movilidad,accesibilidad,discapacidad,transporte
+🧑🏻‍🦽:persona en silla manual,movilidad,accesibilidad,discapacidad,transporte
+🧑🏼‍🦽:persona en silla manual,movilidad,accesibilidad,discapacidad,transporte
+🧑🏽‍🦽:persona en silla manual,movilidad,accesibilidad,discapacidad,transporte
+🧑🏾‍🦽:persona en silla manual,movilidad,accesibilidad,discapacidad,transporte
+🧑🏿‍🦽:persona en silla manual,movilidad,accesibilidad,discapacidad,transporte
+🧑‍🦽‍➡️:persona en silla manual avanzando,movimiento,accesibilidad,dirección
+🧑🏻‍🦽‍➡️:persona en silla manual avanzando,movimiento,accesibilidad,dirección
+🧑🏼‍🦽‍➡️:persona en silla manual avanzando,movimiento,accesibilidad,dirección
+🧑🏽‍🦽‍➡️:persona en silla manual avanzando,movimiento,accesibilidad,dirección
+🧑🏾‍🦽‍➡️:persona en silla manual avanzando,movimiento,accesibilidad,dirección
+🧑🏿‍🦽‍➡️:persona en silla manual avanzando,movimiento,accesibilidad,dirección
+👨‍🦽:hombre en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👨🏻‍🦽:hombre en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👨🏼‍🦽:hombre en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👨🏽‍🦽:hombre en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👨🏾‍🦽:hombre en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👨🏿‍🦽:hombre en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👨‍🦽‍➡️:hombre en silla manual avanzando,movimiento,accesibilidad,dirección
+👨🏻‍🦽‍➡️:hombre en silla manual avanzando,movimiento,accesibilidad,dirección
+👨🏼‍🦽‍➡️:hombre en silla manual avanzando,movimiento,accesibilidad,dirección
+👨🏽‍🦽‍➡️:hombre en silla manual avanzando,movimiento,accesibilidad,dirección
+👨🏾‍🦽‍➡️:hombre en silla manual avanzando,movimiento,accesibilidad,dirección
+👨🏿‍🦽‍➡️:hombre en silla manual avanzando,movimiento,accesibilidad,dirección
+👩‍🦽:mujer en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👩🏻‍🦽:mujer en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👩🏼‍🦽:mujer en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👩🏽‍🦽:mujer en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👩🏾‍🦽:mujer en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👩🏿‍🦽:mujer en silla manual,movilidad,accesibilidad,discapacidad,transporte
+👩‍🦽‍➡️:mujer en silla manual avanzando,movimiento,accesibilidad,dirección
+👩🏻‍🦽‍➡️:mujer en silla manual avanzando,movimiento,accesibilidad,dirección
+👩🏼‍🦽‍➡️:mujer en silla manual avanzando,movimiento,accesibilidad,dirección
+👩🏽‍🦽‍➡️:mujer en silla manual avanzando,movimiento,accesibilidad,dirección
+👩🏾‍🦽‍➡️:mujer en silla manual avanzando,movimiento,accesibilidad,dirección
+👩🏿‍🦽‍➡️:mujer en silla manual avanzando,movimiento,accesibilidad,dirección
+🏃:correr,carrera,velocidad,ejercicio,atletismo
+🏃🏻:correr,carrera,velocidad,ejercicio,atletismo
+🏃🏼:correr,carrera,velocidad,ejercicio,atletismo
+🏃🏽:correr,carrera,velocidad,ejercicio,atletismo
+🏃🏾:correr,carrera,velocidad,ejercicio,atletismo
+🏃🏿:correr,carrera,velocidad,ejercicio,atletismo
+🏃‍♂️:hombre corriendo,carrera,ejercicio,velocidad,deporte
+🏃🏻‍♂️:hombre corriendo,carrera,ejercicio,velocidad,deporte
+🏃🏼‍♂️:hombre corriendo,carrera,ejercicio,velocidad,deporte
+🏃🏽‍♂️:hombre corriendo,carrera,ejercicio,velocidad,deporte
+🏃🏾‍♂️:hombre corriendo,carrera,ejercicio,velocidad,deporte
+🏃🏿‍♂️:hombre corriendo,carrera,ejercicio,velocidad,deporte
+🏃‍♀️:mujer corriendo,carrera,ejercicio,fitness,velocidad
+🏃🏻‍♀️:mujer corriendo,carrera,ejercicio,fitness,velocidad
+🏃🏼‍♀️:mujer corriendo,carrera,ejercicio,fitness,velocidad
+🏃🏽‍♀️:mujer corriendo,carrera,ejercicio,fitness,velocidad
+🏃🏾‍♀️:mujer corriendo,carrera,ejercicio,fitness,velocidad
+🏃🏿‍♀️:mujer corriendo,carrera,ejercicio,fitness,velocidad
+🏃‍➡️:correr hacia adelante,avanzar,velocidad,movimiento,progreso
+🏃🏻‍➡️:correr hacia adelante,avanzar,velocidad,movimiento,progreso
+🏃🏼‍➡️:correr hacia adelante,avanzar,velocidad,movimiento,progreso
+🏃🏽‍➡️:correr hacia adelante,avanzar,velocidad,movimiento,progreso
+🏃🏾‍➡️:correr hacia adelante,avanzar,velocidad,movimiento,progreso
+🏃🏿‍➡️:correr hacia adelante,avanzar,velocidad,movimiento,progreso
+🏃‍♀️‍➡️:mujer corriendo hacia adelante,velocidad,movimiento,progreso,ejercicio
+🏃🏻‍♀️‍➡️:mujer corriendo hacia adelante,velocidad,movimiento,progreso,ejercicio
+🏃🏼‍♀️‍➡️:mujer corriendo hacia adelante,velocidad,movimiento,progreso,ejercicio
+🏃🏽‍♀️‍➡️:mujer corriendo hacia adelante,velocidad,movimiento,progreso,ejercicio
+🏃🏾‍♀️‍➡️:mujer corriendo hacia adelante,velocidad,movimiento,progreso,ejercicio
+🏃🏿‍♀️‍➡️:mujer corriendo hacia adelante,velocidad,movimiento,progreso,ejercicio
+🏃‍♂️‍➡️:hombre corriendo hacia adelante,velocidad,movimiento,progreso,atletismo
+🏃🏻‍♂️‍➡️:hombre corriendo hacia adelante,velocidad,movimiento,progreso,atletismo
+🏃🏼‍♂️‍➡️:hombre corriendo hacia adelante,velocidad,movimiento,progreso,atletismo
+🏃🏽‍♂️‍➡️:hombre corriendo hacia adelante,velocidad,movimiento,progreso,atletismo
+🏃🏾‍♂️‍➡️:hombre corriendo hacia adelante,velocidad,movimiento,progreso,atletismo
+🏃🏿‍♂️‍➡️:hombre corriendo hacia adelante,velocidad,movimiento,progreso,atletismo
+🧑‍🩰:bailarín ballet,danza,arte,danza clásica,expresión
+🧑🏻‍🩰:bailarín ballet,danza,arte,danza clásica,expresión
+🧑🏼‍🩰:bailarín ballet,danza,arte,danza clásica,expresión
+🧑🏽‍🩰:bailarín ballet,danza,arte,danza clásica,expresión
+🧑🏾‍🩰:bailarín ballet,danza,arte,danza clásica,expresión
+🧑🏿‍🩰:bailarín ballet,danza,arte,danza clásica,expresión
+💃:mujer bailando,danza,salsa,fiesta,ritmo
+💃🏻:mujer bailando,danza,salsa,fiesta,ritmo
+💃🏼:mujer bailando,danza,salsa,fiesta,ritmo
+💃🏽:mujer bailando,danza,salsa,fiesta,ritmo
+💃🏾:mujer bailando,danza,salsa,fiesta,ritmo
+💃🏿:mujer bailando,danza,salsa,fiesta,ritmo
+🕺:hombre bailando,baile,fiesta,ritmo,discoteca
+🕺🏻:hombre bailando,baile,fiesta,ritmo,discoteca
+🕺🏼:hombre bailando,baile,fiesta,ritmo,discoteca
+🕺🏽:hombre bailando,baile,fiesta,ritmo,discoteca
+🕺🏾:hombre bailando,baile,fiesta,ritmo,discoteca
+🕺🏿:hombre bailando,baile,fiesta,ritmo,discoteca
+🕴️:hombre flotando,traje,espía,humor,acción
+🕴🏻:hombre flotando,traje,espía,humor,acción
+🕴🏼:hombre flotando,traje,espía,humor,acción
+🕴🏽:hombre flotando,traje,espía,humor,acción
+🕴🏾:hombre flotando,traje,espía,humor,acción
+🕴🏿:hombre flotando,traje,espía,humor,acción
+👯:personas bailando,conejitas,fiesta,baile,diversión
+👯🏻:personas bailando,conejitas,fiesta,baile,diversión
+👯🏼:personas bailando,conejitas,fiesta,baile,diversión
+👯🏽:personas bailando,conejitas,fiesta,baile,diversión
+👯🏾:personas bailando,conejitas,fiesta,baile,diversión
+👯🏿:personas bailando,conejitas,fiesta,baile,diversión
+👯‍♂️:hombres bailando,fiesta,baile,diversión,grupo
+👯🏻‍♂️:hombres bailando,fiesta,baile,diversión,grupo
+👯🏼‍♂️:hombres bailando,fiesta,baile,diversión,grupo
+👯🏽‍♂️:hombres bailando,fiesta,baile,diversión,grupo
+👯🏾‍♂️:hombres bailando,fiesta,baile,diversión,grupo
+👯🏿‍♂️:hombres bailando,fiesta,baile,diversión,grupo
+👯‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
+👯🏻‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
+👯🏼‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
+👯🏽‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
+👯🏾‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
+👯🏿‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
+🧑🏻‍🐰‍🧑🏼:people with bunny ears: light skin tone, medium-light skin tone
+🧑🏻‍🐰‍🧑🏽:people with bunny ears: light skin tone, medium skin tone
+🧑🏻‍🐰‍🧑🏾:people with bunny ears: light skin tone, medium-dark skin tone
+🧑🏻‍🐰‍🧑🏿:people with bunny ears: light skin tone, dark skin tone
+🧑🏼‍🐰‍🧑🏻:people with bunny ears: medium-light skin tone, light skin tone
+🧑🏼‍🐰‍🧑🏽:people with bunny ears: medium-light skin tone, medium skin tone
+🧑🏼‍🐰‍🧑🏾:people with bunny ears: medium-light skin tone, medium-dark skin tone
+🧑🏼‍🐰‍🧑🏿:people with bunny ears: medium-light skin tone, dark skin tone
+🧑🏽‍🐰‍🧑🏻:people with bunny ears: medium skin tone, light skin tone
+🧑🏽‍🐰‍🧑🏼:people with bunny ears: medium skin tone, medium-light skin tone
+🧑🏽‍🐰‍🧑🏾:people with bunny ears: medium skin tone, medium-dark skin tone
+🧑🏽‍🐰‍🧑🏿:people with bunny ears: medium skin tone, dark skin tone
+🧑🏾‍🐰‍🧑🏻:people with bunny ears: medium-dark skin tone, light skin tone
+🧑🏾‍🐰‍🧑🏼:people with bunny ears: medium-dark skin tone, medium-light skin tone
+🧑🏾‍🐰‍🧑🏽:people with bunny ears: medium-dark skin tone, medium skin tone
+🧑🏾‍🐰‍🧑🏿:people with bunny ears: medium-dark skin tone, dark skin tone
+🧑🏿‍🐰‍🧑🏻:people with bunny ears: dark skin tone, light skin tone
+🧑🏿‍🐰‍🧑🏼:people with bunny ears: dark skin tone, medium-light skin tone
+🧑🏿‍🐰‍🧑🏽:people with bunny ears: dark skin tone, medium skin tone
+🧑🏿‍🐰‍🧑🏾:people with bunny ears: dark skin tone, medium-dark skin tone
+👨🏻‍🐰‍👨🏼:men with bunny ears: light skin tone, medium-light skin tone
+👨🏻‍🐰‍👨🏽:men with bunny ears: light skin tone, medium skin tone
+👨🏻‍🐰‍👨🏾:men with bunny ears: light skin tone, medium-dark skin tone
+👨🏻‍🐰‍👨🏿:men with bunny ears: light skin tone, dark skin tone
+👨🏼‍🐰‍👨🏻:men with bunny ears: medium-light skin tone, light skin tone
+👨🏼‍🐰‍👨🏽:men with bunny ears: medium-light skin tone, medium skin tone
+👨🏼‍🐰‍👨🏾:men with bunny ears: medium-light skin tone, medium-dark skin tone
+👨🏼‍🐰‍👨🏿:men with bunny ears: medium-light skin tone, dark skin tone
+👨🏽‍🐰‍👨🏻:men with bunny ears: medium skin tone, light skin tone
+👨🏽‍🐰‍👨🏼:men with bunny ears: medium skin tone, medium-light skin tone
+👨🏽‍🐰‍👨🏾:men with bunny ears: medium skin tone, medium-dark skin tone
+👨🏽‍🐰‍👨🏿:men with bunny ears: medium skin tone, dark skin tone
+👨🏾‍🐰‍👨🏻:men with bunny ears: medium-dark skin tone, light skin tone
+👨🏾‍🐰‍👨🏼:men with bunny ears: medium-dark skin tone, medium-light skin tone
+👨🏾‍🐰‍👨🏽:men with bunny ears: medium-dark skin tone, medium skin tone
+👨🏾‍🐰‍👨🏿:men with bunny ears: medium-dark skin tone, dark skin tone
+👨🏿‍🐰‍👨🏻:men with bunny ears: dark skin tone, light skin tone
+👨🏿‍🐰‍👨🏼:men with bunny ears: dark skin tone, medium-light skin tone
+👨🏿‍🐰‍👨🏽:men with bunny ears: dark skin tone, medium skin tone
+👨🏿‍🐰‍👨🏾:men with bunny ears: dark skin tone, medium-dark skin tone
+👩🏻‍🐰‍👩🏼:women with bunny ears: light skin tone, medium-light skin tone
+👩🏻‍🐰‍👩🏽:women with bunny ears: light skin tone, medium skin tone
+👩🏻‍🐰‍👩🏾:women with bunny ears: light skin tone, medium-dark skin tone
+👩🏻‍🐰‍👩🏿:women with bunny ears: light skin tone, dark skin tone
+👩🏼‍🐰‍👩🏻:women with bunny ears: medium-light skin tone, light skin tone
+👩🏼‍🐰‍👩🏽:women with bunny ears: medium-light skin tone, medium skin tone
+👩🏼‍🐰‍👩🏾:women with bunny ears: medium-light skin tone, medium-dark skin tone
+👩🏼‍🐰‍👩🏿:women with bunny ears: medium-light skin tone, dark skin tone
+👩🏽‍🐰‍👩🏻:women with bunny ears: medium skin tone, light skin tone
+👩🏽‍🐰‍👩🏼:women with bunny ears: medium skin tone, medium-light skin tone
+👩🏽‍🐰‍👩🏾:women with bunny ears: medium skin tone, medium-dark skin tone
+👩🏽‍🐰‍👩🏿:women with bunny ears: medium skin tone, dark skin tone
+👩🏾‍🐰‍👩🏻:women with bunny ears: medium-dark skin tone, light skin tone
+👩🏾‍🐰‍👩🏼:women with bunny ears: medium-dark skin tone, medium-light skin tone
+👩🏾‍🐰‍👩🏽:women with bunny ears: medium-dark skin tone, medium skin tone
+👩🏾‍🐰‍👩🏿:women with bunny ears: medium-dark skin tone, dark skin tone
+👩🏿‍🐰‍👩🏻:women with bunny ears: dark skin tone, light skin tone
+👩🏿‍🐰‍👩🏼:women with bunny ears: dark skin tone, medium-light skin tone
+👩🏿‍🐰‍👩🏽:women with bunny ears: dark skin tone, medium skin tone
+👩🏿‍🐰‍👩🏾:women with bunny ears: dark skin tone, medium-dark skin tone
+🧖:sauna,spa,relajación,calor,bienestar
+🧖🏻:sauna,spa,relajación,calor,bienestar
+🧖🏼:sauna,spa,relajación,calor,bienestar
+🧖🏽:sauna,spa,relajación,calor,bienestar
+🧖🏾:sauna,spa,relajación,calor,bienestar
+🧖🏿:sauna,spa,relajación,calor,bienestar
+🧖‍♂️:hombre en sauna,relajación,spa,calor,bienestar
+🧖🏻‍♂️:hombre en sauna,relajación,spa,calor,bienestar
+🧖🏼‍♂️:hombre en sauna,relajación,spa,calor,bienestar
+🧖🏽‍♂️:hombre en sauna,relajación,spa,calor,bienestar
+🧖🏾‍♂️:hombre en sauna,relajación,spa,calor,bienestar
+🧖🏿‍♂️:hombre en sauna,relajación,spa,calor,bienestar
+🧖‍♀️:mujer en sauna,relajación,spa,autocuidado,bienestar
+🧖🏻‍♀️:mujer en sauna,relajación,spa,autocuidado,bienestar
+🧖🏼‍♀️:mujer en sauna,relajación,spa,autocuidado,bienestar
+🧖🏽‍♀️:mujer en sauna,relajación,spa,autocuidado,bienestar
+🧖🏾‍♀️:mujer en sauna,relajación,spa,autocuidado,bienestar
+🧖🏿‍♀️:mujer en sauna,relajación,spa,autocuidado,bienestar
+🧗:escalada,roca,alpinismo,aventura,subida
+🧗🏻:escalada,roca,alpinismo,aventura,subida
+🧗🏼:escalada,roca,alpinismo,aventura,subida
+🧗🏽:escalada,roca,alpinismo,aventura,subida
+🧗🏾:escalada,roca,alpinismo,aventura,subida
+🧗🏿:escalada,roca,alpinismo,aventura,subida
+🧗‍♂️:hombre escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏻‍♂️:hombre escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏼‍♂️:hombre escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏽‍♂️:hombre escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏾‍♂️:hombre escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏿‍♂️:hombre escalando,alpinismo,roca,aventura,esfuerzo
+🧗‍♀️:mujer escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏻‍♀️:mujer escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏼‍♀️:mujer escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏽‍♀️:mujer escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏾‍♀️:mujer escalando,alpinismo,roca,aventura,esfuerzo
+🧗🏿‍♀️:mujer escalando,alpinismo,roca,aventura,esfuerzo
+🤺:esgrima,espada,duelo,deporte,competición
+🏇:carrera de caballos,hipismo,equitación,velocidad,deporte
+🏇🏻:carrera de caballos,hipismo,equitación,velocidad,deporte
+🏇🏼:carrera de caballos,hipismo,equitación,velocidad,deporte
+🏇🏽:carrera de caballos,hipismo,equitación,velocidad,deporte
+🏇🏾:carrera de caballos,hipismo,equitación,velocidad,deporte
+🏇🏿:carrera de caballos,hipismo,equitación,velocidad,deporte
+⛷️:esquí,nieve,invierno,descenso,deporte
+🏂:snowboard,nieve,invierno,deporte,acción
+🏂🏻:snowboard,nieve,invierno,deporte,acción
+🏂🏼:snowboard,nieve,invierno,deporte,acción
+🏂🏽:snowboard,nieve,invierno,deporte,acción
+🏂🏾:snowboard,nieve,invierno,deporte,acción
+🏂🏿:snowboard,nieve,invierno,deporte,acción
+🏌️:golf,deporte,pelota,campo,precisión
+🏌🏻:person golfing: light skin tone
+🏌🏼:person golfing: medium-light skin tone
+🏌🏽:person golfing: medium skin tone
+🏌🏾:person golfing: medium-dark skin tone
+🏌🏿:person golfing: dark skin tone
+🏌️‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
+🏌🏻‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
+🏌🏼‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
+🏌🏽‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
+🏌🏾‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
+🏌🏿‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
+🏌️‍♀️:mujer jugando golf,deporte,precisión,campo,pelota
+🏌🏻‍♀️:mujer jugando golf,deporte,precisión,campo,pelota
+🏌🏼‍♀️:mujer jugando golf,deporte,precisión,campo,pelota
+🏌🏽‍♀️:mujer jugando golf,deporte,precisión,campo,pelota
+🏌🏾‍♀️:mujer jugando golf,deporte,precisión,campo,pelota
+🏌🏿‍♀️:mujer jugando golf,deporte,precisión,campo,pelota
+🏄:surf,olas,mar,deporte,playa
+🏄🏻:surf,olas,mar,deporte,playa
+🏄🏼:surf,olas,mar,deporte,playa
+🏄🏽:surf,olas,mar,deporte,playa
+🏄🏾:surf,olas,mar,deporte,playa
+🏄🏿:surf,olas,mar,deporte,playa
+🏄‍♂️:hombre surfeando,olas,mar,deporte,playa
+🏄🏻‍♂️:hombre surfeando,olas,mar,deporte,playa
+🏄🏼‍♂️:hombre surfeando,olas,mar,deporte,playa
+🏄🏽‍♂️:hombre surfeando,olas,mar,deporte,playa
+🏄🏾‍♂️:hombre surfeando,olas,mar,deporte,playa
+🏄🏿‍♂️:hombre surfeando,olas,mar,deporte,playa
+🏄‍♀️:mujer surfeando,olas,mar,deporte,playa
+🏄🏻‍♀️:mujer surfeando,olas,mar,deporte,playa
+🏄🏼‍♀️:mujer surfeando,olas,mar,deporte,playa
+🏄🏽‍♀️:mujer surfeando,olas,mar,deporte,playa
+🏄🏾‍♀️:mujer surfeando,olas,mar,deporte,playa
+🏄🏿‍♀️:mujer surfeando,olas,mar,deporte,playa
+🚣:remo,bote,agua,deporte,navegación
+🚣🏻:remo,bote,agua,deporte,navegación
+🚣🏼:remo,bote,agua,deporte,navegación
+🚣🏽:remo,bote,agua,deporte,navegación
+🚣🏾:remo,bote,agua,deporte,navegación
+🚣🏿:remo,bote,agua,deporte,navegación
+🚣‍♂️:hombre remando,bote,agua,deporte,navegación
+🚣🏻‍♂️:hombre remando,bote,agua,deporte,navegación
+🚣🏼‍♂️:hombre remando,bote,agua,deporte,navegación
+🚣🏽‍♂️:hombre remando,bote,agua,deporte,navegación
+🚣🏾‍♂️:hombre remando,bote,agua,deporte,navegación
+🚣🏿‍♂️:hombre remando,bote,agua,deporte,navegación
+🚣‍♀️:mujer remando,bote,agua,deporte,navegación
+🚣🏻‍♀️:mujer remando,bote,agua,deporte,navegación
+🚣🏼‍♀️:mujer remando,bote,agua,deporte,navegación
+🚣🏽‍♀️:mujer remando,bote,agua,deporte,navegación
+🚣🏾‍♀️:mujer remando,bote,agua,deporte,navegación
+🚣🏿‍♀️:mujer remando,bote,agua,deporte,navegación
+🏊:nadar,piscina,agua,deporte,swimming
+🏊🏻:nadar,piscina,agua,deporte,swimming
+🏊🏼:nadar,piscina,agua,deporte,swimming
+🏊🏽:nadar,piscina,agua,deporte,swimming
+🏊🏾:nadar,piscina,agua,deporte,swimming
+🏊🏿:nadar,piscina,agua,deporte,swimming
+🏊‍♂️:hombre nadando,piscina,agua,deporte,entrenamiento
+🏊🏻‍♂️:hombre nadando,piscina,agua,deporte,entrenamiento
+🏊🏼‍♂️:hombre nadando,piscina,agua,deporte,entrenamiento
+🏊🏽‍♂️:hombre nadando,piscina,agua,deporte,entrenamiento
+🏊🏾‍♂️:hombre nadando,piscina,agua,deporte,entrenamiento
+🏊🏿‍♂️:hombre nadando,piscina,agua,deporte,entrenamiento
+🏊‍♀️:mujer nadando,piscina,agua,deporte,fitness
+🏊🏻‍♀️:mujer nadando,piscina,agua,deporte,fitness
+🏊🏼‍♀️:mujer nadando,piscina,agua,deporte,fitness
+🏊🏽‍♀️:mujer nadando,piscina,agua,deporte,fitness
+🏊🏾‍♀️:mujer nadando,piscina,agua,deporte,fitness
+🏊🏿‍♀️:mujer nadando,piscina,agua,deporte,fitness
+⛹️:persona con balón,baloncesto,deporte,driblar,juego
+⛹🏻:persona con balón,baloncesto,deporte,driblar,juego
+⛹🏼:persona con balón,baloncesto,deporte,driblar,juego
+⛹🏽:persona con balón,baloncesto,deporte,driblar,juego
+⛹🏾:persona con balón,baloncesto,deporte,driblar,juego
+⛹🏿:persona con balón,baloncesto,deporte,driblar,juego
+⛹️‍♂️:hombre jugando baloncesto,deporte,cancha,balón,acción
+⛹🏻‍♂️:hombre jugando baloncesto,deporte,cancha,balón,acción
+⛹🏼‍♂️:hombre jugando baloncesto,deporte,cancha,balón,acción
+⛹🏽‍♂️:hombre jugando baloncesto,deporte,cancha,balón,acción
+⛹🏾‍♂️:hombre jugando baloncesto,deporte,cancha,balón,acción
+⛹🏿‍♂️:hombre jugando baloncesto,deporte,cancha,balón,acción
+⛹️‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
+⛹🏻‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
+⛹🏼‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
+⛹🏽‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
+⛹🏾‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
+⛹🏿‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
+🏋️:levantamiento de pesas,gimnasio,fuerza,entrenamiento,fitness
+🏋🏻:person lifting weights: light skin tone
+🏋🏼:person lifting weights: medium-light skin tone
+🏋🏽:person lifting weights: medium skin tone
+🏋🏾:person lifting weights: medium-dark skin tone
+🏋🏿:person lifting weights: dark skin tone
+🏋️‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
+🏋🏻‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
+🏋🏼‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
+🏋🏽‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
+🏋🏾‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
+🏋🏿‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
+🏋️‍♀️:mujer levantando pesas,gimnasio,fitness,fuerza,entrenamiento
+🏋🏻‍♀️:mujer levantando pesas,gimnasio,fitness,fuerza,entrenamiento
+🏋🏼‍♀️:mujer levantando pesas,gimnasio,fitness,fuerza,entrenamiento
+🏋🏽‍♀️:mujer levantando pesas,gimnasio,fitness,fuerza,entrenamiento
+🏋🏾‍♀️:mujer levantando pesas,gimnasio,fitness,fuerza,entrenamiento
+🏋🏿‍♀️:mujer levantando pesas,gimnasio,fitness,fuerza,entrenamiento
+🚴:ciclismo,bicicleta,rodar,deporte,aire libre
+🚴🏻:ciclismo,bicicleta,rodar,deporte,aire libre
+🚴🏼:ciclismo,bicicleta,rodar,deporte,aire libre
+🚴🏽:ciclismo,bicicleta,rodar,deporte,aire libre
+🚴🏾:ciclismo,bicicleta,rodar,deporte,aire libre
+🚴🏿:ciclismo,bicicleta,rodar,deporte,aire libre
+🚴‍♂️:hombre en bicicleta,ciclismo,deporte,carretera,entrenamiento
+🚴🏻‍♂️:hombre en bicicleta,ciclismo,deporte,carretera,entrenamiento
+🚴🏼‍♂️:hombre en bicicleta,ciclismo,deporte,carretera,entrenamiento
+🚴🏽‍♂️:hombre en bicicleta,ciclismo,deporte,carretera,entrenamiento
+🚴🏾‍♂️:hombre en bicicleta,ciclismo,deporte,carretera,entrenamiento
+🚴🏿‍♂️:hombre en bicicleta,ciclismo,deporte,carretera,entrenamiento
+🚴‍♀️:mujer en bicicleta,ciclismo,deporte,fitness,aire libre
+🚴🏻‍♀️:mujer en bicicleta,ciclismo,deporte,fitness,aire libre
+🚴🏼‍♀️:mujer en bicicleta,ciclismo,deporte,fitness,aire libre
+🚴🏽‍♀️:mujer en bicicleta,ciclismo,deporte,fitness,aire libre
+🚴🏾‍♀️:mujer en bicicleta,ciclismo,deporte,fitness,aire libre
+🚴🏿‍♀️:mujer en bicicleta,ciclismo,deporte,fitness,aire libre
+🚵:bicicleta de montaña,MTB,naturaleza,aventura,deporte
+🚵🏻:bicicleta de montaña,MTB,naturaleza,aventura,deporte
+🚵🏼:bicicleta de montaña,MTB,naturaleza,aventura,deporte
+🚵🏽:bicicleta de montaña,MTB,naturaleza,aventura,deporte
+🚵🏾:bicicleta de montaña,MTB,naturaleza,aventura,deporte
+🚵🏿:bicicleta de montaña,MTB,naturaleza,aventura,deporte
+🚵‍♂️:hombre MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏻‍♂️:hombre MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏼‍♂️:hombre MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏽‍♂️:hombre MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏾‍♂️:hombre MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏿‍♂️:hombre MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵‍♀️:mujer MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏻‍♀️:mujer MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏼‍♀️:mujer MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏽‍♀️:mujer MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏾‍♀️:mujer MTB,bicicleta montaña,aventura,deporte,naturaleza
+🚵🏿‍♀️:mujer MTB,bicicleta montaña,aventura,deporte,naturaleza
+🤸:acrobacia,voltereta,gimnasia,flexibilidad,ejercicio
+🤸🏻:acrobacia,voltereta,gimnasia,flexibilidad,ejercicio
+🤸🏼:acrobacia,voltereta,gimnasia,flexibilidad,ejercicio
+🤸🏽:acrobacia,voltereta,gimnasia,flexibilidad,ejercicio
+🤸🏾:acrobacia,voltereta,gimnasia,flexibilidad,ejercicio
+🤸🏿:acrobacia,voltereta,gimnasia,flexibilidad,ejercicio
+🤸‍♂️:hombre haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏻‍♂️:hombre haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏼‍♂️:hombre haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏽‍♂️:hombre haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏾‍♂️:hombre haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏿‍♂️:hombre haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸‍♀️:mujer haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏻‍♀️:mujer haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏼‍♀️:mujer haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏽‍♀️:mujer haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏾‍♀️:mujer haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤸🏿‍♀️:mujer haciendo acrobacia,gimnasia,voltereta,flexibilidad,deporte
+🤼:lucha,combate,ring,deporte,competencia
+🤼🏻:lucha,combate,ring,deporte,competencia
+🤼🏼:lucha,combate,ring,deporte,competencia
+🤼🏽:lucha,combate,ring,deporte,competencia
+🤼🏾:lucha,combate,ring,deporte,competencia
+🤼🏿:lucha,combate,ring,deporte,competencia
+🤼‍♂️:hombres luchando,combate,deporte,wrestling,competencia
+🤼🏻‍♂️:hombres luchando,combate,deporte,wrestling,competencia
+🤼🏼‍♂️:hombres luchando,combate,deporte,wrestling,competencia
+🤼🏽‍♂️:hombres luchando,combate,deporte,wrestling,competencia
+🤼🏾‍♂️:hombres luchando,combate,deporte,wrestling,competencia
+🤼🏿‍♂️:hombres luchando,combate,deporte,wrestling,competencia
+🤼‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
+🤼🏻‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
+🤼🏼‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
+🤼🏽‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
+🤼🏾‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
+🤼🏿‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
+🧑🏻‍🫯‍🧑🏼:people wrestling: light skin tone, medium-light skin tone
+🧑🏻‍🫯‍🧑🏽:people wrestling: light skin tone, medium skin tone
+🧑🏻‍🫯‍🧑🏾:people wrestling: light skin tone, medium-dark skin tone
+🧑🏻‍🫯‍🧑🏿:people wrestling: light skin tone, dark skin tone
+🧑🏼‍🫯‍🧑🏻:people wrestling: medium-light skin tone, light skin tone
+🧑🏼‍🫯‍🧑🏽:people wrestling: medium-light skin tone, medium skin tone
+🧑🏼‍🫯‍🧑🏾:people wrestling: medium-light skin tone, medium-dark skin tone
+🧑🏼‍🫯‍🧑🏿:people wrestling: medium-light skin tone, dark skin tone
+🧑🏽‍🫯‍🧑🏻:people wrestling: medium skin tone, light skin tone
+🧑🏽‍🫯‍🧑🏼:people wrestling: medium skin tone, medium-light skin tone
+🧑🏽‍🫯‍🧑🏾:people wrestling: medium skin tone, medium-dark skin tone
+🧑🏽‍🫯‍🧑🏿:people wrestling: medium skin tone, dark skin tone
+🧑🏾‍🫯‍🧑🏻:people wrestling: medium-dark skin tone, light skin tone
+🧑🏾‍🫯‍🧑🏼:people wrestling: medium-dark skin tone, medium-light skin tone
+🧑🏾‍🫯‍🧑🏽:people wrestling: medium-dark skin tone, medium skin tone
+🧑🏾‍🫯‍🧑🏿:people wrestling: medium-dark skin tone, dark skin tone
+🧑🏿‍🫯‍🧑🏻:people wrestling: dark skin tone, light skin tone
+🧑🏿‍🫯‍🧑🏼:people wrestling: dark skin tone, medium-light skin tone
+🧑🏿‍🫯‍🧑🏽:people wrestling: dark skin tone, medium skin tone
+🧑🏿‍🫯‍🧑🏾:people wrestling: dark skin tone, medium-dark skin tone
+👨🏻‍🫯‍👨🏼:men wrestling: light skin tone, medium-light skin tone
+👨🏻‍🫯‍👨🏽:men wrestling: light skin tone, medium skin tone
+👨🏻‍🫯‍👨🏾:men wrestling: light skin tone, medium-dark skin tone
+👨🏻‍🫯‍👨🏿:men wrestling: light skin tone, dark skin tone
+👨🏼‍🫯‍👨🏻:men wrestling: medium-light skin tone, light skin tone
+👨🏼‍🫯‍👨🏽:men wrestling: medium-light skin tone, medium skin tone
+👨🏼‍🫯‍👨🏾:men wrestling: medium-light skin tone, medium-dark skin tone
+👨🏼‍🫯‍👨🏿:men wrestling: medium-light skin tone, dark skin tone
+👨🏽‍🫯‍👨🏻:men wrestling: medium skin tone, light skin tone
+👨🏽‍🫯‍👨🏼:men wrestling: medium skin tone, medium-light skin tone
+👨🏽‍🫯‍👨🏾:men wrestling: medium skin tone, medium-dark skin tone
+👨🏽‍🫯‍👨🏿:men wrestling: medium skin tone, dark skin tone
+👨🏾‍🫯‍👨🏻:men wrestling: medium-dark skin tone, light skin tone
+👨🏾‍🫯‍👨🏼:men wrestling: medium-dark skin tone, medium-light skin tone
+👨🏾‍🫯‍👨🏽:men wrestling: medium-dark skin tone, medium skin tone
+👨🏾‍🫯‍👨🏿:men wrestling: medium-dark skin tone, dark skin tone
+👨🏿‍🫯‍👨🏻:men wrestling: dark skin tone, light skin tone
+👨🏿‍🫯‍👨🏼:men wrestling: dark skin tone, medium-light skin tone
+👨🏿‍🫯‍👨🏽:men wrestling: dark skin tone, medium skin tone
+👨🏿‍🫯‍👨🏾:men wrestling: dark skin tone, medium-dark skin tone
+👩🏻‍🫯‍👩🏼:women wrestling: light skin tone, medium-light skin tone
+👩🏻‍🫯‍👩🏽:women wrestling: light skin tone, medium skin tone
+👩🏻‍🫯‍👩🏾:women wrestling: light skin tone, medium-dark skin tone
+👩🏻‍🫯‍👩🏿:women wrestling: light skin tone, dark skin tone
+👩🏼‍🫯‍👩🏻:women wrestling: medium-light skin tone, light skin tone
+👩🏼‍🫯‍👩🏽:women wrestling: medium-light skin tone, medium skin tone
+👩🏼‍🫯‍👩🏾:women wrestling: medium-light skin tone, medium-dark skin tone
+👩🏼‍🫯‍👩🏿:women wrestling: medium-light skin tone, dark skin tone
+👩🏽‍🫯‍👩🏻:women wrestling: medium skin tone, light skin tone
+👩🏽‍🫯‍👩🏼:women wrestling: medium skin tone, medium-light skin tone
+👩🏽‍🫯‍👩🏾:women wrestling: medium skin tone, medium-dark skin tone
+👩🏽‍🫯‍👩🏿:women wrestling: medium skin tone, dark skin tone
+👩🏾‍🫯‍👩🏻:women wrestling: medium-dark skin tone, light skin tone
+👩🏾‍🫯‍👩🏼:women wrestling: medium-dark skin tone, medium-light skin tone
+👩🏾‍🫯‍👩🏽:women wrestling: medium-dark skin tone, medium skin tone
+👩🏾‍🫯‍👩🏿:women wrestling: medium-dark skin tone, dark skin tone
+👩🏿‍🫯‍👩🏻:women wrestling: dark skin tone, light skin tone
+👩🏿‍🫯‍👩🏼:women wrestling: dark skin tone, medium-light skin tone
+👩🏿‍🫯‍👩🏽:women wrestling: dark skin tone, medium skin tone
+👩🏿‍🫯‍👩🏾:women wrestling: dark skin tone, medium-dark skin tone
+🤽:waterpolo,agua,deporte,competición,piscina
+🤽🏻:waterpolo,agua,deporte,competición,piscina
+🤽🏼:waterpolo,agua,deporte,competición,piscina
+🤽🏽:waterpolo,agua,deporte,competición,piscina
+🤽🏾:waterpolo,agua,deporte,competición,piscina
+🤽🏿:waterpolo,agua,deporte,competición,piscina
+🤽‍♂️:hombre waterpolo,agua,deporte,competencia,piscina
+🤽🏻‍♂️:hombre waterpolo,agua,deporte,competencia,piscina
+🤽🏼‍♂️:hombre waterpolo,agua,deporte,competencia,piscina
+🤽🏽‍♂️:hombre waterpolo,agua,deporte,competencia,piscina
+🤽🏾‍♂️:hombre waterpolo,agua,deporte,competencia,piscina
+🤽🏿‍♂️:hombre waterpolo,agua,deporte,competencia,piscina
+🤽‍♀️:mujer waterpolo,agua,deporte,competencia,piscina
+🤽🏻‍♀️:mujer waterpolo,agua,deporte,competencia,piscina
+🤽🏼‍♀️:mujer waterpolo,agua,deporte,competencia,piscina
+🤽🏽‍♀️:mujer waterpolo,agua,deporte,competencia,piscina
+🤽🏾‍♀️:mujer waterpolo,agua,deporte,competencia,piscina
+🤽🏿‍♀️:mujer waterpolo,agua,deporte,competencia,piscina
+🤾:balonmano,deporte,balón,cancha,competición
+🤾🏻:balonmano,deporte,balón,cancha,competición
+🤾🏼:balonmano,deporte,balón,cancha,competición
+🤾🏽:balonmano,deporte,balón,cancha,competición
+🤾🏾:balonmano,deporte,balón,cancha,competición
+🤾🏿:balonmano,deporte,balón,cancha,competición
+🤾‍♂️:hombre balonmano,deporte,balón,cancha,acción
+🤾🏻‍♂️:hombre balonmano,deporte,balón,cancha,acción
+🤾🏼‍♂️:hombre balonmano,deporte,balón,cancha,acción
+🤾🏽‍♂️:hombre balonmano,deporte,balón,cancha,acción
+🤾🏾‍♂️:hombre balonmano,deporte,balón,cancha,acción
+🤾🏿‍♂️:hombre balonmano,deporte,balón,cancha,acción
+🤾‍♀️:mujer balonmano,deporte,balón,cancha,acción
+🤾🏻‍♀️:mujer balonmano,deporte,balón,cancha,acción
+🤾🏼‍♀️:mujer balonmano,deporte,balón,cancha,acción
+🤾🏽‍♀️:mujer balonmano,deporte,balón,cancha,acción
+🤾🏾‍♀️:mujer balonmano,deporte,balón,cancha,acción
+🤾🏿‍♀️:mujer balonmano,deporte,balón,cancha,acción
+🤹:malabares,artista,circo,habilidad,entretenimiento
+🤹🏻:malabares,artista,circo,habilidad,entretenimiento
+🤹🏼:malabares,artista,circo,habilidad,entretenimiento
+🤹🏽:malabares,artista,circo,habilidad,entretenimiento
+🤹🏾:malabares,artista,circo,habilidad,entretenimiento
+🤹🏿:malabares,artista,circo,habilidad,entretenimiento
+🤹‍♂️:hombre malabarista,circo,habilidad,entretenimiento,show
+🤹🏻‍♂️:hombre malabarista,circo,habilidad,entretenimiento,show
+🤹🏼‍♂️:hombre malabarista,circo,habilidad,entretenimiento,show
+🤹🏽‍♂️:hombre malabarista,circo,habilidad,entretenimiento,show
+🤹🏾‍♂️:hombre malabarista,circo,habilidad,entretenimiento,show
+🤹🏿‍♂️:hombre malabarista,circo,habilidad,entretenimiento,show
+🤹‍♀️:mujer malabarista,circo,habilidad,entretenimiento,show
+🤹🏻‍♀️:mujer malabarista,circo,habilidad,entretenimiento,show
+🤹🏼‍♀️:mujer malabarista,circo,habilidad,entretenimiento,show
+🤹🏽‍♀️:mujer malabarista,circo,habilidad,entretenimiento,show
+🤹🏾‍♀️:mujer malabarista,circo,habilidad,entretenimiento,show
+🤹🏿‍♀️:mujer malabarista,circo,habilidad,entretenimiento,show
+🧘:meditación,yoga,relajación,zen,calma
+🧘🏻:meditación,yoga,relajación,zen,calma
+🧘🏼:meditación,yoga,relajación,zen,calma
+🧘🏽:meditación,yoga,relajación,zen,calma
+🧘🏾:meditación,yoga,relajación,zen,calma
+🧘🏿:meditación,yoga,relajación,zen,calma
+🧘‍♂️:hombre meditando,yoga,relajación,zen,respiración
+🧘🏻‍♂️:hombre meditando,yoga,relajación,zen,respiración
+🧘🏼‍♂️:hombre meditando,yoga,relajación,zen,respiración
+🧘🏽‍♂️:hombre meditando,yoga,relajación,zen,respiración
+🧘🏾‍♂️:hombre meditando,yoga,relajación,zen,respiración
+🧘🏿‍♂️:hombre meditando,yoga,relajación,zen,respiración
+🧘‍♀️:mujer meditando,yoga,relajación,zen,calma
+🧘🏻‍♀️:mujer meditando,yoga,relajación,zen,calma
+🧘🏼‍♀️:mujer meditando,yoga,relajación,zen,calma
+🧘🏽‍♀️:mujer meditando,yoga,relajación,zen,calma
+🧘🏾‍♀️:mujer meditando,yoga,relajación,zen,calma
+🧘🏿‍♀️:mujer meditando,yoga,relajación,zen,calma
+🛀:persona bañándose,baño,limpio,relajarse
+🛀🏻:persona bañándose,baño,limpio,relajarse
+🛀🏼:persona bañándose,baño,limpio,relajarse
+🛀🏽:persona bañándose,baño,limpio,relajarse
+🛀🏾:persona bañándose,baño,limpio,relajarse
+🛀🏿:persona bañándose,baño,limpio,relajarse
+🛌:persona en la cama,dormir,descansar,hotel
+🛌🏻:persona en la cama,dormir,descansar,hotel
+🛌🏼:persona en la cama,dormir,descansar,hotel
+🛌🏽:persona en la cama,dormir,descansar,hotel
+🛌🏾:persona en la cama,dormir,descansar,hotel
+🛌🏿:persona en la cama,dormir,descansar,hotel
+🧑‍🤝‍🧑:personas de la mano,amistad,conexión,unión,relación
+🧑🏻‍🤝‍🧑🏻:personas de la mano,amistad,conexión,unión,relación
+🧑🏻‍🤝‍🧑🏼:personas de la mano,amistad,conexión,unión,relación
+🧑🏻‍🤝‍🧑🏽:personas de la mano,amistad,conexión,unión,relación
+🧑🏻‍🤝‍🧑🏾:personas de la mano,amistad,conexión,unión,relación
+🧑🏻‍🤝‍🧑🏿:personas de la mano,amistad,conexión,unión,relación
+🧑🏼‍🤝‍🧑🏻:personas de la mano,amistad,conexión,unión,relación
+🧑🏼‍🤝‍🧑🏼:personas de la mano,amistad,conexión,unión,relación
+🧑🏼‍🤝‍🧑🏽:personas de la mano,amistad,conexión,unión,relación
+🧑🏼‍🤝‍🧑🏾:personas de la mano,amistad,conexión,unión,relación
+🧑🏼‍🤝‍🧑🏿:personas de la mano,amistad,conexión,unión,relación
+🧑🏽‍🤝‍🧑🏻:personas de la mano,amistad,conexión,unión,relación
+🧑🏽‍🤝‍🧑🏼:personas de la mano,amistad,conexión,unión,relación
+🧑🏽‍🤝‍🧑🏽:personas de la mano,amistad,conexión,unión,relación
+🧑🏽‍🤝‍🧑🏾:personas de la mano,amistad,conexión,unión,relación
+🧑🏽‍🤝‍🧑🏿:personas de la mano,amistad,conexión,unión,relación
+🧑🏾‍🤝‍🧑🏻:personas de la mano,amistad,conexión,unión,relación
+🧑🏾‍🤝‍🧑🏼:personas de la mano,amistad,conexión,unión,relación
+🧑🏾‍🤝‍🧑🏽:personas de la mano,amistad,conexión,unión,relación
+🧑🏾‍🤝‍🧑🏾:personas de la mano,amistad,conexión,unión,relación
+🧑🏾‍🤝‍🧑🏿:personas de la mano,amistad,conexión,unión,relación
+🧑🏿‍🤝‍🧑🏻:personas de la mano,amistad,conexión,unión,relación
+🧑🏿‍🤝‍🧑🏼:personas de la mano,amistad,conexión,unión,relación
+🧑🏿‍🤝‍🧑🏽:personas de la mano,amistad,conexión,unión,relación
+🧑🏿‍🤝‍🧑🏾:personas de la mano,amistad,conexión,unión,relación
+🧑🏿‍🤝‍🧑🏿:personas de la mano,amistad,conexión,unión,relación
+👭:mujeres amigas,amistad,conexión,compañeras,relación
+👭🏻:mujeres amigas,amistad,conexión,compañeras,relación
+👩🏻‍🤝‍👩🏼:women holding hands: light skin tone, medium-light skin tone
+👩🏻‍🤝‍👩🏽:women holding hands: light skin tone, medium skin tone
+👩🏻‍🤝‍👩🏾:women holding hands: light skin tone, medium-dark skin tone
+👩🏻‍🤝‍👩🏿:women holding hands: light skin tone, dark skin tone
+👩🏼‍🤝‍👩🏻:women holding hands: medium-light skin tone, light skin tone
+👭🏼:mujeres amigas,amistad,conexión,compañeras,relación
+👩🏼‍🤝‍👩🏽:women holding hands: medium-light skin tone, medium skin tone
+👩🏼‍🤝‍👩🏾:women holding hands: medium-light skin tone, medium-dark skin tone
+👩🏼‍🤝‍👩🏿:women holding hands: medium-light skin tone, dark skin tone
+👩🏽‍🤝‍👩🏻:women holding hands: medium skin tone, light skin tone
+👩🏽‍🤝‍👩🏼:women holding hands: medium skin tone, medium-light skin tone
+👭🏽:mujeres amigas,amistad,conexión,compañeras,relación
+👩🏽‍🤝‍👩🏾:women holding hands: medium skin tone, medium-dark skin tone
+👩🏽‍🤝‍👩🏿:women holding hands: medium skin tone, dark skin tone
+👩🏾‍🤝‍👩🏻:women holding hands: medium-dark skin tone, light skin tone
+👩🏾‍🤝‍👩🏼:women holding hands: medium-dark skin tone, medium-light skin tone
+👩🏾‍🤝‍👩🏽:women holding hands: medium-dark skin tone, medium skin tone
+👭🏾:mujeres amigas,amistad,conexión,compañeras,relación
+👩🏾‍🤝‍👩🏿:women holding hands: medium-dark skin tone, dark skin tone
+👩🏿‍🤝‍👩🏻:women holding hands: dark skin tone, light skin tone
+👩🏿‍🤝‍👩🏼:women holding hands: dark skin tone, medium-light skin tone
+👩🏿‍🤝‍👩🏽:women holding hands: dark skin tone, medium skin tone
+👩🏿‍🤝‍👩🏾:women holding hands: dark skin tone, medium-dark skin tone
+👭🏿:mujeres amigas,amistad,conexión,compañeras,relación
+👫:pareja hombre mujer,relación,amor,amistad,conexión
+👫🏻:pareja hombre mujer,relación,amor,amistad,conexión
+👩🏻‍🤝‍👨🏼:woman and man holding hands: light skin tone, medium-light skin tone
+👩🏻‍🤝‍👨🏽:woman and man holding hands: light skin tone, medium skin tone
+👩🏻‍🤝‍👨🏾:woman and man holding hands: light skin tone, medium-dark skin tone
+👩🏻‍🤝‍👨🏿:woman and man holding hands: light skin tone, dark skin tone
+👩🏼‍🤝‍👨🏻:woman and man holding hands: medium-light skin tone, light skin tone
+👫🏼:pareja hombre mujer,relación,amor,amistad,conexión
+👩🏼‍🤝‍👨🏽:woman and man holding hands: medium-light skin tone, medium skin tone
+👩🏼‍🤝‍👨🏾:woman and man holding hands: medium-light skin tone, medium-dark skin tone
+👩🏼‍🤝‍👨🏿:woman and man holding hands: medium-light skin tone, dark skin tone
+👩🏽‍🤝‍👨🏻:woman and man holding hands: medium skin tone, light skin tone
+👩🏽‍🤝‍👨🏼:woman and man holding hands: medium skin tone, medium-light skin tone
+👫🏽:pareja hombre mujer,relación,amor,amistad,conexión
+👩🏽‍🤝‍👨🏾:woman and man holding hands: medium skin tone, medium-dark skin tone
+👩🏽‍🤝‍👨🏿:woman and man holding hands: medium skin tone, dark skin tone
+👩🏾‍🤝‍👨🏻:woman and man holding hands: medium-dark skin tone, light skin tone
+👩🏾‍🤝‍👨🏼:woman and man holding hands: medium-dark skin tone, medium-light skin tone
+👩🏾‍🤝‍👨🏽:woman and man holding hands: medium-dark skin tone, medium skin tone
+👫🏾:pareja hombre mujer,relación,amor,amistad,conexión
+👩🏾‍🤝‍👨🏿:woman and man holding hands: medium-dark skin tone, dark skin tone
+👩🏿‍🤝‍👨🏻:woman and man holding hands: dark skin tone, light skin tone
+👩🏿‍🤝‍👨🏼:woman and man holding hands: dark skin tone, medium-light skin tone
+👩🏿‍🤝‍👨🏽:woman and man holding hands: dark skin tone, medium skin tone
+👩🏿‍🤝‍👨🏾:woman and man holding hands: dark skin tone, medium-dark skin tone
+👫🏿:pareja hombre mujer,relación,amor,amistad,conexión
+👬:hombres amigos,amistad,hermandad,conexión,relación
+👬🏻:hombres amigos,amistad,hermandad,conexión,relación
+👨🏻‍🤝‍👨🏼:men holding hands: light skin tone, medium-light skin tone
+👨🏻‍🤝‍👨🏽:men holding hands: light skin tone, medium skin tone
+👨🏻‍🤝‍👨🏾:men holding hands: light skin tone, medium-dark skin tone
+👨🏻‍🤝‍👨🏿:men holding hands: light skin tone, dark skin tone
+👨🏼‍🤝‍👨🏻:men holding hands: medium-light skin tone, light skin tone
+👬🏼:hombres amigos,amistad,hermandad,conexión,relación
+👨🏼‍🤝‍👨🏽:men holding hands: medium-light skin tone, medium skin tone
+👨🏼‍🤝‍👨🏾:men holding hands: medium-light skin tone, medium-dark skin tone
+👨🏼‍🤝‍👨🏿:men holding hands: medium-light skin tone, dark skin tone
+👨🏽‍🤝‍👨🏻:men holding hands: medium skin tone, light skin tone
+👨🏽‍🤝‍👨🏼:men holding hands: medium skin tone, medium-light skin tone
+👬🏽:hombres amigos,amistad,hermandad,conexión,relación
+👨🏽‍🤝‍👨🏾:men holding hands: medium skin tone, medium-dark skin tone
+👨🏽‍🤝‍👨🏿:men holding hands: medium skin tone, dark skin tone
+👨🏾‍🤝‍👨🏻:men holding hands: medium-dark skin tone, light skin tone
+👨🏾‍🤝‍👨🏼:men holding hands: medium-dark skin tone, medium-light skin tone
+👨🏾‍🤝‍👨🏽:men holding hands: medium-dark skin tone, medium skin tone
+👬🏾:hombres amigos,amistad,hermandad,conexión,relación
+👨🏾‍🤝‍👨🏿:men holding hands: medium-dark skin tone, dark skin tone
+👨🏿‍🤝‍👨🏻:men holding hands: dark skin tone, light skin tone
+👨🏿‍🤝‍👨🏼:men holding hands: dark skin tone, medium-light skin tone
+👨🏿‍🤝‍👨🏽:men holding hands: dark skin tone, medium skin tone
+👨🏿‍🤝‍👨🏾:men holding hands: dark skin tone, medium-dark skin tone
+👬🏿:hombres amigos,amistad,hermandad,conexión,relación
+💏:beso romántico,amor,pareja,afecto,relación
+💏🏻:beso romántico,amor,pareja,afecto,relación
+💏🏼:beso romántico,amor,pareja,afecto,relación
+💏🏽:beso romántico,amor,pareja,afecto,relación
+💏🏾:beso romántico,amor,pareja,afecto,relación
+💏🏿:beso romántico,amor,pareja,afecto,relación
+🧑🏻‍❤️‍💋‍🧑🏼:kiss: person, person, light skin tone, medium-light skin tone
+🧑🏻‍❤️‍💋‍🧑🏽:kiss: person, person, light skin tone, medium skin tone
+🧑🏻‍❤️‍💋‍🧑🏾:kiss: person, person, light skin tone, medium-dark skin tone
+🧑🏻‍❤️‍💋‍🧑🏿:kiss: person, person, light skin tone, dark skin tone
+🧑🏼‍❤️‍💋‍🧑🏻:kiss: person, person, medium-light skin tone, light skin tone
+🧑🏼‍❤️‍💋‍🧑🏽:kiss: person, person, medium-light skin tone, medium skin tone
+🧑🏼‍❤️‍💋‍🧑🏾:kiss: person, person, medium-light skin tone, medium-dark skin tone
+🧑🏼‍❤️‍💋‍🧑🏿:kiss: person, person, medium-light skin tone, dark skin tone
+🧑🏽‍❤️‍💋‍🧑🏻:kiss: person, person, medium skin tone, light skin tone
+🧑🏽‍❤️‍💋‍🧑🏼:kiss: person, person, medium skin tone, medium-light skin tone
+🧑🏽‍❤️‍💋‍🧑🏾:kiss: person, person, medium skin tone, medium-dark skin tone
+🧑🏽‍❤️‍💋‍🧑🏿:kiss: person, person, medium skin tone, dark skin tone
+🧑🏾‍❤️‍💋‍🧑🏻:kiss: person, person, medium-dark skin tone, light skin tone
+🧑🏾‍❤️‍💋‍🧑🏼:kiss: person, person, medium-dark skin tone, medium-light skin tone
+🧑🏾‍❤️‍💋‍🧑🏽:kiss: person, person, medium-dark skin tone, medium skin tone
+🧑🏾‍❤️‍💋‍🧑🏿:kiss: person, person, medium-dark skin tone, dark skin tone
+🧑🏿‍❤️‍💋‍🧑🏻:kiss: person, person, dark skin tone, light skin tone
+🧑🏿‍❤️‍💋‍🧑🏼:kiss: person, person, dark skin tone, medium-light skin tone
+🧑🏿‍❤️‍💋‍🧑🏽:kiss: person, person, dark skin tone, medium skin tone
+🧑🏿‍❤️‍💋‍🧑🏾:kiss: person, person, dark skin tone, medium-dark skin tone
+👩‍❤️‍💋‍👨:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👨🏻:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👨🏼:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👨🏽:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👨🏾:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👨🏿:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👨🏻:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👨🏼:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👨🏽:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👨🏾:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👨🏿:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👨🏻:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👨🏼:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👨🏽:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👨🏾:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👨🏿:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👨🏻:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👨🏼:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👨🏽:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👨🏾:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👨🏿:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👨🏻:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👨🏼:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👨🏽:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👨🏾:beso pareja mujer hombre,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👨🏿:beso pareja mujer hombre,amor,romance,relación,afecto
+👨‍❤️‍💋‍👨:beso pareja hombres,amor,romance,relación,afecto
+👨🏻‍❤️‍💋‍👨🏻:beso pareja hombres,amor,romance,relación,afecto
+👨🏻‍❤️‍💋‍👨🏼:beso pareja hombres,amor,romance,relación,afecto
+👨🏻‍❤️‍💋‍👨🏽:beso pareja hombres,amor,romance,relación,afecto
+👨🏻‍❤️‍💋‍👨🏾:beso pareja hombres,amor,romance,relación,afecto
+👨🏻‍❤️‍💋‍👨🏿:beso pareja hombres,amor,romance,relación,afecto
+👨🏼‍❤️‍💋‍👨🏻:beso pareja hombres,amor,romance,relación,afecto
+👨🏼‍❤️‍💋‍👨🏼:beso pareja hombres,amor,romance,relación,afecto
+👨🏼‍❤️‍💋‍👨🏽:beso pareja hombres,amor,romance,relación,afecto
+👨🏼‍❤️‍💋‍👨🏾:beso pareja hombres,amor,romance,relación,afecto
+👨🏼‍❤️‍💋‍👨🏿:beso pareja hombres,amor,romance,relación,afecto
+👨🏽‍❤️‍💋‍👨🏻:beso pareja hombres,amor,romance,relación,afecto
+👨🏽‍❤️‍💋‍👨🏼:beso pareja hombres,amor,romance,relación,afecto
+👨🏽‍❤️‍💋‍👨🏽:beso pareja hombres,amor,romance,relación,afecto
+👨🏽‍❤️‍💋‍👨🏾:beso pareja hombres,amor,romance,relación,afecto
+👨🏽‍❤️‍💋‍👨🏿:beso pareja hombres,amor,romance,relación,afecto
+👨🏾‍❤️‍💋‍👨🏻:beso pareja hombres,amor,romance,relación,afecto
+👨🏾‍❤️‍💋‍👨🏼:beso pareja hombres,amor,romance,relación,afecto
+👨🏾‍❤️‍💋‍👨🏽:beso pareja hombres,amor,romance,relación,afecto
+👨🏾‍❤️‍💋‍👨🏾:beso pareja hombres,amor,romance,relación,afecto
+👨🏾‍❤️‍💋‍👨🏿:beso pareja hombres,amor,romance,relación,afecto
+👨🏿‍❤️‍💋‍👨🏻:beso pareja hombres,amor,romance,relación,afecto
+👨🏿‍❤️‍💋‍👨🏼:beso pareja hombres,amor,romance,relación,afecto
+👨🏿‍❤️‍💋‍👨🏽:beso pareja hombres,amor,romance,relación,afecto
+👨🏿‍❤️‍💋‍👨🏾:beso pareja hombres,amor,romance,relación,afecto
+👨🏿‍❤️‍💋‍👨🏿:beso pareja hombres,amor,romance,relación,afecto
+👩‍❤️‍💋‍👩:beso pareja mujeres,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👩🏻:beso pareja mujeres,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👩🏼:beso pareja mujeres,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👩🏽:beso pareja mujeres,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👩🏾:beso pareja mujeres,amor,romance,relación,afecto
+👩🏻‍❤️‍💋‍👩🏿:beso pareja mujeres,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👩🏻:beso pareja mujeres,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👩🏼:beso pareja mujeres,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👩🏽:beso pareja mujeres,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👩🏾:beso pareja mujeres,amor,romance,relación,afecto
+👩🏼‍❤️‍💋‍👩🏿:beso pareja mujeres,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👩🏻:beso pareja mujeres,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👩🏼:beso pareja mujeres,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👩🏽:beso pareja mujeres,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👩🏾:beso pareja mujeres,amor,romance,relación,afecto
+👩🏽‍❤️‍💋‍👩🏿:beso pareja mujeres,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👩🏻:beso pareja mujeres,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👩🏼:beso pareja mujeres,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👩🏽:beso pareja mujeres,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👩🏾:beso pareja mujeres,amor,romance,relación,afecto
+👩🏾‍❤️‍💋‍👩🏿:beso pareja mujeres,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👩🏻:beso pareja mujeres,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👩🏼:beso pareja mujeres,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👩🏽:beso pareja mujeres,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👩🏾:beso pareja mujeres,amor,romance,relación,afecto
+👩🏿‍❤️‍💋‍👩🏿:beso pareja mujeres,amor,romance,relación,afecto
+💑:pareja enamorada,amor,relación,corazones,romance
+💑🏻:pareja enamorada,amor,relación,corazones,romance
+💑🏼:pareja enamorada,amor,relación,corazones,romance
+💑🏽:pareja enamorada,amor,relación,corazones,romance
+💑🏾:pareja enamorada,amor,relación,corazones,romance
+💑🏿:pareja enamorada,amor,relación,corazones,romance
+🧑🏻‍❤️‍🧑🏼:couple with heart: person, person, light skin tone, medium-light skin tone
+🧑🏻‍❤️‍🧑🏽:couple with heart: person, person, light skin tone, medium skin tone
+🧑🏻‍❤️‍🧑🏾:couple with heart: person, person, light skin tone, medium-dark skin tone
+🧑🏻‍❤️‍🧑🏿:couple with heart: person, person, light skin tone, dark skin tone
+🧑🏼‍❤️‍🧑🏻:couple with heart: person, person, medium-light skin tone, light skin tone
+🧑🏼‍❤️‍🧑🏽:couple with heart: person, person, medium-light skin tone, medium skin tone
+🧑🏼‍❤️‍🧑🏾:couple with heart: person, person, medium-light skin tone, medium-dark skin tone
+🧑🏼‍❤️‍🧑🏿:couple with heart: person, person, medium-light skin tone, dark skin tone
+🧑🏽‍❤️‍🧑🏻:couple with heart: person, person, medium skin tone, light skin tone
+🧑🏽‍❤️‍🧑🏼:couple with heart: person, person, medium skin tone, medium-light skin tone
+🧑🏽‍❤️‍🧑🏾:couple with heart: person, person, medium skin tone, medium-dark skin tone
+🧑🏽‍❤️‍🧑🏿:couple with heart: person, person, medium skin tone, dark skin tone
+🧑🏾‍❤️‍🧑🏻:couple with heart: person, person, medium-dark skin tone, light skin tone
+🧑🏾‍❤️‍🧑🏼:couple with heart: person, person, medium-dark skin tone, medium-light skin tone
+🧑🏾‍❤️‍🧑🏽:couple with heart: person, person, medium-dark skin tone, medium skin tone
+🧑🏾‍❤️‍🧑🏿:couple with heart: person, person, medium-dark skin tone, dark skin tone
+🧑🏿‍❤️‍🧑🏻:couple with heart: person, person, dark skin tone, light skin tone
+🧑🏿‍❤️‍🧑🏼:couple with heart: person, person, dark skin tone, medium-light skin tone
+🧑🏿‍❤️‍🧑🏽:couple with heart: person, person, dark skin tone, medium skin tone
+🧑🏿‍❤️‍🧑🏾:couple with heart: person, person, dark skin tone, medium-dark skin tone
+👩‍❤️‍👨:pareja mujer hombre,amor,relación,romance,corazón
+👩🏻‍❤️‍👨🏻:pareja mujer hombre,amor,relación,romance,corazón
+👩🏻‍❤️‍👨🏼:pareja mujer hombre,amor,relación,romance,corazón
+👩🏻‍❤️‍👨🏽:pareja mujer hombre,amor,relación,romance,corazón
+👩🏻‍❤️‍👨🏾:pareja mujer hombre,amor,relación,romance,corazón
+👩🏻‍❤️‍👨🏿:pareja mujer hombre,amor,relación,romance,corazón
+👩🏼‍❤️‍👨🏻:pareja mujer hombre,amor,relación,romance,corazón
+👩🏼‍❤️‍👨🏼:pareja mujer hombre,amor,relación,romance,corazón
+👩🏼‍❤️‍👨🏽:pareja mujer hombre,amor,relación,romance,corazón
+👩🏼‍❤️‍👨🏾:pareja mujer hombre,amor,relación,romance,corazón
+👩🏼‍❤️‍👨🏿:pareja mujer hombre,amor,relación,romance,corazón
+👩🏽‍❤️‍👨🏻:pareja mujer hombre,amor,relación,romance,corazón
+👩🏽‍❤️‍👨🏼:pareja mujer hombre,amor,relación,romance,corazón
+👩🏽‍❤️‍👨🏽:pareja mujer hombre,amor,relación,romance,corazón
+👩🏽‍❤️‍👨🏾:pareja mujer hombre,amor,relación,romance,corazón
+👩🏽‍❤️‍👨🏿:pareja mujer hombre,amor,relación,romance,corazón
+👩🏾‍❤️‍👨🏻:pareja mujer hombre,amor,relación,romance,corazón
+👩🏾‍❤️‍👨🏼:pareja mujer hombre,amor,relación,romance,corazón
+👩🏾‍❤️‍👨🏽:pareja mujer hombre,amor,relación,romance,corazón
+👩🏾‍❤️‍👨🏾:pareja mujer hombre,amor,relación,romance,corazón
+👩🏾‍❤️‍👨🏿:pareja mujer hombre,amor,relación,romance,corazón
+👩🏿‍❤️‍👨🏻:pareja mujer hombre,amor,relación,romance,corazón
+👩🏿‍❤️‍👨🏼:pareja mujer hombre,amor,relación,romance,corazón
+👩🏿‍❤️‍👨🏽:pareja mujer hombre,amor,relación,romance,corazón
+👩🏿‍❤️‍👨🏾:pareja mujer hombre,amor,relación,romance,corazón
+👩🏿‍❤️‍👨🏿:pareja mujer hombre,amor,relación,romance,corazón
+👨‍❤️‍👨:pareja hombres,amor,relación,romance,afecto
+👨🏻‍❤️‍👨🏻:pareja hombres,amor,relación,romance,afecto
+👨🏻‍❤️‍👨🏼:pareja hombres,amor,relación,romance,afecto
+👨🏻‍❤️‍👨🏽:pareja hombres,amor,relación,romance,afecto
+👨🏻‍❤️‍👨🏾:pareja hombres,amor,relación,romance,afecto
+👨🏻‍❤️‍👨🏿:pareja hombres,amor,relación,romance,afecto
+👨🏼‍❤️‍👨🏻:pareja hombres,amor,relación,romance,afecto
+👨🏼‍❤️‍👨🏼:pareja hombres,amor,relación,romance,afecto
+👨🏼‍❤️‍👨🏽:pareja hombres,amor,relación,romance,afecto
+👨🏼‍❤️‍👨🏾:pareja hombres,amor,relación,romance,afecto
+👨🏼‍❤️‍👨🏿:pareja hombres,amor,relación,romance,afecto
+👨🏽‍❤️‍👨🏻:pareja hombres,amor,relación,romance,afecto
+👨🏽‍❤️‍👨🏼:pareja hombres,amor,relación,romance,afecto
+👨🏽‍❤️‍👨🏽:pareja hombres,amor,relación,romance,afecto
+👨🏽‍❤️‍👨🏾:pareja hombres,amor,relación,romance,afecto
+👨🏽‍❤️‍👨🏿:pareja hombres,amor,relación,romance,afecto
+👨🏾‍❤️‍👨🏻:pareja hombres,amor,relación,romance,afecto
+👨🏾‍❤️‍👨🏼:pareja hombres,amor,relación,romance,afecto
+👨🏾‍❤️‍👨🏽:pareja hombres,amor,relación,romance,afecto
+👨🏾‍❤️‍👨🏾:pareja hombres,amor,relación,romance,afecto
+👨🏾‍❤️‍👨🏿:pareja hombres,amor,relación,romance,afecto
+👨🏿‍❤️‍👨🏻:pareja hombres,amor,relación,romance,afecto
+👨🏿‍❤️‍👨🏼:pareja hombres,amor,relación,romance,afecto
+👨🏿‍❤️‍👨🏽:pareja hombres,amor,relación,romance,afecto
+👨🏿‍❤️‍👨🏾:pareja hombres,amor,relación,romance,afecto
+👨🏿‍❤️‍👨🏿:pareja hombres,amor,relación,romance,afecto
+👩‍❤️‍👩:pareja mujeres,amor,relación,romance,afecto
+👩🏻‍❤️‍👩🏻:pareja mujeres,amor,relación,romance,afecto
+👩🏻‍❤️‍👩🏼:pareja mujeres,amor,relación,romance,afecto
+👩🏻‍❤️‍👩🏽:pareja mujeres,amor,relación,romance,afecto
+👩🏻‍❤️‍👩🏾:pareja mujeres,amor,relación,romance,afecto
+👩🏻‍❤️‍👩🏿:pareja mujeres,amor,relación,romance,afecto
+👩🏼‍❤️‍👩🏻:pareja mujeres,amor,relación,romance,afecto
+👩🏼‍❤️‍👩🏼:pareja mujeres,amor,relación,romance,afecto
+👩🏼‍❤️‍👩🏽:pareja mujeres,amor,relación,romance,afecto
+👩🏼‍❤️‍👩🏾:pareja mujeres,amor,relación,romance,afecto
+👩🏼‍❤️‍👩🏿:pareja mujeres,amor,relación,romance,afecto
+👩🏽‍❤️‍👩🏻:pareja mujeres,amor,relación,romance,afecto
+👩🏽‍❤️‍👩🏼:pareja mujeres,amor,relación,romance,afecto
+👩🏽‍❤️‍👩🏽:pareja mujeres,amor,relación,romance,afecto
+👩🏽‍❤️‍👩🏾:pareja mujeres,amor,relación,romance,afecto
+👩🏽‍❤️‍👩🏿:pareja mujeres,amor,relación,romance,afecto
+👩🏾‍❤️‍👩🏻:pareja mujeres,amor,relación,romance,afecto
+👩🏾‍❤️‍👩🏼:pareja mujeres,amor,relación,romance,afecto
+👩🏾‍❤️‍👩🏽:pareja mujeres,amor,relación,romance,afecto
+👩🏾‍❤️‍👩🏾:pareja mujeres,amor,relación,romance,afecto
+👩🏾‍❤️‍👩🏿:pareja mujeres,amor,relación,romance,afecto
+👩🏿‍❤️‍👩🏻:pareja mujeres,amor,relación,romance,afecto
+👩🏿‍❤️‍👩🏼:pareja mujeres,amor,relación,romance,afecto
+👩🏿‍❤️‍👩🏽:pareja mujeres,amor,relación,romance,afecto
+👩🏿‍❤️‍👩🏾:pareja mujeres,amor,relación,romance,afecto
+👩🏿‍❤️‍👩🏿:pareja mujeres,amor,relación,romance,afecto
+👨‍👩‍👦:familia,padres e hijo,núcleo familiar,hogar,relación
+👨‍👩‍👧:familia,padres e hija,hogar,relación,núcleo familiar
+👨‍👩‍👧‍👦:familia con hijos,grupo familiar,hogar,relación,núcleo
+👨‍👩‍👦‍👦:familia con dos hijos,hogar,relación,núcleo familiar,grupo
+👨‍👩‍👧‍👧:familia con dos hijas,hogar,núcleo familiar,relación,grupo familiar
+👨‍👨‍👦:familia dos padres e hijo,hogar,relación,núcleo familiar,crianza
+👨‍👨‍👧:familia dos padres e hija,hogar,relación,núcleo familiar
+👨‍👨‍👧‍👦:familia dos padres con hijos mixtos,hogar,núcleo familiar,relación
+👨‍👨‍👦‍👦:familia dos padres con dos hijos,hogar,crianza,núcleo familiar
+👨‍👨‍👧‍👧:familia dos padres con dos hijas,hogar,relación,núcleo familiar
+👩‍👩‍👦:familia dos madres e hijo,hogar,crianza,relación,núcleo familiar
+👩‍👩‍👧:familia dos madres e hija,hogar,crianza,relación,núcleo familiar
+👩‍👩‍👧‍👦:familia dos madres con hijos mixtos,hogar,relación,núcleo familiar
+👩‍👩‍👦‍👦:familia dos madres con dos hijos,hogar,crianza,relación
+👩‍👩‍👧‍👧:familia dos madres con dos hijas,hogar,núcleo familiar,relación
+👨‍👦:padre e hijo,relación familiar,crianza,herencia,conexión
+👨‍👦‍👦:padre con dos hijos,crianza,relación,hogar,familia
+👨‍👧:padre e hija,relación familiar,amor,crianza,hogar
+👨‍👧‍👦:padre con hijos mixtos,crianza,relación,hogar,familia
+👨‍👧‍👧:padre con dos hijas,crianza,relación,familia,hogar
+👩‍👦:madre e hijo,crianza,relación,hogar,amor maternal
+👩‍👦‍👦:madre con dos hijos,crianza,hogar,relación,familia
+👩‍👧:madre e hija,relación maternal,amor,crianza,hogar
+👩‍👧‍👦:madre con hijos mixtos,crianza,relación,familia,hogar
+👩‍👧‍👧:madre con dos hijas,crianza,relación,hogar,familia
+🗣️:hablar,voz,comunicación,conversación,expresión
+👤:silueta persona,anónimo,usuario,perfil,identidad
+👥:grupo de personas,comunidad,usuarios,conjunto,multitud
+🫂:abrazo,apoyo,consuelo,afecto,amistad
+👪:familia,grupo familiar,hogar,relación,núcleo familiar
+🧑‍🧑‍🧒:familia con un niño,grupo familiar,crianza,hogar,relación
+🧑‍🧑‍🧒‍🧒:familia con dos niños,grupo familiar,hogar,crianza,relación
+🧑‍🧒:adulto con niño,crianza,relación,hogar,dependencia
+🧑‍🧒‍🧒:adulto con dos niños,crianza,hogar,relación,familia
+👣:huellas,camino,pasos,seguimiento,recorrido
+🫆:huella digital,identidad,biometría,seguridad,autenticación
+🐵:mono,animal,cara de mono
+🐒:mono cuerpo entero,primate,animal
+🦍:gorila,simio,fuerte
+🦧:orangután,mono,simio
+🐶:perro,perrito,mascota,guau
+🐕:perro cuerpo entero,mascota,animal
+🦮:perro guía,ciego,asistencia
+🐕‍🦺:perro de servicio,asistencia,discapacidad,ayuda,guía
+🐩:caniche,perro,poodle,mascota
+🐺:lobo,aullido,animal salvaje
+🦊:zorro,astuto,animal
+🦝:mapache,ladrón,animal
+🐱:gato,gatito,mascota,miau
+🐈:gato cuerpo entero,mascota,felino
+🐈‍⬛:gato negro,suerte,bruja,halloween
+🦁:león,rey de la selva,rugido,felino
+🐯:tigre,felino,animal salvaje,rayas
+🐅:tigre cuerpo entero,animal,felino
+🐆:leopardo,guepardo,felino,rápido
+🐴:caballo,cara de caballo,equino
+🫎:alce,ciervo grande,naturaleza,fauna,animales
+🫏:burro,animal de carga,granja,trabajo,rural
+🐎:caballo corriendo,carrera,equino
+🦄:unicornio,magia,fantasía,caballo
+🦓:cebra,rayas,animal salvaje
+🦌:ciervo,venado,bambi,cuernos
+🦬:bisonte,fauna salvaje,naturaleza,pradera,animal
+🐮:vaca,cara de vaca,muu,granja
+🐂:buey,toro,ganado
+🐃:búfalo,agua,animal
+🐄:vaca cuerpo entero,leche,granja
+🐷:cerdo,cerdito,cara de cerdo,oink
+🐖:cerdo cuerpo entero,animal,granja
+🐗:jabalí,cerdo salvaje,animal
+🐽:nariz de cerdo,hocico,cerdo
+🐏:carnero,oveja,cuernos
+🐑:oveja,lana,rebaño,granja
+🐐:cabra,animal,granja
+🐪:camello,dromedario,desierto
+🐫:camello con dos jorobas,desierto,animal
+🦙:llama,alpaca,animal
+🦒:jirafa,cuello largo,animal salvaje
+🐘:elefante,trompa,animal grande
+🦣:mamut,prehistórico,extinto,historia,prehistoria
+🦏:rinoceronte,cuerno,animal
+🦛:hipopótamo,animal de agua,grande
+🐭:ratón,cara de ratón,roedor,queso
+🐁:ratón cuerpo entero,roedor,animal
+🐀:rata,roedor,animal
+🐹:hámster,mascota,roedor
+🐰:conejo,cara de conejo,pascua,zanahoria
+🐇:conejo cuerpo entero,animal,mascota
+🐿️:ardilla,nuez,roedor
+🦫:castor,animal,dique,naturaleza,roedor
+🦔:erizo,espinas,animal
+🦇:murciélago,vampiro,noche,halloween
+🐻:oso,cara de oso,animal salvaje
+🐻‍❄️:oso polar,ártico,hielo,frío,fauna
+🐨:koala,australia,animal
+🐼:panda,oso,bambú,animal
+🦥:perezoso,lento,animal
+🦦:nutria,agua,animal
+🦨:mofeta,zorrillo,mal olor
+🦘:canguro,australia,salto
+🦡:tejón,animal,salvaje
+🐾:huellas,patas,pisadas,animal
+🦃:pavo,acción de gracias,ave
+🐔:gallina,pollo,ave,granja
+🐓:gallo,amanecer,granja,ave
+🐣:pollito rompiendo el cascarón,nacer,huevo
+🐤:pollito,ave,amarillo,pájaro
+🐥:pollito de frente,ave,amarillo
+🐦:pájaro,ave,volar,piar
+🐧:pingüino,hielo,frío,ave
+🕊️:paloma,paz,ave,blanco
+🦅:águila,ave rapaz,volar
+🦆:pato,cuac,ave,agua
+🦢:cisne,ave,elegante,agua
+🦉:búho,lechuza,noche,sabiduría
+🦤:dodo,extinto,prehistoria,ave,historia natural
+🪶:pluma,ligereza,ave,escritura,naturaleza
+🦩:flamenco,rosa,ave
+🦚:pavo real,plumas,ave,colores
+🦜:loro,guacamayo,ave,pirata
+🪽:alas,vuelo,libertad,ángel,movimiento
+🐦‍⬛:cuervo,ave negra,misterio,naturaleza,oscuridad
+🪿:ganso,ave,granja,naturaleza,vuelo
+🐦‍🔥:ave fénix,fuego,renacimiento,mitología,magia
+🐸:rana,sapo,croac,verde
+🐊:cocodrilo,reptil,dientes
+🐢:tortuga,reptil,lento,caparazón
+🦎:lagartija,lagarto,reptil,iguana
+🐍:serpiente,víbora,reptil,veneno
+🐲:cara de dragón,fantasía,mito,fuego
+🐉:dragón cuerpo entero,fantasía,mito
+🦕:dinosaurio,saurópodo,cuello largo,extinto
+🦖:t-rex,tiranosaurio,dinosaurio,extinto
+🐳:ballena escupiendo agua,mar,océano
+🐋:ballena,mar,océano,grande
+🐬:delfín,mar,océano,inteligente
+🫍:sostener,apoyar,empujar,carga,acción física
+🦭:foca,mar,animal,oceano,fauna
+🐟:pez,agua,nadar,mar
+🐠:pez tropical,acuario,colores,mar
+🐡:pez globo,espinas,veneno,mar
+🦈:tiburón,peligro,mar,dientes
+🐙:pulpo,tentáculos,mar,océano
+🐚:concha,caracola,playa,mar
+🪸:coral,mar,arrecife,océano,naturaleza
+🪼:medusa,mar,oceano,animal marino,transparencia
+🦀:cangrejo,marisco,mar,pinzas
+🦞:langosta,bogavante,marisco,mar
+🦐:gamba,camarón,marisco,mar
+🦑:calamar,marisco,tentáculos,mar
+🦪:ostra,perla,marisco,mar
+🐌:caracol,lento,baba,concha
+🦋:mariposa,insecto,volar,colores
+🐛:oruga,bicho,insecto,gusano
+🐜:hormiga,insecto,bicho,trabajadora
+🐝:abeja,miel,insecto,picar
+🪲:escarabajo,insecto,naturaleza,fauna,entomología
+🐞:mariquita,insecto,bicho,puntos
+🦗:grillo,saltamontes,insecto,sonido
+🪳:cucaracha,insecto,plaga,entomología,fauna urbana
+🕷️:araña,insecto,telaraña,miedo
+🕸️:telaraña,araña,halloween,trampa
+🦂:escorpión,alacrán,veneno,desierto
+🦟:mosquito,insecto,picar,sangre
+🪰:mosca,insecto,vuelo,plaga,naturaleza
+🪱:gusano,larva,suelo,descomposición,naturaleza
+🦠:microbio,virus,bacteria,enfermedad
+💐:ramo de flores,flores,regalo,primavera
+🌸:flor de cerezo,rosa,primavera,japón
+💮:flor blanca,sello,bien hecho,japonés
+🪷:flor de loto,espiritualidad,pureza,budismo,meditación
+🏵️:roseta,flor,adorno
+🌹:rosa,flor,amor,romance
+🥀:rosa marchita,tristeza,muerte,flor
+🌺:hibisco,flor,hawái,tropical
+🌻:girasol,flor,sol,amarillo
+🌼:flor,margarita,primavera,amarillo
+🌷:tulipán,flor,primavera,holanda
+🪻:lavanda,flor,aroma,naturaleza,relajación
+🌱:planta,brote,crecer,verde
+🪴:planta en maceta,jardinería,hogar,naturaleza,cuidado
+🌲:pino,árbol,bosque,naturaleza
+🌳:árbol de hoja caduca,bosque,naturaleza,verde
+🌴:palmera,playa,verano,tropical
+🌵:cactus,desierto,espinas,planta
+🌾:espiga,trigo,campo,cosecha
+🌿:hierba,hojas,naturaleza,planta
+☘️:trébol,suerte,irlanda,san patricio
+🍀:trébol de cuatro hojas,suerte,fortuna
+🍁:hoja de arce,otoño,canadá,rojo
+🍂:hojas caídas,otoño,seco
+🍃:hoja al viento,viento,primavera,volar
+🪹:nido vacío,abandono,aves,naturaleza,estructura
+🪺:nido con huevos,reproducción,aves,naturaleza,vida
+🍄:champiñón,seta,hongo,mario,nintendo,gaming
+🪾:árbol seco,madera,invierno,naturaleza,árido
+🍇:uvas,fruta,vino
+🍈:melón,fruta,dulce
+🍉:sandía,fruta,verano,rojo
+🍊:mandarina,naranja,fruta,cítrico
+🍋:limón,fruta,ácido,amarillo
+🍋‍🟩:lima,fruta cítrica,verde,ácido,alimentación
+🍌:plátano,banana,fruta,amarillo,tropical
+🍍:piña,fruta,tropical
+🥭:mango,fruta,tropical,dulce
+🍎:manzana roja,fruta,profesor
+🍏:manzana verde,fruta,ácida
+🍐:pera,fruta,verde
+🍑:melocotón,durazno,fruta,trasero,culo,sexual,forma
+🍒:cerezas,fruta,rojo,dulce
+🍓:fresa,frutilla,fruta,rojo
+🫐:arándanos,fruta,antioxidantes,dulce,naturaleza
+🥝:kiwi,fruta,verde
+🍅:tomate,verdura,rojo,ensalada
+🫒:aceituna,oliva,aceite,mediterráneo,alimento
+🥥:coco,fruta,tropical,palmera
+🥑:aguacate,palta,fruta,saludable,grasa buena,comida
+🍆:berenjena,verdura,morado,falo,pene,sexual,emoji meme,verga
+🥔:patata,papa,verdura,raíz
+🥕:zanahoria,verdura,naranja,conejo
+🌽:maíz,choclo,elote,verdura
+🌶️:chile,picante,ají,pimiento
+🫑:pimiento,verdura,vegetal,alimentación,cocina
+🥒:pepino,verdura,verde,ensalada
+🥬:lechuga,verdura,verde,ensalada
+🥦:brócoli,verdura,verde,sano
+🧄:ajo,condimento,sabor,cocina,ingrediente
+🧅:cebolla,verdura,llorar,cocina
+🥜:cacahuetes,maní,frutos secos
+🫘:frijoles,legumbres,proteína,alimentación,cocina
+🌰:castaña,nuez,otoño
+🫚:jengibre,raíz,especia,salud,cocina
+🫛:guisantes,legumbre,verdura,alimentación,huerto
+🍄‍🟫:hongo,champiñón,naturaleza,seta,alimentación
+🫜:raíz,plantas,crecimiento,naturaleza,botánica
+🍞:pan,hogaza,comida,carbohidratos
+🥐:cruasán,croissant,desayuno,francés
+🥖:baguette,pan,francés
+🫓:pan plano,tortilla,comida,harina,cocina
+🥨:pretzel,galleta salada,alemán
+🥯:bagel,pan,desayuno
+🥞:tortitas,pancakes,panqueques,desayuno
+🧇:gofre,waffle,desayuno,dulce
+🧀:queso,lácteo,ratón,amarillo
+🍖:carne con hueso,chuleta,barbacoa
+🍗:muslo de pollo,carne,ave,frito
+🥩:filete,carne,ternera,barbacoa
+🥓:bacon,tocino,cerdo,desayuno
+🍔:hamburguesa,comida rápida,carne,queso
+🍟:patatas fritas,papas fritas,comida rápida
+🍕:pizza,italiano,comida rápida,queso
+🌭:perrito caliente,hot dog,salchicha,comida rápida
+🥪:sándwich,bocadillo,comida,pan
+🌮:taco,mexicano,comida
+🌯:burrito,mexicano,comida,wrap
+🫔:tamal,comida latinoamericana,maíz,tradición,cocina,méxico
+🥙:pan relleno,kebab,pita,falafel
+🧆:falafel,albóndiga,garbanzo
+🥚:huevo,desayuno,gallina
+🍳:huevo frito,sartén,cocinar,desayuno
+🥘:paella,cazuela,comida española,arroz
+🍲:sopa,guiso,caldo,comida
+🫕:fondue,queso,comida suiza,compartir,cocina
+🥣:bol con cuchara,cereales,sopa,desayuno
+🥗:ensalada,sano,verduras,verde
+🍿:palomitas,cine,maíz,película
+🧈:mantequilla,lácteo,desayuno
+🧂:salero,sal,condimento,sabor
+🥫:lata,conserva,sopa,tomate
+🍱:bento,comida japonesa,caja
+🍘:galleta de arroz,japón,alga
+🍙:bola de arroz,onigiri,japón,alga
+🍚:arroz,bol de arroz,comida asiática
+🍛:arroz con curry,comida india,picante
+🍜:fideos,ramen,sopa,asiático
+🍝:espaguetis,pasta,italiano,tomate
+🍠:boniato,batata,asado
+🍢:oden,brocheta,comida japonesa
+🍣:sushi,pescado crudo,japonés,arroz
+🍤:gamba frita,tempura,marisco
+🍥:pastel de pescado,naruto,ramen
+🥮:pastel de luna,otoño,chino,dulce
+🍡:dango,dulce japonés,brocheta
+🥟:empanadilla,dumpling,gyoza,asiático
+🥠:galleta de la fortuna,suerte,chino,postre
+🥡:caja para llevar,comida china,domicilio
+🍦:helado,cucurucho,vainilla,postre
+🍧:granizado,hielo raspado,postre,frío
+🍨:copa de helado,postre,dulce,frío
+🍩:dónut,rosquilla,dulce,desayuno
+🍪:galleta,cookie,chocolate,dulce
+🎂:tarta de cumpleaños,pastel,celebración,velas
+🍰:trozo de tarta,pastel,postre,fresa
+🧁:magdalena,cupcake,postre,dulce
+🥧:tarta,pastel,postre,manzana
+🍫:chocolate,tableta,dulce,cacao
+🍬:caramelo,dulce,golosina,azúcar
+🍭:piruleta,chupachups,dulce,azúcar
+🍮:flan,pudin,postre,dulce
+🍯:miel,tarro,dulce,abeja
+🍼:biberón,leche,bebé
+🥛:vaso de leche,lácteo,calcio,beber
+☕:café,taza caliente,desayuno,cafeína
+🫖:tetera,te,infusión,caliente,relajación
+🍵:té,taza de té,matcha,infusión
+🍶:sake,licor japonés,beber
+🍾:botella de champán,cava,celebración,brindis
+🍷:copa de vino,vino tinto,alcohol,beber
+🍸:copa de cóctel,martini,alcohol,fiesta
+🍹:cóctel tropical,bebida,fruta,vacaciones
+🍺:jarra de cerveza,alcohol,bar,beber
+🍻:jarras de cerveza brindando,brindis,salud,amigos
+🥂:copas brindando,champán,salud,celebración
+🥃:vaso de whisky,licor,alcohol,beber
+🫗:derramar líquido,verter,acción,fluido,caída
+🥤:vaso con pajita,refresco,soda,bebida
+🧋:bubble tea,té con tapioca,beber,dulce,moderno
+🧃:zumo en tetrabrik,jugo,bebida,caja
+🧉:mate,infusión,sudamérica,bebida
+🧊:cubito de hielo,frío,agua,congelado
+🥢:palillos,comida asiática,utensilio,comer,cocina
+🍽️:plato cubiertos,comida,cena,restaurante,alimentación
+🍴:tenedor,utensilio,cocina,comer,mesa
+🥄:cuchara,utensilio,comida,sopa,cocina
+🔪:cuchillo,cortar,cocina,arma
+🫙:frasco,contenedor,almacenamiento,vidrio,cocina
+🏺:ánfora,vasija,antiguo,grecia
+🌍:planeta Tierra,mundo,geografía,global,planeta
+🌎:América,planeta Tierra,occidente,geografía,mundo
+🌏:Asia-Oceanía,planeta Tierra,geografía,este,mundo
+🌐:globo terráqueo con meridianos,internet,mundo,red
+🗺️:mapa mundial,mundo,geografía,viajar,mapa,viaje,explorar
+🗾:mapa Japón,geografía,Asia,territorio,islas
+🧭:brújula,navegación,orientación,viaje,dirección,mapa
+🏔️:montaña nevada,nieve,frío,invierno
+⛰️:montaña,naturaleza,escalar,pico,aventura
+🛘:ruta,camino,viaje,desplazamiento,carretera
+🌋:volcán,lava,erupción,montaña,peligro,naturaleza
+🗻:monte fuji,japón,volcán,montaña
+🏕️:camping,tienda de campaña,naturaleza,bosque,tienda,aventura
+🏖️:playa y sombrilla,mar,verano,arena,playa,vacaciones
+🏜️:desierto,arena,calor,cactus,soledad
+🏝️:isla desierta,palmera,playa,mar,isla,desierta,relax
+🏞️:paisaje natural,montañas,naturaleza,viaje,escenario
+🏟️:estadio,deporte,fútbol,concierto
+🏛️:edificio clásico,museo,arquitectura,columnas
+🏗️:grúa de construcción,obra,edificio
+🧱:ladrillo,construcción,muro,pared
+🪨:roca,piedra,naturaleza,geología,dureza
+🪵:madera,tronco,naturaleza,material,árbol
+🛖:cabaña,choza,vivienda,rústico,refugio
+🏘️:casas,barrio,vecindario,viviendas
+🏚️:casa abandonada,ruina,viejo,roto
+🏠:casa,hogar,edificio,vivienda,residencia
+🏡:casa con jardín,hogar,chalet,vivienda
+🏢:edificio de oficinas,trabajo,empresa,ciudad,negocios
+🏣:oficina de correos japonesa,correos,japón
+🏤:oficina de correos,carta,paquete,envío
+🏥:hospital,médico,salud,clínica,emergencia
+🏦:banco,dinero,finanzas,edificio,economía
+🏨:hotel,alojamiento,dormir,viaje
+🏩:hotel del amor,corazón,pareja,alojamiento
+🏪:tienda 24 horas,comercio,comprar
+🏫:escuela,colegio,estudio,educación,clase
+🏬:grandes almacenes,tienda,compras,centro comercial
+🏭:fábrica,industria,humo,chimenea
+🏯:castillo japonés,japón,edificio,historia
+🏰:castillo,fortaleza,princesa,medieval
+💒:iglesia de boda,matrimonio,casarse,amor
+🗼:torre de tokio,japón,monumento,ciudad
+🗽:estatua de la libertad,nueva york,usa,monumento
+⛪:iglesia,religión,cristiano,cruz
+🕌:mezquita,religión,islam,musulmán
+🛕:templo hindú,religión,hinduismo,india
+🕍:sinagoga,religión,judío,judaísmo
+⛩️:santuario sintoísta,japón,tori,religión
+🕋:kaaba,islam,meca,religión
+⛲:fuente,agua,parque
+⛺:tienda de campaña,camping,naturaleza
+🌁:niebla,bruma,clima,visibilidad,atmósfera
+🌃:noche urbana,ciudad,nocturno,luces,oscuridad
+🏙️:ciudad,urbano,edificios,metrópoli,arquitectura
+🌄:amanecer en montaña,sol,mañana,paisaje,naturaleza
+🌅:amanecer,sol naciente,mañana,esperanza,día
+🌆:atardecer urbano,ciudad,ocaso,luces,transición
+🌇:puesta de sol,atardecer,ocaso,ciudad,calma
+🌉:puente nocturno,arquitectura,ciudad,conexión,viaje
+♨️:aguas termales,caliente,vapor,japón
+🎠:caballo de tiovivo,carrusel,parque de atracciones,feria
+🛝:tobogán,parque,infancia,juego,diversión
+🎡:noria,parque de atracciones,feria,diversión
+🎢:montaña rusa,parque de atracciones,feria,diversión
+💈:poste de barbero,peluquería,cortar pelo,rayas
+🎪:circo,espectáculo,carpa,entretenimiento,show
+🚂:locomotora de vapor,tren,clásico,ferrocarril
+🚃:vagón,tren,transporte
+🚄:tren bala,alta velocidad,japón,shinkansen
+🚅:tren bala con morro,alta velocidad,transporte
+🚆:tren,transporte público,viaje
+🚇:metro,tren subterráneo,transporte público
+🚈:tren ligero,ferrocarril,transporte
+🚉:estación,tren,transporte
+🚊:tranvía,transporte público,ciudad
+🚝:monorraíl,tren,transporte
+🚞:tren de montaña,ferrocarril,transporte
+🚋:tranvía,transporte público,ciudad
+🚌:autobús,bus,transporte público,viaje,ciudad
+🚍:autobús de frente,transporte público,bus
+🚎:trolebús,transporte público,bus
+🚐:minibús,furgoneta,transporte,vehículo
+🚑:ambulancia,hospital,emergencia,médico
+🚒:coche de bomberos,emergencia,fuego,sirena
+🚓:coche de policía,patrulla,emergencia,sirena
+🚔:coche de policía de frente,patrulla,emergencia
+🚕:taxi,transporte,coche,amarillo,servicio,viaje
+🚖:taxi de frente,transporte,coche
+🚗:coche,automóvil,conducir,vehículo,transporte
+🚘:coche de frente,automóvil,vehículo
+🚙:vehículo deportivo,suv,coche,conducir
+🛻:camioneta,pickup,vehículo,transporte,carga
+🚚:camión de reparto,transporte,envío,paquete
+🚛:camión articulado,transporte,carga,tráiler
+🚜:tractor,granja,agricultura,campo
+🏎️:coche de carreras,fórmula 1,velocidad,deporte
+🏍️:moto,motocicleta,velocidad,carrera,transporte,ruta
+🛵:scooter de motor,moto,vespa
+🦽:silla de ruedas manual,discapacidad,accesibilidad
+🦼:silla de ruedas motorizada,discapacidad,accesibilidad
+🛺:motocarro,tuk tuk,transporte,asia
+🚲:bicicleta,bici,ciclismo,pedal,transporte,deporte
+🛴:patinete,scooter,transporte
+🛹:skateboard,tabla,patinaje urbano,truco,calle
+🛼:patines,rollers,patinaje,ruedas,diversión
+🚏:parada de autobús,transporte,esperar
+🛣️:carretera,autopista,viaje,ruta,conducción
+🛤️:vías de tren,ferrocarril,tren,transporte,infraestructura
+🛢️:barril de petróleo,aceite,gas,bidón
+⛽:surtidor de gasolina,gasolinera,combustible,coche
+🛞:rueda,llanta,neumático,vehículo,movimiento
+🚨:luz de policía,sirena,emergencia,alarma
+🚥:semáforo horizontal,tráfico,luces
+🚦:semáforo,tráfico,conducir,luces
+🛑:señal de stop,parar,detenerse,tráfico
+🚧:valla de obras,construcción,peligro,precaución
+⚓:ancla,mar,barco,marinero
+🛟:salvavidas,seguridad acuática,flotador,rescate,agua
+⛵:velero,barco,mar,navegar
+🛶:canoa,barca,remo,agua
+🚤:lancha motora,barco,velocidad,mar
+🛳️:barco de pasajeros,crucero,viaje,mar
+⛴️:ferry,transbordador,barco,mar
+🛥️:yate,barco,mar,lujo
+🚢:barco,buque,mar,océano
+✈️:avión,vuelo,viajar,aeropuerto,transporte
+🛩️:avioneta,avión pequeño,vuelo
+🛫:avión despegando,salida,vuelo,viajar
+🛬:avión aterrizando,llegada,vuelo,viajar
+🪂:paracaídas,salto,aire,caída libre,extremo
+💺:asiento,silla,avión,tren
+🚁:helicóptero,vuelo,transporte
+🚟:ferrocarril colgante,tren,transporte
+🚠:telecabina,montaña,transporte
+🚡:teleférico,montaña,transporte
+🛰️:satélite,espacio,órbita,comunicación
+🚀:cohete,espacio,despegue,nave,exploración
+🛸:platillo volante,ovni,alien,espacio
+🛎️:timbre de recepción,hotel,servicio,campana
+🧳:maleta,viaje,equipaje,bolsa,transporte,turismo,packing
+⌛:reloj de arena,tiempo,espera,paso del tiempo,urgencia,arena,temporizador
+⏳:arena cayendo,tiempo,espera,proceso,transcurso,reloj arena,pasar,cuenta atrás
+⌚:reloj,smartwatch,tiempo,hora,alarma
+⏰:despertador,alarma,mañana,tiempo,despertar,reloj
+⏱️:cronómetro,tiempo exacto,medición,deporte,velocidad
+⏲️:temporizador,cuenta regresiva,cocina,tiempo,alarma
+🕰️:reloj antiguo,tiempo,decoración,hora,clásico
+🕛:medianoche,12
+🕧:12
+🕐:1
+🕜:1
+🕑:2
+🕝:2
+🕒:3
+🕞:3
+🕓:4
+🕟:4
+🕔:5
+🕠:5
+🕕:6
+🕡:6
+🕖:7
+🕢:7
+🕗:8
+🕣:8
+🕘:9
+🕤:9
+🕙:10
+🕥:10
+🕚:11
+🕦:11
+🌑:luna nueva,oscuridad,noche,astronomía,fase lunar
+🌒:luna creciente,fase lunar,noche,astronomía,crecimiento
+🌓:cuarto lunar,mitad luna,fase lunar,astronomía
+🌔:luna gibosa creciente,iluminación,fase lunar,astronomía
+🌕:luna llena,noche,brillo,fase lunar,astronomía
+🌖:luna gibosa menguante,fase lunar,noche,astronomía
+🌗:cuarto menguante,media luna,fase lunar,astronomía
+🌘:luna menguante,oscuridad,fase lunar,noche
+🌙:luna,astronomía,noche,cielo,calma,oscuro,descanso
+🌚:luna nueva con cara,humor,oscuridad,noche,expresión
+🌛:luna creciente con cara,humor,noche,fantasia,expresión
+🌜:luna menguante con cara,humor,noche,fantasia,expresión
+🌡️:termómetro,temperatura,calor,enfermo
+☀️:sol,día,calor,clima,verano,luz
+🌝:luna llena con cara,noche,humor,expresión,astronomía
+🌞:sol con cara,día,felicidad,calor,energía
+🪐:planeta con anillos,Saturno,espacio,astronomía,universo
+⭐:estrella,brillo,noche,éxito,astronomía,favorito,brillante,importante,ranking,cielo,night
+🌟:estrella brillante,éxito,magia,gloria,destello
+🌠:estrella fugaz,deseo,magia,noche,astronomía
+🌌:galaxia,universo,espacio,cielo,cosmos
+☁️:nube,clima,cielo,tiempo,atmósfera,gris,aire
+⛅:sol con nubes,clima,parcialmente soleado,tiempo,meteorología
+⛈️:tormenta eléctrica,lluvia,truenos,clima,tormenta,rayo,peligro
+🌤️:sol con nube ligera,clima,parcialmente soleado,tiempo
+🌥️:cielo nublado,clima,nubes,tiempo,gris
+🌦️:lluvia y sol,clima,cambio meteorológico,arco,tiempo
+🌧️:lluvia,clima,precipitación,agua,meteorología,triste,tormenta
+🌨️:nieve,invierno,frío,clima,precipitación
+🌩️:relámpago,tormenta,rayos,clima,energía
+🌪️:tornado,viento extremo,tormenta,clima,desastre
+🌫️:niebla,bruma,visibilidad,clima,atmósfera
+🌬️:viento,aire,soplo,clima,movimiento
+🌀:ciclón,espiral,tormenta,mareo
+🌈:arcoíris,lluvia y sol,esperanza,clima,colores,diversidad,felicidad
+🌂:paraguas cerrado,lluvia,protección,clima,accesorio
+☂️:paraguas,lluvia,protección,clima,impermeable
+☔:lluvia con paraguas,clima,agua,tormenta,protección
+⛱️:sombrilla en la arena,playa,verano,sol
+⚡:rayo,electricidad,energía,tormenta,poder,rápido
+❄️:nieve,frío,invierno,hielo,clima
+☃️:muñeco de nieve,invierno,nieve,frío,diversión
+⛄:muñeco de nieve,invierno,nieve,clima,frío
+☄️:cometa,espacio,astronomía,meteorito,universo
+🔥:fuego,calor,energía,ardiente,flamas,caliente,viral,top,épico,trending,popular
+💧:gota,agua,líquido,salpicar,humedad,lluvia
+🌊:ola,mar,agua,océano,naturaleza
+🎃:Halloween,calabaza,terror,fiesta,otoño
+🎄:árbol de Navidad,fiestas,Navidad,decoración,inverno
+🎆:fuegos artificiales,celebración,fiesta,noche,espectáculo
+🎇:chispa,pirotecnia,celebración,brillo,fiesta
+🧨:petardo,explosivo,pólvora,fuegos artificiales
+✨:brillo,magia,destellos,glamour,efecto,estrellas,estrella,brillos,bonito,estético,shiny
+🎈:globo,fiesta,cumpleaños,rojo
+🎉:celebración,fiesta,confeti,evento,alegría,party
+🎊:celebración,fiesta,confeti,evento,alegría
+🎋:bambú,festival japonés,tradición,naturaleza,decoración
+🎍:pino japonés,año nuevo,tradición,decoración,festivo
+🎎:muñecas japonesas,festival,Hinamatsuri,tradición,cultura
+🎏:banderas de carpas,japón,festival,niños
+🎐:campana de viento,sonido,decoración,viento,relajación
+🎑:contemplación de la luna,festival japonés,otoño,tradición,noche
+🧧:sobre rojo,regalo,dinero,suerte,celebración
+🎀:lazo,cinta,adorno,rosa
+🎁:regalo,presente,cumpleaños,sorpresa
+🎗️:lazo,conciencia,apoyo,causa,solidaridad
+🎟️:ticket,entrada,eventos,acceso,boletos
+🎫:boleto,entrada,eventos,viaje,admisión
+🎖️:medalla militar,honor,logro,servicio,reconocimiento
+🏆:trofeo,ganador,victoria,competición,éxito
+🏅:medalla,deporte,logro,competición,oro
+🥇:oro,primer lugar,victoria,competición,éxito
+🥈:plata,segundo lugar,competición,medalla,logro
+🥉:bronce,tercer lugar,competición,medalla,logro
+⚽:fútbol,pelota,balón,deporte
+⚾:béisbol,pelota,deporte
+🥎:sóftbol,pelota,deporte
+🏀:baloncesto,pelota,canasta,deporte
+🏐:voleibol,pelota,deporte
+🏈:fútbol americano,balón,deporte
+🏉:rugby,balón,deporte
+🎾:tenis,raqueta,pelota,deporte
+🥏:disco volador,frisbee,deporte
+🎳:bolos,strike,juego,deporte,pista,competición
+🏏:críquet,bate,pelota,deporte
+🏑:hockey sobre hierba,palo,pelota,deporte
+🏒:hockey sobre hielo,palo,disco,deporte
+🥍:lacrosse,palo,pelota,deporte
+🏓:tenis de mesa,ping pong,raqueta,deporte
+🏸:bádminton,raqueta,volante,deporte
+🥊:guante de boxeo,lucha,deporte,pelea
+🥋:kimono de artes marciales,judo,karate,taekwondo
+🥅:portería,red,gol,fútbol
+⛳:golf,hoyo,bandera,deporte
+⛸️:patín de hielo,patinaje,invierno,deporte
+🎣:caña de pescar,pesca,pez,deporte
+🤿:gafas de buceo,snorkel,submarinismo,mar
+🎽:camiseta de running,correr,atletismo,deporte
+🎿:esquís,esquí,nieve,invierno
+🛷:trineo,nieve,invierno
+🥌:piedra de curling,curling,hielo,deporte
+🎯:diana,dardos,puntería,objetivo,acierto,meta,precisión
+🪀:yoyó,juguete,juego
+🪁:cometa,volar,viento,juguete
+🔫:pistola de agua,arma,juguete,disparar,agua
+🎱:bola 8,billar,juego,suerte
+🔮:bola de cristal,futuro,adivino,magia
+🪄:varita mágica,magia,hechizo,mago
+🎮:mando de videoconsola,videojuegos,jugar,gamer,gaming,consola,control,diversión
+🕹️:joystick,arcade,videojuego,retro,control,clásico
+🎰:máquina tragaperras,casino,apuesta,suerte
+🎲:dado,juego,azar,suerte,casino,random
+🧩:pieza de puzle,rompecabezas,juego,encajar
+🧸:osito de peluche,juguete,niño,abrazo
+🪅:piñata,fiesta,caramelos,celebración
+🪩:disco bola,fiesta,discoteca,baile,brillo
+🪆:muñeca rusa,matrioska,juguete,madera
+♠️:picas,cartas,póker,baraja
+♥️:corazones,cartas,póker,baraja
+♦️:diamantes,cartas,póker,baraja
+♣️:tréboles,cartas,póker,baraja
+♟️:peón de ajedrez,juego de mesa,estrategia
+🃏:joker,comodín,cartas,baraja
+🀄:mahjong,dragón rojo,juego,chino
+🎴:cartas de flores,juego japonés,hanafuda
+🎭:máscaras de teatro,drama,comedia,actuar
+🖼️:cuadro,pintura,arte,marco
+🎨:paleta de pintor,arte,colores,dibujar
+🧵:hilo,coser,aguja,costura,tejer,manual,ropa
+🪡:aguja,costura,tejido,manualidad,hilo,coser,manual
+🧶:ovillo de lana,tejer,punto,gato
+🪢:cuerda,nudo,amarre,unión,resistencia
+👓:gafas,visión,anteojos,lectura,óptica
+🕶️:gafas de sol,estilo,protección solar,moda,verano
+🥽:gafas de protección,seguridad,laboratorio,industrial,protección
+🥼:bata de laboratorio,ciencia,investigación,medicina,trabajo
+🦺:chaleco de seguridad,protección,obra,visibilidad,trabajo
+👔:corbata,formal,traje,negocios,ropa
+👕:camiseta,ropa casual,camiseta básica,moda,diario
+👖:pantalones,denim,jeans,ropa,casual
+🧣:bufanda,invierno,frío,abrigo,ropa
+🧤:guantes,invierno,protección,frío,ropa
+🧥:abrigo,chaqueta,invierno,ropa,calor
+🧦:calcetines,ropa interior,comodidad,calzado,ropa
+👗:vestido,moda,mujer,elegancia,ropa
+👘:kimono,tradición japonesa,cultura,vestimenta,ropa
+🥻:sari,India,tradición,vestimenta,cultura
+🩱:traje de baño mujer,natación,playa,piscina,verano
+🩲:ropa interior,ropa íntima,comodidad,prenda,uso diario
+🩳:shorts,verano,ropa casual,calor,comodidad
+👙:bikini,playa,verano,natación,ropa
+👚:blusa,ropa femenina,moda,casual,vestimenta
+🪭:abanico,aire,calor,tradición,refresco
+👛:monedero,dinero,bolsa pequeña,accesorio,compras
+👜:bolso,cartera,moda,accesorio,uso diario
+👝:bolso pequeño,clutch,accesorio,moda,guardar objetos
+🛍️:bolsas de compra,comprar,tienda,regalo
+🎒:mochila,escuela,viaje,bolsa,educación,equipaje,aventura
+🩴:sandalias,verano,playa,calzado,comodidad
+👞:zapato hombre,formal,calzado,vestimenta,elegante
+👟:zapatillas,deporte,calzado,tenis,comodidad
+🥾:botas,senderismo,montaña,calzado,aventura
+🥿:zapato plano,calzado,mujer,comodidad,moda
+👠:tacón,zapato alto,moda,elegancia,mujer
+👡:sandalia mujer,verano,calzado,moda,comodidad
+🩰:ballet,zapatillas de punta,danza,arte,baile
+👢:botas altas,moda,invierno,calzado,estilo
+🪮:peine,cabello,peinado,aseo,estética
+👑:corona,realeza,rey,reina,poder
+👒:sombrero mujer,moda,verano,protección solar,estilo
+🎩:sombrero formal,elegancia,traje,magia,estilo
+🎓:birrete,graduación,educación,logro,universidad
+🧢:gorra,casual,deporte,moda,protección
+🪖:casco militar,protección,ejército,seguridad,guerra
+⛑️:casco con cruz,emergencia,seguridad,rescate,protección
+📿:rosario,rezar,collar,religión
+💄:maquillaje,labial,belleza,cosmética,estilo
+💍:anillo,matrimonio,amor,compromiso,joya
+💎:gema,diamante,joya,precioso
+🔇:silencio,mutear,sonido apagado,audio,quietud
+🔈:altavoz bajo,volumen bajo,sonido,audio,reproducción
+🔉:altavoz medio,volumen,sonido,audio,media intensidad
+🔊:altavoz alto,volumen fuerte,sonido,ruido,audio
+📢:megáfono,anuncio,comunicación,avisos,alto volumen,comunicar,aviso,voz
+📣:altavoz manual,anuncio,animación,evento,comunicación,altavoz,publicidad,gritar,aviso
+📯:cuerno postal,heraldo,anuncio,antiguo,sonido,cuerno,señal,alerta
+🔔:campana,notificación,alerta,sonido,avisos
+🔕:campana silenciada,sin sonido,notificación,mute,callado
+🎼:pentagrama,música,partitura,clave de sol,notas,composición,clásico
+🎵:nota musical,música,canción,melodía
+🎶:notas musicales,música,canción,melodía
+🎙️:micrófono,podcast,grabación,voz,hablar
+🎚️:control deslizante,audio,mezcla,sonido,ajuste
+🎛️:controles audio,mezclador,producción,sonido,ajuste
+🎤:micrófono,cantar,karaoke,voz,música,escenario
+🎧:auriculares,escuchar,música,cascos,sonido,audio
+📻:radio,transmisión,música,noticias,ondas
+🎷:saxofón,jazz,música,instrumento,sonido
+🎺:trompeta,jazz,música,instrumento,bronce
+🪊:instrumento de percusión,sonido,música,ritmo,tradicional
+🪗:acordeón,música,folk,sonido,interpretación
+🎸:guitarra,rock,música,instrumento,cuerdas
+🎹:teclado musical,piano,música,instrumento,teclado,melodía
+🎻:violín,orquesta,música,instrumento
+🪕:banjo,música,instrumento,country
+🥁:tambor,batería,música,percusión,ritmo
+🪘:tambor,percusión,ritmo,música,africano
+🪇:maracas,ritmo,música,percusión,baile
+🪈:flauta,música,viento,melodía,instrumento
+🪉:instrumento musical,arpa,melodía,sonido,cuerdas
+📱:teléfono móvil,smartphone,celular,llamada,chat,app
+📲:teléfono móvil,recibir llamada,chat,mensaje,comunicación
+☎️:teléfono clásico,llamar,fijo,comunicación
+📞:auricular de teléfono,llamar,hablar,contacto
+📟:busca,mensáfono,tecnología antigua,mensaje
+📠:fax,enviar,documento,máquina
+🔋:pila,batería,energía,carga,porcentaje
+🪫:batería baja,energía,descarga,dispositivo,alerta,poca batería
+🔌:enchufe,electricidad,cable,conectar,energía
+💻:ordenador portátil,laptop,pc,tecnología,trabajo,programación,ordenador
+🖥️:computadora escritorio,PC,tecnología,trabajo,informática,pc escritorio,monitor,ordenador,oficina,setup
+🖨️:impresora,documentos,oficina,imprimir,tecnología,papel,documento
+⌨️:teclado,escritura,computadora,entrada,tecnología,escribir,pc,hardware,typing
+🖱️:mouse,ratón,computadora,navegación,control,pc,click
+🖲️:trackball,control,computadora,tecnología,apuntador
+💽:disco óptico,almacenamiento,datos,tecnología,música
+💾:disquete,datos antiguos,almacenamiento,tecnología,retro
+💿:CD,música,datos,disco,tecnología
+📀:DVD,video,almacenamiento,disco,tecnología
+🧮:ábaco,matemáticas,cálculo,contabilidad,educación,calculadora,números,operaciones
+🎥:cámara de cine,grabación,película,video,producción,cámara de video,filmación,cine
+🎞️:fotogramas,cine,film,rodaje,edición
+📽️:proyector,cine,video,proyección,entretenimiento
+🎬:claqueta,cine,grabación,rodaje,película
+📺:televisión,TV,programas,video,entretenimiento,tv,pantalla,ver
+📷:cámara,fotografía,foto,imagen,captura,flash
+📸:cámara con flash,foto,imagen,flash,fotografía,cámara,recuerdo,disparo,photography
+📹:videocámara,video,grabación,filmación,contenido,grabar,rec
+📼:VHS,video antiguo,cinta,retro,grabación,vhs,video,antiguo
+🔍:lupa,investigación,búsqueda,detalle,explorar,buscar,investigar,zoom
+🔎:lupa grande,búsqueda,investigación,detallado,explorar,lupa derecha,buscar,detalle,zoom,análisis
+🕯️:vela,luz,fuego,cera
+💡:bombilla,idea,luz,iluminación,creatividad
+🔦:linterna,luz,iluminar,oscuridad,noche
+🏮:farol rojo,decoración,cultura asiática,festival,luz
+🪔:lámpara de aceite,Diwali,luz,tradición,festival
+📔:cuaderno decorado,notas,escritura,diario,educación
+📕:libro rojo,lectura,estudio,educación,libro
+📖:libro abierto,lectura,estudio,conocimiento,educación
+📗:libro verde,lectura,educación,estudio,libro
+📘:libro azul,lectura,educación,estudio,libro
+📙:libro naranja,lectura,educación,estudio,libro
+📚:libros apilados,estudio,biblioteca,educación,conocimiento
+📓:cuaderno,notas,escritura,estudio,apuntes
+📒:libreta,notas,oficina,escritura,registro
+📃:documento enrollado,texto,archivo,oficial,papel
+📜:pergamino,documento antiguo,historia,escritura,certificado
+📄:hoja de papel,documento,escritura,archivo,texto,papel,oficina
+📰:periódico,noticias,información,actualidad,prensa
+🗞️:periódico enrollado,noticias,prensa,información,actualidad
+📑:separadores,organización,documentos,marcadores,archivo
+🔖:marcador de libro,lectura,libro,guardar,educación
+🏷️:etiqueta,precio,marca,identificación,organización,oferta,tag,descuento
+🪙:moneda,dinero,oro,finanzas,valor,efectivo,pago,economía
+💰:bolsa de dinero,riqueza,dólar,millonario,dinero,ahorro
+🪎:moneda antigua,colección,historia,dinero,valo
+💴:billete de yen,dinero,japón,moneda
+💵:billete de dólar,dinero,efectivo,billete
+💶:billete de euro,dinero,europa,moneda
+💷:billete de libra,dinero,reino unido,moneda
+💸:billete con alas,dinero,gastar,volar,dinero volando,pérdida,derroche,pago
+💳:tarjeta de crédito,pagar,comprar,banco,pago digital
+🧾:recibo,comprobante,pago,compra,finanzas,factura,documento
+💹:gráfico con tendencia al alza y yen,economía,dinero,mercado
+✉️:sobre,carta,correo,mensaje,comunicación,email
+📧:email,correo electrónico,mensaje,comunicación,digital
+📨:correo recibido,mensaje,entrada,comunicación,email,notificación
+📩:correo enviado,mensaje,salida,email,comunicación,enviar
+📤:bandeja salida,envío,correo,archivo,organización
+📥:bandeja entrada,correo,recepción,mensajes,organización
+📦:paquete,caja,envío,entrega,delivery,logística,shipping
+📫:buzón cerrado,correo,cartas,recepción,postal
+📪:buzón abierto,bajo correo,postal,envío,correo
+📬:buzón con bandera,correo recibido,postal,cartas,buzón,carta,correo,mensaje,envío
+📭:buzón vacío,correo,postal,envío,ausencia
+📮:buzón rojo,correo,postal,envío,cartas
+🗳️:votación,elecciones,democracia,urna,participación
+✏️:lápiz,escritura,dibujo,educación,apuntar
+✒️:pluma estilográfica,escritura,elegancia,firmar,caligrafía
+🖋️:pluma tinta,escritura,firmar,caligrafía,documentos
+🖊️:bolígrafo,escritura,oficina,apuntar,notas
+🖌️:pincel,pintura,arte,dibujo,creación
+🖍️:crayón,dibujo,infancia,colores,arte
+📝:nota,apuntes,escritura,recordatorio,documento
+💼:maletín,trabajo,oficina,negocios,profesional
+📁:carpeta,archivos,documentos,organización,oficina
+📂:carpeta abierta,archivos,documentos,acceso,organización
+🗂️:separadores de archivo,organización,oficina,documentos,clasificación
+📅:calendario,fecha,planificación,tiempo,agenda,día,evento
+📆:calendario espiral,fechas,planificación,agenda,tiempo,calendario arrancable,día,fecha
+🗒️:bloc notas,apuntes,escritura,recordatorio,lista
+🗓️:calendario con páginas,agenda,fecha,planificación,tiempo
+📇:fichas,contactos,agenda,organización,datos
+📈:gráfico subiendo,crecimiento,estadísticas,éxito,datos,gráfico crecimiento,subida,ganancia,finanzas
+📉:gráfico bajando,descenso,estadísticas,caída,datos,gráfico bajada,pérdida,fracaso,finanzas
+📊:gráfico barras,estadísticas,datos,análisis,información,estadística,negocios
+📋:portapapeles,lista,tareas,organización,checklist,notas
+📌:chincheta,fijar,marcar,organización,recordatorio
+📍:pin de ubicación,mapa,localización,geografía,marcar
+📎:clip,papel,unión,oficina,documentos
+🖇️:clips encadenados,unión,oficina,documentos,organización
+📏:regla,medición,longitud,matemáticas,dibujo
+📐:escuadra,regla ángulo,geometría,medición,matemáticas
+✂️:tijeras,cortar,papel,manualidades,oficina
+🗃️:archivador,tarjetas,organización,datos,oficina
+🗄️:archivador metálico,documentos,oficina,archivos,organización
+🗑️:papelera,basura,eliminar,borrar,reciclar
+🔒:candado,seguridad,bloqueado,privacidad,cerrado,privado
+🔓:candado abierto,desbloqueado,acceso,seguridad,libre
+🔏:candado con pluma,firmar,seguridad,documento,privacidad
+🔐:candado con llave,seguridad,protección,datos,cifrado
+🔑:llave,abrir,cerradura,puerta,cerrar,acceso,seguridad
+🗝️:llave antigua,abrir,cerradura,secreto,tesoro,acceso
+🔨:martillo,herramienta,clavo,golpear,construcción
+🪓:hacha,cortar,leña,herramienta,madera
+⛏️:pico,herramienta,minería,cavar
+⚒️:martillo y pico,herramientas,trabajo,minería
+🛠️:martillo y llave inglesa,herramientas,reparación,construcción
+🗡️:daga,espada,arma,cuchillo
+⚔️:espadas cruzadas,batalla,lucha,guerra
+💣:bomba,explosión,peligro,dinamita
+🪃:boomerang,regreso,lanzamiento,Australia,arma tradicional
+🏹:arco y flecha,tiro con arco,precisión,deporte,caza
+🛡️:escudo,defensa,proteger,caballero
+🪚:sierra,madera,corte,herramienta,carpintería,cortar,bricolaje
+🔧:llave inglesa,herramienta,reparar,tuerca,llave,mecánico,arreglar
+🪛:destornillador,herramienta,reparación,tornillos,manual
+🔩:tuerca y tornillo,herramienta,reparar,ferretería
+⚙️:engranaje,rueda dentada,mecanismo,ajustes,configuración,sistema
+🗜️:prensa,apretar,herramienta,fijar,ajuste
+⚖️:balanza,justicia,peso,derecho
+🦯:bastón blanco,ciego,accesibilidad
+🔗:enlace,cadena,conexión,vínculo,unión
+⛓️‍💥:cadenas rotas,libertad,ruptura,escape,quiebre
+⛓️:cadenas,enlace,atar,metal
+🪝:gancho,sujetar,herramienta,enganche,utilidad
+🧰:caja de herramientas,reparar,mecánico,bricolaje,kit
+🧲:imán,atracción,magnetismo,herradura,física,metal
+🪜:escalera,subir,altura,acceso,herramienta
+🪏:pala,excavar,jardín,tierra,trabajo
+⚗️:alambique,química,ciencia,laboratorio,experimento,mezcla
+🧪:tubo de ensayo,química,ciencia,experimento,laboratorio
+🧫:placa de petri,ciencia,laboratorio,cultivo,bacterias
+🧬:adn,genética,ciencia,biología,estructura,gen
+🔬:microscopio,ciencia,laboratorio,investigación,investigar,biología
+🔭:telescopio,estrellas,astronomía,espacio,observar
+📡:antena,comunicación,señal,radio,transmisión,red
+💉:jeringa,vacuna,sangre,aguja
+🩸:gota de sangre,sangrar,donar,rojo
+💊:píldora,medicina,pastilla,enfermo
+🩹:tirita,curita,herida,curar
+🩼:muleta,apoyo,movilidad,lesión,rehabilitación
+🩺:estetoscopio,médico,corazón,salud
+🩻:radiografía,rayos X,medicina,diagnóstico,imagen médica
+🚪:puerta,entrar,salir,habitación,acceso
+🛗:ascensor,elevador,edificio,subir,bajar
+🪞:espejo,reflejo,imagen,baño,superficie
+🪟:ventana,luz,aire,edificio,visión exterior
+🛏️:cama,dormir,habitación,mueble,descanso
+🛋️:sofá y lámpara,salón,descansar,mueble
+🪑:silla,sentarse,mueble,madera,descanso
+🚽:inodoro,baño,váter,retrete
+🪠:desatascador,plomería,baño,obstrucción,limpieza
+🚿:ducha,baño,agua,lavar
+🛁:bañera,baño,agua,lavar
+🪤:trampa,ratón,control plagas,enganche,animal
+🪒:rastrillo,afeitar,barba,aseo,personal
+🧴:bote de loción,crema,gel,jabón,loción,belleza,cuidado,skincare
+🧷:imperdible,enganche,ropa,sujetar,arreglo,seguro,clip
+🧹:escoba,barrer,limpiar,bruja
+🧺:cesta,ropa,picnic,mimbre
+🧻:rollo de papel,papel higiénico,baño,limpiar
+🪣:cubo,balde,agua,limpieza,contenedor
+🧼:jabón,lavar,limpio,burbujas
+🫧:burbujas,espuma,limpieza,jabón,agua
+🪥:cepillo de dientes,higiene,dental,limpieza,salud
+🧽:esponja,limpiar,lavar,amarillo
+🧯:extintor,incendio,seguridad,fuego,emergencia,apagar
+🛒:carrito de la compra,supermercado,comprar,tienda,carrito compra,ecommerce
+🚬:cigarro,fumar,tabaco,humo
+⚰️:ataúd,muerte,entierro,vampiro
+🪦:tumba,cementerio,memorial,duelo,descanso
+⚱️:urna funeraria,cenizas,muerte,vasija
+🧿:ojo turco,amuleto,protección,suerte
+🪬:mano protectora,amuleto,protección,espiritualidad,suerte
+🗿:estatua moái,isla de pascua,piedra,misterio
+🪧:cartel,señal,protesta,información,anuncio
+🪪:identificación,ID,documento,identidad,seguridad,id,personal,credencial
+🏧:cajero automático,dinero,banco,sacar dinero,atm,retirar
+🚮:basura,desechar,limpieza,reciclaje,orden
+🚰:agua potable,grifo,beber,fuente
+♿:símbolo de silla de ruedas,accesibilidad,discapacidad,minusválido
+🚹:baño hombres,aseo,WC,servicio,letrero
+🚺:baño mujeres,aseo,WC,servicio,letrero
+🚻:baño público,WC,aseo,servicios,instalación
+🚼:bebé,guardería,cuidado infantil,señal,infancia
+🚾:aseo,baño,lavabo,wc
+🛂:control de pasaportes,aduana,aeropuerto,viaje
+🛃:aduana,aeropuerto,equipaje,viaje
+🛄:recogida de equipajes,maletas,aeropuerto,viaje
+🛅:consigna,equipaje,maletas,guardar
+⚠️:advertencia,peligro,precaución,aviso,alerta,riesgo
+🚸:niños cruzando,escuela,tráfico,precaución
+⛔:dirección prohibida,no pasar,stop,tráfico
+🚫:símbolo de prohibido,no,parar,restricción,prohibido,bloqueo,denegado
+🚳:prohibido ir en bicicleta,no bicis,restricción
+🚭:prohibido fumar,no fumar,tabaco,salud
+🚯:prohibido tirar basura,no ensuciar,limpio
+🚱:agua no potable,no beber,peligro,grifo
+🚷:prohibido el paso de peatones,no caminar,peligro
+📵:prohibido usar el móvil,no teléfonos,silencio
+🔞:prohibido para menores de 18,adultos,mayoría de edad,sexo,18
+☢️:radiactivo,peligro,radiación,tóxico
+☣️:riesgo biológico,peligro,virus,tóxico
+⬆️:arriba,dirección,subir,orientación,movimiento
+↗️:diagonal arriba derecha,dirección,movimiento,orientación
+➡️:derecha,dirección,movimiento,avanzar
+↘️:diagonal abajo derecha,dirección,movimiento
+⬇️:abajo,bajar,dirección,descenso
+↙️:diagonal abajo izquierda,dirección,movimiento
+⬅️:izquierda,dirección,retroceder,movimiento
+↖️:diagonal arriba izquierda,dirección,movimiento
+↕️:arriba abajo,vertical,movimiento,dirección
+↔️:izquierda derecha,intercambio,dirección,movimiento
+↩️:regresar,volver,retroceso,deshacer,acción
+↪️:avanzar,redirigir,continuar,acción,flujo
+⤴️:girar arriba,subir dirección,curva,acción,movimiento
+⤵️:girar abajo,bajar dirección,curva,acción,movimiento
+🔃:recargar,rotación,actualizar,loop,sincronizar
+🔄:refrescar,actualizar,recargar,ciclo,reinicio
+🔙:atrás,volver,retroceso,navegación,regresar
+🔚:fin,terminar,final,conclusión,cerrar
+🔛:activado,encendido,activo,estado,on
+🔜:pronto,próximo,espera,futuro,tiempo
+🔝:arriba,top,mejor,superior,cima
+🛐:lugar de culto,rezar,religión,orar
+⚛️:símbolo del átomo,ciencia,física,química
+🕉️:om,hinduismo,religión,meditación
+✡️:estrella de david,judaísmo,religión,judío
+☸️:rueda del dharma,budismo,religión,rueda
+☯️:yin yang,taoísmo,equilibrio,religión
+✝️:cruz latina,cristianismo,religión,iglesia
+☦️:cruz ortodoxa,cristianismo,religión,iglesia
+☪️:luna y estrella,islam,religión,musulmán
+☮️:símbolo de la paz,paz,hippie,tranquilidad
+🕎:menorá,judaísmo,candelabro,religión
+🔯:estrella de seis puntas,magia,hexagrama
+🪯:símbolo khanda,sikhismo,religión,espiritualidad,identidad
+♈:aries,zodiaco,astrología,signo
+♉:tauro,zodiaco,astrología,signo
+♊:géminis,geminis,zodiaco,astrología,signo
+♋:cáncer,zodiaco,astrología,signo
+♌:leo,zodiaco,astrología,signo
+♍:virgo,zodiaco,astrología,signo
+♎:libra,zodiaco,astrología,signo
+♏:escorpio,zodiaco,astrología,signo
+♐:sagitario,zodiaco,astrología,signo
+♑:capricornio,zodiaco,astrología,signo
+♒:acuario,zodiaco,astrología,signo
+♓:piscis,zodiaco,astrología,signo
+⛎:ofiuco,zodiaco,astrología,signo
+🔀:aleatorio,mezclar,shuffle,música,orden
+🔁:repetir,loop,replay,continuo,ciclo
+🔂:repetir uno,loop único,repetición,música,ciclo
+▶️:reproducir,play,video,comenzar,media
+⏩:avanzar rápido,fast forward,video,tiempo,saltar
+⏭️:siguiente,skip,avanzar,media,control
+⏯️:play pausa,control,video,media,alternar
+◀️:retroceder,rewind,video,volver,media
+⏪:rebobinar rápido,retroceso,video,tiempo
+⏮️:anterior,volver,media,control,skip
+🔼:subir,incrementar,arriba,control,ajuste
+⏫:subir rápido,aumento,incremento,control,velocidad
+🔽:bajar,decremento,abajo,control,ajuste
+⏬:bajar rápido,descenso,control,velocidad,ajuste
+⏸️:pausa,detener temporalmente,video,media,control
+⏹️:stop,detener,finalizar,media,control
+⏺️:grabar,record,video,audio,registro
+⏏️:expulsar,eject,disco,retirar,hardware
+🎦:cine,proyección,video,película,entretenimiento
+🔅:botón de menos brillo,luz,pantalla,sol
+🔆:botón de más brillo,luz,pantalla,sol
+📶:señal,conectividad,red,antena,WiFi,wifi,internet,conexión
+🛜:WiFi,red inalámbrica,internet,conexión,tecnología
+📳:modo vibración,teléfono,móvil,sonido
+📴:teléfono apagado,móvil,silencio,prohibido
+♀️:femenino,mujer,género,símbolo,identidad
+♂️:masculino,hombre,género,símbolo,identidad
+⚧️:transgénero,género,identidad,inclusión,diversidad
+✖️:multiplicación,error,cerrar,negación,matemáticas
+➕:suma,añadir,positivo,matemáticas,incremento
+➖:resta,disminuir,negativo,matemáticas,quitar
+➗:división,matemáticas,repartir,cálculo,operación
+🟰:igual,resultado,matemáticas,equivalencia,igualdad
+♾️:infinito,ilimitado,matemáticas,eterno,continuo
+‼️:doble exclamación,muy importante,atención,aviso,!!,!
+⁉️:exclamación e interrogación,sorpresa,pregunta,qué,?,!?
+❓:interrogación roja,pregunta,duda,qué,?,interrogación,incertidumbre
+❔:interrogación blanca,pregunta,duda,qué,?
+❕:exclamación blanca,atención,importante,aviso,!
+❗:exclamación roja,atención,importante,aviso,!,exclamación,alerta
+〰️:onda,línea,variación,continuidad,decorativo
+💱:cambio de divisas,moneda,finanzas,intercambio,dinero
+💲:dólar,dinero,moneda,finanzas,valor
+⚕️:medicina,salud,asclepio,doctor,emblema
+♻️:símbolo de reciclaje,reciclar,medio ambiente,verde
+⚜️:flor de lis,boy scout,francia,símbolo
+🔱:tridente,poseidón,arma,mar
+📛:etiqueta de nombre,identificación,rojo,insignia
+🔰:símbolo de principiante,novato,japón,conductor
+⭕:círculo rojo,correcto,bien,cero,o,círculo,ok,marcar,selección
+✅:botón de marca de verificación,correcto,hecho,bien,ok,aprobado,verificado
+☑️:casilla marcada,check,selección,tarea,confirmado
+✔️:correcto,check,aprobado,validación,éxito
+❌:marca de cruz,equis,no,error,x,incorrecto,fallo,cancelar
+❎:botón con cruz,incorrecto,no,error
+➰:bucle,loop,continuidad,decoración,flujo
+➿:bucle doble,loop,continuo,decoración,repetición
+〽️:marca de alternancia,música,japonés,cantar
+✳️:asterisco de ocho puntas,estrella,verde,viñeta
+✴️:estrella de ocho puntas,adorno,símbolo,naranja
+❇️:chispa,brillo,verde,adorno
+©️:copyright,derechos de autor,protección legal,propiedad intelectual,marca
+®️:marca registrada,registro legal,brand,propiedad,protección
+™️:marca comercial,trade mark,branding,nombre comercial,producto
+🫟:mancha,derrame,stain,fluido,ensuciar
+*️⃣:estrella en botón,marcado,selección,icono,énfasis
+0️⃣:número cero,0,dígito,matemáticas,nada
+1️⃣:número uno,1,dígito,matemáticas,unidad
+2️⃣:número dos,2,dígito,matemáticas,cantidad
+3️⃣:número tres,3,dígito,matemáticas,conteo
+4️⃣:número cuatro,4,dígito,matemáticas,cantidad
+5️⃣:número cinco,5,dígito,matemáticas,conteo
+6️⃣:número seis,6,dígito,matemáticas,cantidad
+7️⃣:número siete,7,dígito,matemáticas,conteo
+8️⃣:número ocho,8,dígito,matemáticas,cantidad
+9️⃣:número nueve,9,dígito,matemáticas,conteo
+🔟:número diez,10,matemáticas,conteo,decimal
+🔠:letras mayúsculas,alfabeto,capital letters,texto,escritura
+🔡:letras minúsculas,alfabeto,texto,escritura,typing
+🔢:números,alfanumérico,conteo,matemáticas,dígitos
+🔣:símbolos,caracteres,iconos,texto,signos
+🔤:abecedario,alfabeto,letras,idioma,escritura
+🅰️:grupo sanguíneo a,letra a,sangre,rojo
+🆎:grupo sanguíneo ab,letras ab,sangre,rojo,abb
+🅱️:grupo sanguíneo b,letra b,sangre,rojo
+🆑:botón borrar,clear,letras cl,rojo
+🆒:cool,genial,aprobación,moderno,positivo
+🆓:gratis,free,sin costo,libre,acceso
+ℹ️:información,info,ayuda,detalle,datos
+🆔:botón id,identificación,carnet,documento
+Ⓜ️:letra m en círculo,metro,transporte,azul
+🆕:nuevo,novedad,reciente,actualización,estreno
+🆖:no bueno,incorrecto,error,fallo,negativo
+🅾️:grupo sanguíneo o,letra o,sangre,rojo,o
+🆗:ok,aceptar,correcto,aprobación,acuerdo
+🅿️:botón p,aparcamiento,parking,coche
+🆘:botón sos,ayuda,emergencia,socorro
+🆙:subir,up,aumento,mejorar,arriba
+🆚:versus,vs,contra,pelea
+🈁:aquí,japonés,ubicación,señal,indicación
+🈂️:botón de servicio,japonés,gratis,atención
+🈷️:botón de mes,chino,luna,calendario
+🈶:botón de gratis,chino,costo,precio
+🈯:botón de reservado,chino,asiento,guardado
+🉐:botón de ganga,chino,oferta,descuento
+🈹:botón de descuento,chino,rebaja,oferta
+🈚:botón de no hay,chino,vacío,nada
+🈲:botón de prohibido,chino,no,restricción
+🉑:botón de aceptable,chino,ok,bien
+🈸:botón de aplicar,chino,solicitud,formulario
+🈴:botón de juntos,chino,unión,equipo
+🈳:botón de vacío,chino,libre,disponible
+㊗️:botón de felicitaciones,chino,felicidad,suerte
+㊙️:botón de secreto,chino,confidencial,oculto
+🈺:botón de abierto,chino,negocio,tienda
+🈵:botón de lleno,chino,completo,ocupado
+🔴:rojo,alerta,prohibido,urgente,círculo
+🟠:naranja,advertencia,color,círculo,atención
+🟡:amarillo,precaución,alerta,brillo,color
+🟢:verde,ok,seguro,positivo,confirmación
+🔵:azul,calma,tecnología,color,sereno
+🟣:morado,creatividad,lujo,color,estilo
+🟤:marrón,tierra,naturaleza,color,neutral
+⚫:negro,oscuridad,negativo,color,círculo
+⚪:blanco,pureza,luz,color,neutral
+🟥:cuadrado rojo,alerta,cuadro,color,prohibición
+🟧:cuadrado naranja,advertencia,color,cuadro,precaución
+🟨:cuadrado amarillo,alerta,precaución,color,cuadro
+🟩:cuadrado verde,ok,positivo,color,seguro
+🟦:cuadrado azul,información,color,cuadro,calma
+🟪:cuadrado morado,estilo,lujo,color,cuadro
+🟫:cuadrado marrón,tierra,color,cuadro,naturaleza
+⬛:cuadrado negro,oscuro,forma,geometría,negativo
+⬜:cuadrado blanco,luz,forma,geometría,neutral
+◼️:cuadrado negro pequeño,icono,forma,geometría,oscuro
+◻️:cuadrado blanco pequeño,forma,geometría,luz,neutral
+◾:cuadrado negro mediano,forma,geometría,icono,oscuro
+◽:cuadrado blanco mediano,forma,geometría,luz,neutral
+▪️:cuadrado negro pequeño,icono,forma,negro,detalle
+▫️:cuadrado blanco pequeño,icono,forma,blanco,detalle
+🔶:diamante naranja,forma,geometría,color,brillo
+🔷:diamante azul,forma,geometría,color,brillante
+🔸:diamante pequeño naranja,forma,detalle,color,icono
+🔹:diamante pequeño azul,forma,detalle,color,icono
+🔺:triángulo rojo arriba,alerta,dirección,forma,geometría
+🔻:triángulo rojo abajo,advertencia,dirección,forma,geometría
+💠:rombo con punto,diamante,azul,adorno
+🔘:botón,selección,radio,opción,interfaz
+🔳:botón cuadrado,interfaz,selección,UI,control
+🔲:cuadrado botón,interfaz,UI,control,selección
+🏁:bandera de meta,carrera,fin,competición,deporte
+🚩:bandera roja,alerta,señal,ubicación,advertencia
+🎌:banderas cruzadas,celebración,Japón,evento,fiesta
+🏴:bandera negra,protesta,señal,negativo,alerta
+🏳️:bandera blanca,rendición,paz,fin,alto
+🏳️‍🌈:bandera arcoíris,LGBTQ+,orgullo,diversidad,comunidad
+🏳️‍⚧️:bandera trans,transgénero,identidad,orgullo,diversidad
+🏴‍☠️:bandera pirata,calavera,aventura,rebeldía,mar
+🇦🇨:isla Ascensión,territorio,bandera,geografía,Atlántico
+🇦🇩:Andorra,país,Europa,bandera,geografía
+🇦🇪:Emiratos Árabes Unidos,país,Asia,bandera,geografía
+🇦🇫:Afganistán,país,Asia,bandera,geografía
+🇦🇬:Antigua y Barbuda,país,Caribe,bandera,geografía
+🇦🇮:Anguila,territorio,Caribe,bandera,geografía
+🇦🇱:Albania,país,Europa,bandera,geografía
+🇦🇲:Armenia,país,Asia/Europa,bandera,geografía
+🇦🇴:Angola,país,África,bandera,geografía
+🇦🇶:Antártida,continente,hielo,bandera,geografía
+🇦🇷:Argentina,país,América,bandera,geografía
+🇦🇸:Samoa Americana,territorio,Pacífico,bandera,geografía
+🇦🇹:Austria,país,Europa,bandera,geografía
+🇦🇺:Australia,país,Oceanía,bandera,geografía
+🇦🇼:Aruba,territorio,Caribe,bandera,geografía
+🇦🇽:Islas Åland,territorio,Europa,bandera,geografía
+🇦🇿:Azerbaiyán,país,Asia,bandera,geografía
+🇧🇦:Bosnia y Herzegovina,país,Europa,bandera,geografía
+🇧🇧:Barbados,país,Caribe,bandera,geografía
+🇧🇩:Bangladesh,país,Asia,bandera,geografía
+🇧🇪:Bélgica,país,Europa,bandera,geografía
+🇧🇫:Burkina Faso,país,África,bandera,geografía
+🇧🇬:Bulgaria,país,Europa,bandera,geografía
+🇧🇭:Baréin,país,Asia,bandera,geografía
+🇧🇮:Burundi,país,África,bandera,geografía
+🇧🇯:Benín,país,África,bandera,geografía
+🇧🇱:San Bartolomé,territorio,Caribe,bandera,geografía
+🇧🇲:Bermudas,territorio,Atlántico,bandera,geografía
+🇧🇳:Brunéi,país,Asia,bandera,geografía
+🇧🇴:Bolivia,país,América del Sur,bandera,geografía
+🇧🇶:Caribe neerlandés,territorio,Países Bajos,bandera,geografía
+🇧🇷:Brasil,país,América del Sur,bandera,geografía
+🇧🇸:Bahamas,país,Caribe,bandera,geografía
+🇧🇹:Bután,país,Asia,Himalaya,bandera
+🇧🇻:Isla Bouvet,territorio,Antártico,deshabitado,geografía
+🇧🇼:Botsuana,país,África,bandera,geografía
+🇧🇾:Bielorrusia,país,Europa,bandera,geografía
+🇧🇿:Belice,país,América Central,Caribe,bandera
+🇨🇦:Canadá,país,América del Norte,bandera,geografía
+🇨🇨:Islas Cocos,territorio,Oceanía,Australia,bandera
+🇨🇩:República Democrática del Congo,país,África,bandera,geografía
+🇨🇫:República Centroafricana,país,África,bandera,geografía
+🇨🇬:República del Congo,país,África,bandera,geografía
+🇨🇭:Suiza,país,Europa,bandera,geografía
+🇨🇮:Costa de Marfil,país,África,bandera,geografía
+🇨🇰:Islas Cook,territorio,Oceanía,bandera,geografía
+🇨🇱:Chile,país,América del Sur,bandera,geografía
+🇨🇲:Camerún,país,África,bandera,geografía
+🇨🇳:China,país,Asia,bandera,geografía
+🇨🇴:Colombia,país,América del Sur,bandera,geografía
+🇨🇵:Isla Clipperton,territorio,Francia,Pacífico,geografía
+🇨🇶:territorio ficticio/código no estándar,bandera,no reconocido,geografía
+🇨🇷:Costa Rica,país,América Central,bandera,geografía
+🇨🇺:Cuba,país,Caribe,bandera,geografía
+🇨🇻:Cabo Verde,país,África,bandera,geografía
+🇨🇼:Curazao,territorio,Caribe,Países Bajos,bandera
+🇨🇽:Isla de Navidad,territorio,Australia,bandera,geografía
+🇨🇾:Chipre,país,Europa/Asia,bandera,geografía
+🇨🇿:Chequia,país,Europa,República Checa,bandera
+🇩🇪:Alemania,país,Europa,bandera,geografía
+🇩🇬:Diego García,territorio,Océano Índico,base militar,geografía
+🇩🇯:Yibuti,país,África,bandera,geografía
+🇩🇰:Dinamarca,país,Europa,bandera,geografía
+🇩🇲:Dominica,país,Caribe,bandera,geografía
+🇩🇴:República Dominicana,país,Caribe,bandera,geografía
+🇩🇿:Argelia,país,África,bandera,geografía
+🇪🇦:Ceuta y Melilla,España,territorio,África,bandera
+🇪🇨:Ecuador,país,América del Sur,bandera,geografía
+🇪🇪:Estonia,país,Europa,bandera,geografía
+🇪🇬:Egipto,país,África,Asia,bandera
+🇪🇭:Sahara Occidental,territorio,disputado,África,bandera
+🇪🇷:Eritrea,país,África,bandera,geografía
+🇪🇸:España,país,Europa,bandera,geografía
+🇪🇹:Etiopía,país,África,bandera,geografía
+🇪🇺:Unión Europea,organización,Europa,bandera,unión
+🇫🇮:Finlandia,país,Europa,bandera,geografía
+🇫🇯:Fiyi,país,Oceanía,bandera,geografía
+🇫🇰:Islas Malvinas,territorio,Atlántico,disputa,bandera
+🇫🇲:Micronesia,país,Oceanía,bandera,geografía
+🇫🇴:Islas Feroe,territorio,Dinamarca,Atlántico,bandera
+🇫🇷:Francia,país,Europa,bandera,geografía
+🇬🇦:Gabón,país,África,bandera,geografía
+🇬🇧:Reino Unido,país,Europa,bandera,geografía
+🇬🇩:Granada,país,Caribe,bandera,geografía
+🇬🇪:Georgia,país,Europa/Asia,bandera,geografía
+🇬🇫:Guayana Francesa,territorio,Francia,América del Sur,bandera
+🇬🇬:Guernsey,territorio,Europa,Reino Unido,bandera
+🇬🇭:Ghana,país,África,bandera,geografía
+🇬🇮:Gibraltar,territorio,Europa,Reino Unido,bandera
+🇬🇱:Groenlandia,territorio,Ártico,bandera,geografía
+🇬🇲:Gambia,país,África,bandera,geografía
+🇬🇳:Guinea,país,África,bandera,geografía
+🇬🇵:Guadalupe,territorio,Caribe,Francia,bandera
+🇬🇶:Guinea Ecuatorial,país,África,bandera,geografía
+🇬🇷:Grecia,país,Europa,bandera,geografía
+🇬🇸:Georgia del Sur,territorio,Atlántico,bandera,geografía
+🇬🇹:Guatemala,país,América Central,bandera,geografía
+🇬🇺:Guam,territorio,Pacífico,EEUU,bandera
+🇬🇼:Guinea-Bisáu,país,África,bandera,geografía
+🇬🇾:Guyana,país,América del Sur,bandera,geografía
+🇭🇰:Hong Kong,región,China,Asia,bandera
+🇭🇲:Islas Heard y McDonald,territorio,Antártico,Australia,bandera
+🇭🇳:Honduras,país,América Central,bandera,geografía
+🇭🇷:Croacia,país,Europa,bandera,geografía
+🇭🇹:Haití,país,Caribe,bandera,geografía
+🇭🇺:Hungría,país,Europa,bandera,geografía
+🇮🇨:Islas Canarias,España,territorio,Atlántico,bandera
+🇮🇩:Indonesia,país,Asia,bandera,geografía
+🇮🇪:Irlanda,país,Europa,bandera,geografía
+🇮🇱:Israel,país,Asia,bandera,geografía
+🇮🇲:Isla de Man,territorio,Reino Unido,Europa,bandera
+🇮🇳:India,país,Asia,bandera,geografía
+🇮🇴:Territorio Británico del Océano Índico,territorio,bandera,geografía
+🇮🇶:Irak,país,Asia,bandera,geografía
+🇮🇷:Irán,país,Asia,bandera,geografía
+🇮🇸:Islandia,país,Europa,bandera,geografía
+🇮🇹:Italia,país,Europa,bandera,geografía
+🇯🇪:Jersey,territorio,Reino Unido,Europa,bandera
+🇯🇲:Jamaica,país,Caribe,bandera,geografía
+🇯🇴:Jordania,país,Asia,bandera,geografía
+🇯🇵:Japón,país,Asia,bandera,geografía
+🇰🇪:Kenia,país,África,bandera,geografía
+🇰🇬:Kirguistán,país,Asia,bandera,geografía
+🇰🇭:Camboya,país,Asia,bandera,geografía
+🇰🇮:Kiribati,país,Oceanía,bandera,geografía
+🇰🇲:Comoras,país,África,bandera,geografía
+🇰🇳:San Cristóbal y Nieves,país,Caribe,bandera,geografía
+🇰🇵:Corea del Norte,país,Asia,bandera,geografía
+🇰🇷:Corea del Sur,país,Asia,bandera,geografía
+🇰🇼:Kuwait,país,Asia,bandera,geografía
+🇰🇾:Islas Caimán,territorio,Caribe,Reino Unido,bandera
+🇰🇿:Kazajistán,país,Asia,bandera,geografía
+🇱🇦:Laos,país,Asia,bandera,geografía
+🇱🇧:Líbano,país,Asia,bandera,geografía
+🇱🇨:Santa Lucía,país,Caribe,bandera,geografía
+🇱🇮:Liechtenstein,país,Europa,bandera,geografía
+🇱🇰:Sri Lanka,país,Asia,bandera,geografía
+🇱🇷:Liberia,país,África,bandera,geografía
+🇱🇸:Lesoto,país,África,bandera,geografía
+🇱🇹:Lituania,país,Europa,bandera,geografía
+🇱🇺:Luxemburgo,país,Europa,bandera,geografía
+🇱🇻:Letonia,país,Europa,bandera,geografía
+🇱🇾:Libia,país,África,bandera,geografía
+🇲🇦:Marruecos,país,África,bandera,geografía
+🇲🇨:Mónaco,país,Europa,bandera,geografía
+🇲🇩:Moldavia,país,Europa,bandera,geografía
+🇲🇪:Montenegro,país,Europa,bandera,geografía
+🇲🇫:San Martín (Francia),territorio,Caribe,bandera,geografía
+🇲🇬:Madagascar,país,África,bandera,geografía
+🇲🇭:Islas Marshall,país,Oceanía,bandera,geografía
+🇲🇰:Macedonia del Norte,país,Europa,bandera,geografía
+🇲🇱:Mali,país,África,bandera,geografía
+🇲🇲:Myanmar,país,Asia,bandera,geografía
+🇲🇳:Mongolia,país,Asia,bandera,geografía
+🇲🇴:Macao,región,China,Asia,bandera
+🇲🇵:Islas Marianas del Norte,territorio,EEUU,Oceanía,bandera
+🇲🇶:Martinica,territorio,Caribe,Francia,bandera
+🇲🇷:Mauritania,país,África,bandera,geografía
+🇲🇸:Montserrat,territorio,Caribe,Reino Unido,bandera
+🇲🇹:Malta,país,Europa,bandera,geografía
+🇲🇺:Mauricio,país,África,bandera,geografía
+🇲🇻:Maldivas,país,Asia,océano,bandera
+🇲🇼:Malaui,país,África,bandera,geografía
+🇲🇽:México,país,América del Norte,bandera,geografía
+🇲🇾:Malasia,país,Asia,bandera,geografía
+🇲🇿:Mozambique,país,África,bandera,geografía
+🇳🇦:Namibia,país,África,bandera,geografía
+🇳🇨:Nueva Caledonia,territorio,Oceanía,Francia,bandera
+🇳🇪:Níger,país,África,bandera,geografía
+🇳🇫:Isla Norfolk,territorio,Australia,bandera,geografía
+🇳🇬:Nigeria,país,África,bandera,geografía
+🇳🇮:Nicaragua,país,América Central,bandera,geografía
+🇳🇱:Países Bajos,país,Europa,bandera,geografía
+🇳🇴:Noruega,país,Europa,bandera,geografía
+🇳🇵:Nepal,país,Asia,Himalaya,bandera
+🇳🇷:Nauru,país,Oceanía,bandera,geografía
+🇳🇺:Niue,territorio,Oceanía,Nueva Zelanda,bandera
+🇳🇿:Nueva Zelanda,país,Oceanía,bandera,geografía
+🇴🇲:Omán,país,Asia,bandera,geografía
+🇵🇦:Panamá,país,América Central,bandera,geografía
+🇵🇪:Perú,país,América del Sur,bandera,geografía
+🇵🇫:Polinesia Francesa,territorio,Oceanía,Francia,bandera
+🇵🇬:Papúa Nueva Guinea,país,Oceanía,bandera,geografía
+🇵🇭:Filipinas,país,Asia,bandera,geografía
+🇵🇰:Pakistán,país,Asia,bandera,geografía
+🇵🇱:Polonia,país,Europa,bandera,geografía
+🇵🇲:San Pedro y Miquelón,territorio,Francia,América del Norte,bandera
+🇵🇳:Islas Pitcairn,territorio,Reino Unido,Oceanía,bandera
+🇵🇷:Puerto Rico,territorio,EEUU,Caribe,bandera
+🇵🇸:Palestina,territorio,Asia,bandera,geografía
+🇵🇹:Portugal,país,Europa,bandera,geografía
+🇵🇼:Palaos,país,Oceanía,bandera,geografía
+🇵🇾:Paraguay,país,América del Sur,bandera,geografía
+🇶🇦:Catar,país,Asia,bandera,geografía
+🇷🇪:Reunión,territorio,Francia,África,bandera
+🇷🇴:Rumania,país,Europa,bandera,geografía
+🇷🇸:Serbia,país,Europa,bandera,geografía
+🇷🇺:Rusia,país,Europa/Asia,bandera,geografía
+🇷🇼:Ruanda,país,África,bandera,geografía
+🇸🇦:Arabia Saudita,país,Asia,bandera,geografía
+🇸🇧:Islas Salomón,país,Oceanía,bandera,geografía
+🇸🇨:Seychelles,país,África,océano,bandera
+🇸🇩:Sudán,país,África,bandera,geografía
+🇸🇪:Suecia,país,Europa,bandera,geografía
+🇸🇬:Singapur,país,Asia,bandera,geografía
+🇸🇭:Santa Elena,territorio,Atlántico,Reino Unido,bandera
+🇸🇮:Eslovenia,país,Europa,bandera,geografía
+🇸🇯:Svalbard y Jan Mayen,territorio,Noruega,Ártico,bandera
+🇸🇰:Eslovaquia,país,Europa,bandera,geografía
+🇸🇱:Sierra Leona,país,África,bandera,geografía
+🇸🇲:San Marino,país,Europa,bandera,geografía
+🇸🇳:Senegal,país,África,bandera,geografía
+🇸🇴:Somalia,país,África,bandera,geografía
+🇸🇷:Surinam,país,América del Sur,bandera,geografía
+🇸🇸:Sudán del Sur,país,África,bandera,geografía
+🇸🇹:Santo Tomé y Príncipe,país,África,bandera,geografía
+🇸🇻:El Salvador,país,América Central,bandera,geografía
+🇸🇽:Sint Maarten,territorio,Caribe,Países Bajos,bandera
+🇸🇾:Siria,país,Asia,bandera,geografía
+🇸🇿:Esuatini,país,África,bandera,geografía
+🇹🇦:Tristan da Cunha,territorio,Atlántico,Reino Unido,bandera
+🇹🇨:Islas Turcas y Caicos,territorio,Caribe,Reino Unido,bandera
+🇹🇩:Chad,país,África,bandera,geografía
+🇹🇫:Territorios Australes Franceses,territorio,Antártico,Francia,bandera
+🇹🇬:Togo,país,África,bandera,geografía
+🇹🇭:Tailandia,país,Asia,bandera,geografía
+🇹🇯:Tayikistán,país,Asia,bandera,geografía
+🇹🇰:Tokelau,territorio,Oceanía,Nueva Zelanda,bandera
+🇹🇱:Timor Oriental,país,Asia,bandera,geografía
+🇹🇲:Turkmenistán,país,Asia,bandera,geografía
+🇹🇳:Túnez,país,África,bandera,geografía
+🇹🇴:Tonga,país,Oceanía,bandera,geografía
+🇹🇷:Turquía,país,Europa/Asia,bandera,geografía
+🇹🇹:Trinidad y Tobago,país,Caribe,bandera,geografía
+🇹🇻:Tuvalu,país,Oceanía,bandera,geografía
+🇹🇼:Taiwán,territorio,Asia,bandera,geografía
+🇹🇿:Tanzania,país,África,bandera,geografía
+🇺🇦:Ucrania,país,Europa,bandera,geografía
+🇺🇬:Uganda,país,África,bandera,geografía
+🇺🇲:Islas menores alejadas de EE.UU.,territorio,EEUU,océano,bandera
+🇺🇳:Naciones Unidas,organización,internacional,bandera,ONU
+🇺🇸:Estados Unidos,país,América del Norte,bandera,geografía
+🇺🇾:Uruguay,país,América del Sur,bandera,geografía
+🇺🇿:Uzbekistán,país,Asia,bandera,geografía
+🇻🇦:Vaticano,país,Europa,religión,bandera
+🇻🇨:San Vicente y las Granadinas,país,Caribe,bandera,geografía
+🇻🇪:Venezuela,país,América del Sur,bandera,geografía
+🇻🇬:Islas Vírgenes Británicas,territorio,Caribe,Reino Unido,bandera
+🇻🇮:Islas Vírgenes de EE.UU.,territorio,Caribe,EEUU,bandera
+🇻🇳:Vietnam,país,Asia,bandera,geografía
+🇻🇺:Vanuatu,país,Oceanía,bandera,geografía
+🇼🇫:Wallis y Futuna,territorio,Oceanía,Francia,bandera
+🇼🇸:Samoa,país,Oceanía,bandera,geografía
+🇽🇰:Kosovo,territorio,Europa,bandera,geografía
+🇾🇪:Yemen,país,Asia,bandera,geografía
+🇾🇹:Mayotte,territorio,África,Francia,bandera
+🇿🇦:Sudáfrica,país,África,bandera,geografía
+🇿🇲:Zambia,país,África,bandera,geografía
+🇿🇼:Zimbabue,país,África,bandera,geografía
+🏴󠁧󠁢󠁥󠁮󠁧󠁿:flag: England
+🏴󠁧󠁢󠁳󠁣󠁴󠁿:flag: Scotland
+🏴󠁧󠁢󠁷󠁬󠁳󠁿:flag: Wales

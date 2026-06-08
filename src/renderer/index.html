@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Emoji Launcher</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div id="container">
+        <button id="reload-btn" title="Recargar emojis">↻</button>
+        <button id="close-btn" title="Cerrar app completamente">×</button>
+        <div id="search-wrapper">
+            <input type="text" id="search" placeholder="Buscar emojis..." autofocus autocomplete="off">
+        </div>
+        <div id="results"></div>
+        <div id="footer">
+            Presiona <span class="key">Esc</span> para ocultar
+        </div>
+    </div>
+    <script src="renderer.js"></script>
+</body>
+</html>
