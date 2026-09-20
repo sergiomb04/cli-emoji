@@ -147,13 +147,13 @@
 🧡:corazón naranja,amor,amistad
 💛:corazón amarillo,amor,alegría,amistad
 💚:corazón verde,amor,naturaleza,esperanza
-💙:blue heart
+💙:blue heart,corazon,azul,corazon azul
 🩵:corazón azul claro,tranquilidad,amistad,calma,confianza
 💜:corazón morado,amor,lujo,afecto,premium
 🤎:corazón marrón,amor,chocolate,tierra
 🖤:corazón negro,amor oscuro,tristeza,luto
 🩶:corazón gris,neutralidad,amor apagado,equilibrio,serenidad
-🤍:white heart
+🤍:white heart,corazon,blanco,corazon blanco
 💋:beso,labial,amor,romance,seducción
 💯:cien puntos,perfecto,100,aprobado
 💢:símbolo de enfado,vena saltada,rabia,rojo
@@ -199,7 +199,7 @@
 🖖🏽:saludo vulcano,star trek,prosperidad
 🖖🏾:saludo vulcano,star trek,prosperidad
 🖖🏿:saludo vulcano,star trek,prosperidad
-���:rightwards hand
+🫱:rightwards hand,mano,mano hacia la derecha
 🫱🏻:mano hacia la derecha,ofrecer,ayuda
 🫱🏼:mano hacia la derecha,ofrecer,ayuda
 🫱🏽:mano hacia la derecha,ofrecer,ayuda
@@ -221,7 +221,7 @@
 🫴🏻:mano hacia arriba,recibir,pedir
 🫴🏼:mano hacia arriba,recibir,pedir
 🫴🏽:mano hacia arriba,recibir,pedir
-🫴��:palm up hand
+🫴:palm up hand
 🫴🏿:mano hacia arriba,recibir,pedir
 🫷:empujar mano izquierda,alto,parar
 🫷🏻:empujar mano izquierda,alto,parar
@@ -667,7 +667,6 @@
 🙍🏻:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
 🙍🏼:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
 🙍🏽:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
-��🏾:person frowning
 🙍🏿:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
 🙍‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
 🙍🏻‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
@@ -1028,7 +1027,6 @@
 🧑🏼‍💻:programador,tecnología,código,informática,computadora
 🧑🏽‍💻:programador,tecnología,código,informática,computadora
 🧑🏾‍💻:programador,tecnología,código,informática,computadora
-🧑🏿‍��:technologist
 👨‍💻:programador,desarrollador,informático,pc
 👨🏻‍💻:programador,desarrollador,informático,pc
 👨🏼‍💻:programador,desarrollador,informático,pc

@@ -12,6 +12,7 @@ log('Iniciando main.js...');
 
 const { loadEmojis, reloadEmojis } = require('../logic/data');
 const { searchEmojis, clearSearchCache } = require('../logic/search');
+const { RecentEmojisService } = require('../logic/recents');
 
 const gotTheLock = app.requestSingleInstanceLock();
 if (!gotTheLock) {
@@ -29,6 +30,9 @@ app.on('second-instance', () => {
 let win;
 let isStickyMode = false; // Controla si la ventana se queda abierta o no
 let emojiData = loadEmojis();
+const recentsFile = path.join(app.getPath('userData'), 'recent-emojis.json');
+const recentsService = new RecentEmojisService(recentsFile);
+recentsService.load();
 let lastForegroundHwnd = '0';
 const inserterExe = path.join(__dirname, '../../bin/inserter.exe');
 
@@ -50,7 +54,7 @@ function captureActiveWindowSync() {
 function createWindow() {
   win = new BrowserWindow({
     width: 600,
-    height: 450,
+    height: 480,
     show: false,
     frame: false,
     resizable: false,
@@ -81,10 +85,13 @@ function createWindow() {
     }, 50);
   });
 
-  // Removido: No ocultar automáticamente al perder el foco para permitir selección múltiple
-  // win.on('blur', () => {
-  //   win.hide();
-  // });
+  // Ocultar automáticamente al perder el foco (clic afuera)
+  win.on('blur', () => {
+    log('Ventana perdió el foco (blur): ocultando pestaña');
+    if (!win.isDestroyed() && win.isVisible()) {
+      win.hide();
+    }
+  });
 }
 
 function toggleWindow(sticky = false) {
@@ -106,7 +113,7 @@ function toggleWindow(sticky = false) {
   const { width, height, x, y } = activeDisplay.bounds;
 
   const windowWidth = 600;
-  const windowHeight = 450;
+  const windowHeight = 480;
 
   const posX = x + Math.round((width - windowWidth) / 2);
   const posY = y + Math.round((height - windowHeight) / 2);
@@ -160,6 +167,7 @@ app.on('window-all-closed', (e) => {
 
 app.on('will-quit', () => {
   log('EVENT: will-quit disparado');
+  recentsService.saveSync();
   globalShortcut.unregisterAll();
 });
 
@@ -172,8 +180,32 @@ ipcMain.handle('search', (event, query) => {
   return searchEmojis(query, emojiData);
 });
 
+ipcMain.handle('get-recents', () => {
+  const recentList = recentsService.getRecents();
+  const emojiMap = new Map();
+  emojiData.forEach(item => {
+    emojiMap.set(item.emoji, item);
+    if (item.variants && Array.isArray(item.variants)) {
+      item.variants.forEach(v => emojiMap.set(v.emoji, v));
+    }
+  });
+
+  return recentList.map(emoji => {
+    const found = emojiMap.get(emoji);
+    return {
+      emoji,
+      keywords: found && found.keywords ? found.keywords : ['reciente']
+    };
+  });
+});
+
+ipcMain.on('track-emoji', (event, emoji) => {
+  recentsService.addRecent(emoji);
+});
+
 ipcMain.on('insert-emoji', (event, emoji) => {
   log(`ipcMain insert-emoji recibido: ${emoji}, destino HWND: ${lastForegroundHwnd}`);
+  recentsService.addRecent(emoji);
 
   // 1. Manejo de foco según el modo
   // Ocultamos la ventana para que el foco vuelva a la aplicación anterior

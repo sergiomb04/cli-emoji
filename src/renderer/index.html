@@ -12,9 +12,18 @@
         <div id="search-wrapper">
             <input type="text" id="search" placeholder="Buscar emojis..." autofocus autocomplete="off">
         </div>
+        <div id="nav-tabs">
+            <button class="nav-tab active" data-tab="all" id="tab-all" title="Ver catálogo completo (Ctrl+1)">
+                <span class="tab-icon">🔍</span> Todos
+            </button>
+            <button class="nav-tab" data-tab="recents" id="tab-recents" title="Ver emojis recientes (Ctrl+2)">
+                <span class="tab-icon">🕒</span> Recientes
+            </button>
+        </div>
         <div id="results"></div>
         <div id="footer">
-            Presiona <span class="key">Esc</span> para ocultar
+            <span class="footer-hint"><span class="key">Tab</span> Cambiar pestaña</span>
+            <span class="footer-hint"><span class="key">Esc</span> Ocultar</span>
         </div>
     </div>
     <script src="renderer.js"></script>
