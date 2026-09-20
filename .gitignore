@@ -5,3 +5,7 @@ dist/
 .env
 
 docs/
+
+# Cache files
+data/*.cache.json
+*.cache.json
