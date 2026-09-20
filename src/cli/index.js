@@ -1,8 +1,8 @@
 const readline = require('readline');
 const fs = require('fs');
 const path = require('path');
-const { loadEmojisFromTxt } = require('../logic/data');
-const data = loadEmojisFromTxt();
+const { loadEmojis } = require('../logic/data');
+const data = loadEmojis();
 const { searchEmojis } = require('../logic/search');
 const chalk = require('chalk');
 const { execSync } = require('child_process');
@@ -43,21 +43,21 @@ process.stdin.on('keypress', async (str, key) => {
     if (results[selectedIndex]) {
       const selected = results[selectedIndex];
       
-      // Simular pulsación de teclas usando PowerShell (sin usar el portapapeles)
-      // Esto evita que quede rastro en el historial de Windows (Win + V)
+      // Simular pulsación de teclas nativa sin tocar el portapapeles
       if (process.platform === 'win32') {
-        const { execSync } = require('child_process');
-        
-        // Escapar el emoji para PowerShell
-        const psCommand = `powershell -WindowStyle Hidden -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.SendKeys]::SendWait('${selected.emoji}')"`;
-
-        try {
-          // Ejecutar tecleado y salir
-          execSync(psCommand);
+        const inserterExe = path.join(__dirname, '../../bin/inserter.exe');
+        if (fs.existsSync(inserterExe)) {
+          const { execFileSync } = require('child_process');
+          try {
+            execFileSync(inserterExe, ['0', selected.emoji], { windowsHide: true });
+            process.exit();
+          } catch (err) {
+            console.error('\nError al teclear emoji:', err);
+            process.exit(1);
+          }
+        } else {
+          console.log('\nSeleccionado:', selected.emoji);
           process.exit();
-        } catch (err) {
-          console.error('\nError al teclear con PowerShell:', err);
-          process.exit(1);
         }
       } else {
         // Fallback para no-Windows (si es necesario)

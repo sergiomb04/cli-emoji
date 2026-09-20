@@ -1,12 +1,51 @@
 const { app, BrowserWindow, globalShortcut, ipcMain, clipboard, screen } = require('electron');
 const path = require('path');
 const fs = require('fs');
-const { loadEmojisFromTxt } = require('../logic/data');
-const { searchEmojis } = require('../logic/search');
+
+const logFile = path.join(__dirname, '../../debug.log');
+function log(msg) {
+  try { fs.appendFileSync(logFile, `[${new Date().toISOString()}] ${msg}\n`); } catch(e){}
+}
+process.on('uncaughtException', (err) => { log(`UNCAUGHT: ${err.stack || err}`); });
+process.on('unhandledRejection', (err) => { log(`REJECTION: ${err.stack || err}`); });
+log('Iniciando main.js...');
+
+const { loadEmojis, reloadEmojis } = require('../logic/data');
+const { searchEmojis, clearSearchCache } = require('../logic/search');
+
+const gotTheLock = app.requestSingleInstanceLock();
+if (!gotTheLock) {
+  log('Otra instancia ya está ejecutándose. Saliendo de esta instancia...');
+  app.quit();
+}
+
+app.on('second-instance', () => {
+  log('Segunda instancia invocada: mostrando ventana...');
+  if (win) {
+    toggleWindow(false);
+  }
+});
 
 let win;
 let isStickyMode = false; // Controla si la ventana se queda abierta o no
-let emojiData = loadEmojisFromTxt();
+let emojiData = loadEmojis();
+let lastForegroundHwnd = '0';
+const inserterExe = path.join(__dirname, '../../bin/inserter.exe');
+
+function captureActiveWindowSync() {
+  if (process.platform !== 'win32' || !fs.existsSync(inserterExe)) return '0';
+  try {
+    const { execFileSync } = require('child_process');
+    const out = execFileSync(inserterExe, ['--get-active'], { windowsHide: true }).toString().trim();
+    if (out && out !== '0') {
+      log(`Ventana previa capturada: HWND ${out}`);
+      return out;
+    }
+  } catch (e) {
+    log(`Error capturando ventana previa: ${e}`);
+  }
+  return '0';
+}
 
 function createWindow() {
   win = new BrowserWindow({
@@ -49,6 +88,10 @@ function createWindow() {
 }
 
 function toggleWindow(sticky = false) {
+  if (!win || win.isDestroyed()) {
+    createWindow();
+  }
+
   // Si la ventana está visible y el modo es el mismo, la ocultamos
   // Si el modo cambia, la mantenemos visible pero actualizamos el modo
   if (win.isVisible() && isStickyMode === sticky) {
@@ -70,26 +113,39 @@ function toggleWindow(sticky = false) {
 
   win.setPosition(posX, posY);
 
-  // Volvemos a show() para que el usuario pueda escribir la búsqueda inmediatamente
-  // Es la única forma de que el input reciba teclado.
   win.show();
   win.focus();
-  win.setAlwaysOnTop(true, 'screen-saver');
+  try {
+    win.setAlwaysOnTop(true, 'screen-saver');
+  } catch (e) {
+    win.setAlwaysOnTop(true);
+  }
 
   win.webContents.send('window-shown');
 }
 
 
 app.whenReady().then(() => {
+  log('app.whenReady completado, creando ventana...');
   createWindow();
 
-  globalShortcut.register('CommandOrControl+Alt+X', () => {
+  const regX = globalShortcut.register('CommandOrControl+Alt+X', () => {
+    log('Atajo Ctrl+Alt+X presionado');
+    if (!win || !win.isVisible()) {
+      lastForegroundHwnd = captureActiveWindowSync();
+    }
     toggleWindow(false);
   });
+  log(`Atajo Ctrl+Alt+X registrado: ${regX}`);
 
-  globalShortcut.register('CommandOrControl+Alt+Z', () => {
+  const regZ = globalShortcut.register('CommandOrControl+Alt+Z', () => {
+    log('Atajo Ctrl+Alt+Z presionado');
+    if (!win || !win.isVisible()) {
+      lastForegroundHwnd = captureActiveWindowSync();
+    }
     toggleWindow(true);
   });
+  log(`Atajo Ctrl+Alt+Z registrado: ${regZ}`);
 
   // Opcional: ocultar de la barra de tareas en macOS si se desea
   if (process.platform === 'darwin') {
@@ -97,8 +153,18 @@ app.whenReady().then(() => {
   }
 });
 
+app.on('window-all-closed', (e) => {
+  log('EVENT: window-all-closed disparado. Evitando salida (e.preventDefault)...');
+  e.preventDefault(); // Evitar que Electron se cierre automáticamente
+});
+
 app.on('will-quit', () => {
+  log('EVENT: will-quit disparado');
   globalShortcut.unregisterAll();
+});
+
+app.on('quit', (e, exitCode) => {
+  log(`EVENT: quit disparado con exitCode: ${exitCode}`);
 });
 
 // IPC Listeners
@@ -107,6 +173,8 @@ ipcMain.handle('search', (event, query) => {
 });
 
 ipcMain.on('insert-emoji', (event, emoji) => {
+  log(`ipcMain insert-emoji recibido: ${emoji}, destino HWND: ${lastForegroundHwnd}`);
+
   // 1. Manejo de foco según el modo
   // Ocultamos la ventana para que el foco vuelva a la aplicación anterior
   win.setAlwaysOnTop(false);
@@ -119,30 +187,33 @@ ipcMain.on('insert-emoji', (event, emoji) => {
       if (!win.isDestroyed()) {
         win.show();
         win.focus();
-        win.setAlwaysOnTop(true, 'screen-saver');
+        try {
+          win.setAlwaysOnTop(true, 'screen-saver');
+        } catch (e) {
+          win.setAlwaysOnTop(true);
+        }
         win.webContents.send('window-shown');
       }
-    }, 1000); // Delay un poco más largo para permitir que el "tecleo" termine
+    }, 1000);
   }
 
-  // 2. Simular pulsación de teclas usando PowerShell (sin usar el portapapeles)
-  // Esto evita que quede rastro en el historial de Windows (Win + V)
+  // 2. Insertar emoji restaurando foco en la aplicación y campo activo
   if (process.platform === 'win32') {
-    const { exec } = require('child_process');
-    
-    // Escapar el emoji para PowerShell. Como son emojis, basta con comillas simples.
-    // Usamos System.Windows.Forms.SendKeys para simular la entrada de teclado.
-    const psCommand = `powershell -WindowStyle Hidden -Command "Add-Type -AssemblyName System.Windows.Forms; [System.Windows.Forms.SendKeys]::SendWait('${emoji}')"`;
-
-    try {
-      exec(psCommand, (err) => {
-        if (err) console.error('Error al teclear con PowerShell:', err);
+    if (fs.existsSync(inserterExe)) {
+      const { execFile } = require('child_process');
+      const targetHwnd = (lastForegroundHwnd && lastForegroundHwnd !== '0') ? lastForegroundHwnd : '0';
+      execFile(inserterExe, [targetHwnd, emoji], { windowsHide: true }, (err) => {
+        if (err) {
+          log(`Error en inserter.exe: ${err}`);
+        } else {
+          log(`Inserter ejecutado con éxito para emoji: ${emoji}`);
+        }
       });
-    } catch (e) {
-      console.error('Error ejecutando PowerShell:', e);
+    } else {
+      clipboard.writeText(emoji);
     }
   } else {
-    // En otras plataformas, por ahora fallback a clipboard si no hay método de typing directo
+    // En otras plataformas, fallback a clipboard si no hay método de typing directo
     clipboard.writeText(emoji);
   }
 });
@@ -152,7 +223,8 @@ ipcMain.on('hide-app', () => {
 });
 
 ipcMain.on('reload-data', () => {
-  emojiData = loadEmojisFromTxt();
+  clearSearchCache();
+  emojiData = reloadEmojis();
   console.log('Emoji data reloaded');
 });
 

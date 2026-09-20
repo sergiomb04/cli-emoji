@@ -5,17 +5,19 @@ let results = [];
 let selectedIndex = 0;
 let openVariantIndices = new Set();
 
+let debounceTimer = null;
+
 async function updateResults() {
   const query = searchInput.value;
-  if (!query) {
-    results = [];
-    renderResults();
-    return;
-  }
-
   results = await window.electronAPI.search(query);
   selectedIndex = 0;
   renderResults();
+}
+
+function handleInput() {
+  clearTimeout(debounceTimer);
+  // Micro-debounce de 15ms para evitar saturación del canal IPC durante escritura rápida
+  debounceTimer = setTimeout(updateResults, 15);
 }
 
 function renderResults() {
@@ -44,7 +46,10 @@ function renderResults() {
       mainDiv.appendChild(toggle);
     }
 
-    mainDiv.onclick = () => selectEmoji(index);
+    mainDiv.onclick = (e) => {
+      if (e.target.closest('.variants-toggle')) return;
+      selectEmoji(index);
+    };
     div.appendChild(mainDiv);
 
     if (item.variants && item.variants.length > 0 && openVariantIndices.has(index)) {
@@ -86,7 +91,7 @@ function selectEmoji(index) {
   selectSpecificEmoji(results[index]?.emoji);
 }
 
-searchInput.addEventListener('input', updateResults);
+searchInput.addEventListener('input', handleInput);
 
 document.getElementById('close-btn').addEventListener('click', () => {
   window.electronAPI.quitApp();
@@ -137,10 +142,10 @@ window.addEventListener('focus', () => {
 });
 
 // Listener para cuando la ventana se muestra
-window.electronAPI.onWindowShown(() => {
+window.electronAPI.onWindowShown(async () => {
   searchInput.value = '';
-  results = [];
-  renderResults();
+  openVariantIndices.clear();
+  await updateResults();
   
   // Múltiples intentos de foco para asegurar que Windows lo procese correctamente
   const focusInput = () => {
