@@ -54,7 +54,7 @@ function captureActiveWindowSync() {
 function createWindow() {
   win = new BrowserWindow({
     width: 600,
-    height: 450,
+    height: 480,
     show: false,
     frame: false,
     resizable: false,
@@ -110,7 +110,7 @@ function toggleWindow(sticky = false) {
   const { width, height, x, y } = activeDisplay.bounds;
 
   const windowWidth = 600;
-  const windowHeight = 450;
+  const windowHeight = 480;
 
   const posX = x + Math.round((width - windowWidth) / 2);
   const posY = y + Math.round((height - windowHeight) / 2);
