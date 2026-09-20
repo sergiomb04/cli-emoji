@@ -101,6 +101,14 @@ async function fillAllVariants() {
   console.log(`✨ Se han añadido ${addedVariants} variantes nuevas (heredando keywords).`);
   console.log(`✨ Se han añadido ${addedNew} emojis completamente nuevos.`);
   console.log(`📈 Total de emojis ahora: ${newMap.size}`);
+
+  // Regenerar automáticamente el caché optimizado
+  try {
+    const { buildEmojiData } = require('./build-data');
+    buildEmojiData();
+  } catch (err) {
+    console.error('Error al regenerar caché:', err);
+  }
 }
 
 fillAllVariants().catch(console.error);

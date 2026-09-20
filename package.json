@@ -5,7 +5,9 @@
   "main": "src/main/main.js",
   "scripts": {
     "start": "node src/cli/index.js",
+    "dev": "electron . --enable-logging",
     "electron": "electron .",
+    "build:data": "node scripts/build-data.js",
     "update-emojis": "node scripts/update_emojis.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

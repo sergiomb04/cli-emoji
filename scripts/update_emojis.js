@@ -78,6 +78,14 @@ function updateEmojis() {
   console.log(`Actualización completada.`);
   console.log(`Emojis nuevos añadidos: ${addedCount}`);
   console.log(`Emojis actualizados con nuevos keywords: ${updatedCount}`);
+
+  // Regenerar automáticamente el caché optimizado
+  try {
+    const { buildEmojiData } = require('./build-data');
+    buildEmojiData();
+  } catch (err) {
+    console.error('Error al regenerar caché:', err);
+  }
 }
 
 updateEmojis();

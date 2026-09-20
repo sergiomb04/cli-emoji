@@ -43,7 +43,7 @@
 😶‍🌫️:cara en nubes,confusión,mente nublada,perdido
 😏:sonrisa pícara,coqueto,sarcasmo,astuto,pervertido,sexy,insinuación
 😒:mirada de reojo,molesto,aburrido,insatisfecho,fastidio,desinterés
-🙄:rodar ojos,desdén,sarcasmo,aburrimiento,hartazgo, no sé
+🙄:rodar ojos,desdén,sarcasmo,aburrimiento,hartazgo,no sé
 😬:diente,dientes,mueca,nervioso,incómodo,oops,error,tensión,sorpresa
 😮‍💨:suspiro,alivio,cansancio,exhalar,frustración,relajación,enfadado
 🤥:mentiroso,pinocho,nariz larga,mentira
@@ -166,7 +166,7 @@
 💬:burbuja de diálogo,conversación,chat,mensaje,hablar,texto
 👁️‍🗨️:observación,comentario,opinión,atención,mirada
 🗨️:diálogo,habla,comentario,conversación,texto,burbuja diálogo,chat,hablar,mensaje
-🗯️:enojo,grito,queja,burbuja agresiva,frustración,burbuja enfado,comic,explosión
+🗯️:enojo,grito,queja,burbuja agresiva,frustración,burbuja enfado,comic,explosión,explosión🤖
 💭:pensamiento,idea,reflexión,mente,soñar
 💤:zzz,dormir,sueño,cansado
 👋:saludar,hola,adiós,mano,saludo
@@ -221,7 +221,7 @@
 🫴🏻:mano hacia arriba,recibir,pedir
 🫴🏼:mano hacia arriba,recibir,pedir
 🫴🏽:mano hacia arriba,recibir,pedir
-🫴��:palm up hand: medium-dark skin tone
+🫴��:palm up hand
 🫴🏿:mano hacia arriba,recibir,pedir
 🫷:empujar mano izquierda,alto,parar
 🫷🏻:empujar mano izquierda,alto,parar
@@ -254,11 +254,11 @@
 🤏🏾:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
 🤏🏿:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
 ✌️:victoria,paz,dos,v
-✌🏻:victory hand: light skin tone
-✌🏼:victory hand: medium-light skin tone
-✌🏽:victory hand: medium skin tone
-✌🏾:victory hand: medium-dark skin tone
-✌🏿:victory hand: dark skin tone
+✌🏻:victory hand
+✌🏼:victory hand
+✌🏽:victory hand
+✌🏾:victory hand
+✌🏿:victory hand
 🤞:dedos cruzados,suerte,esperanza
 🤞🏻:dedos cruzados,suerte,esperanza
 🤞🏼:dedos cruzados,suerte,esperanza
@@ -403,26 +403,26 @@
 🤝🏽:apretón de manos,trato,acuerdo,saludo
 🤝🏾:apretón de manos,trato,acuerdo,saludo
 🤝🏿:apretón de manos oscuro,acuerdo,saludo
-🫱🏻‍🫲🏼:handshake: light skin tone, medium-light skin tone
-🫱🏻‍🫲🏽:handshake: light skin tone, medium skin tone
-🫱🏻‍🫲🏾:handshake: light skin tone, medium-dark skin tone
-🫱🏻‍🫲🏿:handshake: light skin tone, dark skin tone
-🫱🏼‍🫲🏻:handshake: medium-light skin tone, light skin tone
-🫱🏼‍🫲🏽:handshake: medium-light skin tone, medium skin tone
-🫱🏼‍🫲🏾:handshake: medium-light skin tone, medium-dark skin tone
-🫱🏼‍🫲🏿:handshake: medium-light skin tone, dark skin tone
-🫱🏽‍🫲🏻:handshake: medium skin tone, light skin tone
-🫱🏽‍🫲🏼:handshake: medium skin tone, medium-light skin tone
-🫱🏽‍🫲🏾:handshake: medium skin tone, medium-dark skin tone
-🫱🏽‍🫲🏿:handshake: medium skin tone, dark skin tone
-🫱🏾‍🫲🏻:handshake: medium-dark skin tone, light skin tone
-🫱🏾‍🫲🏼:handshake: medium-dark skin tone, medium-light skin tone
-🫱🏾‍🫲🏽:handshake: medium-dark skin tone, medium skin tone
-🫱🏾‍🫲🏿:handshake: medium-dark skin tone, dark skin tone
-🫱🏿‍🫲🏻:handshake: dark skin tone, light skin tone
-🫱🏿‍🫲🏼:handshake: dark skin tone, medium-light skin tone
-🫱🏿‍🫲🏽:handshake: dark skin tone, medium skin tone
-🫱🏿‍🫲🏾:handshake: dark skin tone, medium-dark skin tone
+🫱🏻‍🫲🏼:handshake
+🫱🏻‍🫲🏽:handshake
+🫱🏻‍🫲🏾:handshake
+🫱🏻‍🫲🏿:handshake
+🫱🏼‍🫲🏻:handshake
+🫱🏼‍🫲🏽:handshake
+🫱🏼‍🫲🏾:handshake
+🫱🏼‍🫲🏿:handshake
+🫱🏽‍🫲🏻:handshake
+🫱🏽‍🫲🏼:handshake
+🫱🏽‍🫲🏾:handshake
+🫱🏽‍🫲🏿:handshake
+🫱🏾‍🫲🏻:handshake
+🫱🏾‍🫲🏼:handshake
+🫱🏾‍🫲🏽:handshake
+🫱🏾‍🫲🏿:handshake
+🫱🏿‍🫲🏻:handshake
+🫱🏿‍🫲🏼:handshake
+🫱🏿‍🫲🏽:handshake
+🫱🏿‍🫲🏾:handshake
 🙏:manos juntas,por favor,gracias,rezar,suplicar
 🙏🏻:manos juntas,por favor,gracias,rezar,suplicar
 🙏🏼:manos juntas,por favor,gracias,rezar,suplicar
@@ -430,11 +430,11 @@
 🙏🏾:manos juntas,por favor,gracias,rezar,suplicar
 🙏🏿:manos juntas,por favor,gracias,rezar,suplicar
 ✍️:escribiendo,bolígrafo,firma,escribir
-✍🏻:writing hand: light skin tone
-✍🏼:writing hand: medium-light skin tone
-✍🏽:writing hand: medium skin tone
-✍🏾:writing hand: medium-dark skin tone
-✍🏿:writing hand: dark skin tone
+✍🏻:writing hand
+✍🏼:writing hand
+✍🏽:writing hand
+✍🏾:writing hand
+✍🏿:writing hand
 💅:pintarse las uñas,belleza,manicura,despreocupado
 💅🏻:pintarse las uñas,belleza,manicura,despreocupado
 💅🏼:pintarse las uñas,belleza,manicura,despreocupado
@@ -667,7 +667,7 @@
 🙍🏻:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
 🙍🏼:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
 🙍🏽:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
-��🏾:person frowning: medium-dark skin tone
+��🏾:person frowning
 🙍🏿:fruncir el ceño,desagrado,tristeza,preocupación,insatisfacción
 🙍‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
 🙍🏻‍♂️:hombre triste,preocupado,ceño fruncido,desánimo,malestar
@@ -1028,7 +1028,7 @@
 🧑🏼‍💻:programador,tecnología,código,informática,computadora
 🧑🏽‍💻:programador,tecnología,código,informática,computadora
 🧑🏾‍💻:programador,tecnología,código,informática,computadora
-🧑🏿‍��:technologist: dark skin tone
+🧑🏿‍��:technologist
 👨‍💻:programador,desarrollador,informático,pc
 👨🏻‍💻:programador,desarrollador,informático,pc
 👨🏼‍💻:programador,desarrollador,informático,pc
@@ -1061,7 +1061,7 @@
 👩🏿‍🎤:cantante mujer,estrella de rock,música
 🧑‍🎨:artista,pintor,creatividad,arte,diseño
 🧑🏻‍🎨:artista,pintor,creatividad,arte,diseño
-🧑���‍🎨:artist: medium-light skin tone
+🧑���‍🎨:artist
 🧑🏽‍🎨:artista,pintor,creatividad,arte,diseño
 🧑🏾‍🎨:artista,pintor,creatividad,arte,diseño
 🧑🏿‍🎨:artista,pintor,creatividad,arte,diseño
@@ -1805,66 +1805,66 @@
 👯🏽‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
 👯🏾‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
 👯🏿‍♀️:mujeres bailando,fiesta,baile,grupo,diversión
-🧑🏻‍🐰‍🧑🏼:people with bunny ears: light skin tone, medium-light skin tone
-🧑🏻‍🐰‍🧑🏽:people with bunny ears: light skin tone, medium skin tone
-🧑🏻‍🐰‍🧑🏾:people with bunny ears: light skin tone, medium-dark skin tone
-🧑🏻‍🐰‍🧑🏿:people with bunny ears: light skin tone, dark skin tone
-🧑🏼‍🐰‍🧑🏻:people with bunny ears: medium-light skin tone, light skin tone
-🧑🏼‍🐰‍🧑🏽:people with bunny ears: medium-light skin tone, medium skin tone
-🧑🏼‍🐰‍🧑🏾:people with bunny ears: medium-light skin tone, medium-dark skin tone
-🧑🏼‍🐰‍🧑🏿:people with bunny ears: medium-light skin tone, dark skin tone
-🧑🏽‍🐰‍🧑🏻:people with bunny ears: medium skin tone, light skin tone
-🧑🏽‍🐰‍🧑🏼:people with bunny ears: medium skin tone, medium-light skin tone
-🧑🏽‍🐰‍🧑🏾:people with bunny ears: medium skin tone, medium-dark skin tone
-🧑🏽‍🐰‍🧑🏿:people with bunny ears: medium skin tone, dark skin tone
-🧑🏾‍🐰‍🧑🏻:people with bunny ears: medium-dark skin tone, light skin tone
-🧑🏾‍🐰‍🧑🏼:people with bunny ears: medium-dark skin tone, medium-light skin tone
-🧑🏾‍🐰‍🧑🏽:people with bunny ears: medium-dark skin tone, medium skin tone
-🧑🏾‍🐰‍🧑🏿:people with bunny ears: medium-dark skin tone, dark skin tone
-🧑🏿‍🐰‍🧑🏻:people with bunny ears: dark skin tone, light skin tone
-🧑🏿‍🐰‍🧑🏼:people with bunny ears: dark skin tone, medium-light skin tone
-🧑🏿‍🐰‍🧑🏽:people with bunny ears: dark skin tone, medium skin tone
-🧑🏿‍🐰‍🧑🏾:people with bunny ears: dark skin tone, medium-dark skin tone
-👨🏻‍🐰‍👨🏼:men with bunny ears: light skin tone, medium-light skin tone
-👨🏻‍🐰‍👨🏽:men with bunny ears: light skin tone, medium skin tone
-👨🏻‍🐰‍👨🏾:men with bunny ears: light skin tone, medium-dark skin tone
-👨🏻‍🐰‍👨🏿:men with bunny ears: light skin tone, dark skin tone
-👨🏼‍🐰‍👨🏻:men with bunny ears: medium-light skin tone, light skin tone
-👨🏼‍🐰‍👨🏽:men with bunny ears: medium-light skin tone, medium skin tone
-👨🏼‍🐰‍👨🏾:men with bunny ears: medium-light skin tone, medium-dark skin tone
-👨🏼‍🐰‍👨🏿:men with bunny ears: medium-light skin tone, dark skin tone
-👨🏽‍🐰‍👨🏻:men with bunny ears: medium skin tone, light skin tone
-👨🏽‍🐰‍👨🏼:men with bunny ears: medium skin tone, medium-light skin tone
-👨🏽‍🐰‍👨🏾:men with bunny ears: medium skin tone, medium-dark skin tone
-👨🏽‍🐰‍👨🏿:men with bunny ears: medium skin tone, dark skin tone
-👨🏾‍🐰‍👨🏻:men with bunny ears: medium-dark skin tone, light skin tone
-👨🏾‍🐰‍👨🏼:men with bunny ears: medium-dark skin tone, medium-light skin tone
-👨🏾‍🐰‍👨🏽:men with bunny ears: medium-dark skin tone, medium skin tone
-👨🏾‍🐰‍👨🏿:men with bunny ears: medium-dark skin tone, dark skin tone
-👨🏿‍🐰‍👨🏻:men with bunny ears: dark skin tone, light skin tone
-👨🏿‍🐰‍👨🏼:men with bunny ears: dark skin tone, medium-light skin tone
-👨🏿‍🐰‍👨🏽:men with bunny ears: dark skin tone, medium skin tone
-👨🏿‍🐰‍👨🏾:men with bunny ears: dark skin tone, medium-dark skin tone
-👩🏻‍🐰‍👩🏼:women with bunny ears: light skin tone, medium-light skin tone
-👩🏻‍🐰‍👩🏽:women with bunny ears: light skin tone, medium skin tone
-👩🏻‍🐰‍👩🏾:women with bunny ears: light skin tone, medium-dark skin tone
-👩🏻‍🐰‍👩🏿:women with bunny ears: light skin tone, dark skin tone
-👩🏼‍🐰‍👩🏻:women with bunny ears: medium-light skin tone, light skin tone
-👩🏼‍🐰‍👩🏽:women with bunny ears: medium-light skin tone, medium skin tone
-👩🏼‍🐰‍👩🏾:women with bunny ears: medium-light skin tone, medium-dark skin tone
-👩🏼‍🐰‍👩🏿:women with bunny ears: medium-light skin tone, dark skin tone
-👩🏽‍🐰‍👩🏻:women with bunny ears: medium skin tone, light skin tone
-👩🏽‍🐰‍👩🏼:women with bunny ears: medium skin tone, medium-light skin tone
-👩🏽‍🐰‍👩🏾:women with bunny ears: medium skin tone, medium-dark skin tone
-👩🏽‍🐰‍👩🏿:women with bunny ears: medium skin tone, dark skin tone
-👩🏾‍🐰‍👩🏻:women with bunny ears: medium-dark skin tone, light skin tone
-👩🏾‍🐰‍👩🏼:women with bunny ears: medium-dark skin tone, medium-light skin tone
-👩🏾‍🐰‍👩🏽:women with bunny ears: medium-dark skin tone, medium skin tone
-👩🏾‍🐰‍👩🏿:women with bunny ears: medium-dark skin tone, dark skin tone
-👩🏿‍🐰‍👩🏻:women with bunny ears: dark skin tone, light skin tone
-👩🏿‍🐰‍👩🏼:women with bunny ears: dark skin tone, medium-light skin tone
-👩🏿‍🐰‍👩🏽:women with bunny ears: dark skin tone, medium skin tone
-👩🏿‍🐰‍👩🏾:women with bunny ears: dark skin tone, medium-dark skin tone
+🧑🏻‍🐰‍🧑🏼:people with bunny ears
+🧑🏻‍🐰‍🧑🏽:people with bunny ears
+🧑🏻‍🐰‍🧑🏾:people with bunny ears
+🧑🏻‍🐰‍🧑🏿:people with bunny ears
+🧑🏼‍🐰‍🧑🏻:people with bunny ears
+🧑🏼‍🐰‍🧑🏽:people with bunny ears
+🧑🏼‍🐰‍🧑🏾:people with bunny ears
+🧑🏼‍🐰‍🧑🏿:people with bunny ears
+🧑🏽‍🐰‍🧑🏻:people with bunny ears
+🧑🏽‍🐰‍🧑🏼:people with bunny ears
+🧑🏽‍🐰‍🧑🏾:people with bunny ears
+🧑🏽‍🐰‍🧑🏿:people with bunny ears
+🧑🏾‍🐰‍🧑🏻:people with bunny ears
+🧑🏾‍🐰‍🧑🏼:people with bunny ears
+🧑🏾‍🐰‍🧑🏽:people with bunny ears
+🧑🏾‍🐰‍🧑🏿:people with bunny ears
+🧑🏿‍🐰‍🧑🏻:people with bunny ears
+🧑🏿‍🐰‍🧑🏼:people with bunny ears
+🧑🏿‍🐰‍🧑🏽:people with bunny ears
+🧑🏿‍🐰‍🧑🏾:people with bunny ears
+👨🏻‍🐰‍👨🏼:men with bunny ears
+👨🏻‍🐰‍👨🏽:men with bunny ears
+👨🏻‍🐰‍👨🏾:men with bunny ears
+👨🏻‍🐰‍👨🏿:men with bunny ears
+👨🏼‍🐰‍👨🏻:men with bunny ears
+👨🏼‍🐰‍👨🏽:men with bunny ears
+👨🏼‍🐰‍👨🏾:men with bunny ears
+👨🏼‍🐰‍👨🏿:men with bunny ears
+👨🏽‍🐰‍👨🏻:men with bunny ears
+👨🏽‍🐰‍👨🏼:men with bunny ears
+👨🏽‍🐰‍👨🏾:men with bunny ears
+👨🏽‍🐰‍👨🏿:men with bunny ears
+👨🏾‍🐰‍👨🏻:men with bunny ears
+👨🏾‍🐰‍👨🏼:men with bunny ears
+👨🏾‍🐰‍👨🏽:men with bunny ears
+👨🏾‍🐰‍👨🏿:men with bunny ears
+👨🏿‍🐰‍👨🏻:men with bunny ears
+👨🏿‍🐰‍👨🏼:men with bunny ears
+👨🏿‍🐰‍👨🏽:men with bunny ears
+👨🏿‍🐰‍👨🏾:men with bunny ears
+👩🏻‍🐰‍👩🏼:women with bunny ears
+👩🏻‍🐰‍👩🏽:women with bunny ears
+👩🏻‍🐰‍👩🏾:women with bunny ears
+👩🏻‍🐰‍👩🏿:women with bunny ears
+👩🏼‍🐰‍👩🏻:women with bunny ears
+👩🏼‍🐰‍👩🏽:women with bunny ears
+👩🏼‍🐰‍👩🏾:women with bunny ears
+👩🏼‍🐰‍👩🏿:women with bunny ears
+👩🏽‍🐰‍👩🏻:women with bunny ears
+👩🏽‍🐰‍👩🏼:women with bunny ears
+👩🏽‍🐰‍👩🏾:women with bunny ears
+👩🏽‍🐰‍👩🏿:women with bunny ears
+👩🏾‍🐰‍👩🏻:women with bunny ears
+👩🏾‍🐰‍👩🏼:women with bunny ears
+👩🏾‍🐰‍👩🏽:women with bunny ears
+👩🏾‍🐰‍👩🏿:women with bunny ears
+👩🏿‍🐰‍👩🏻:women with bunny ears
+👩🏿‍🐰‍👩🏼:women with bunny ears
+👩🏿‍🐰‍👩🏽:women with bunny ears
+👩🏿‍🐰‍👩🏾:women with bunny ears
 🧖:sauna,spa,relajación,calor,bienestar
 🧖🏻:sauna,spa,relajación,calor,bienestar
 🧖🏼:sauna,spa,relajación,calor,bienestar
@@ -1916,11 +1916,11 @@
 🏂🏾:snowboard,nieve,invierno,deporte,acción
 🏂🏿:snowboard,nieve,invierno,deporte,acción
 🏌️:golf,deporte,pelota,campo,precisión
-🏌🏻:person golfing: light skin tone
-🏌🏼:person golfing: medium-light skin tone
-🏌🏽:person golfing: medium skin tone
-🏌🏾:person golfing: medium-dark skin tone
-🏌🏿:person golfing: dark skin tone
+🏌🏻:person golfing
+🏌🏼:person golfing
+🏌🏽:person golfing
+🏌🏾:person golfing
+🏌🏿:person golfing
 🏌️‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
 🏌🏻‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
 🏌🏼‍♂️:hombre jugando golf,deporte,pelota,precisión,campo
@@ -2006,11 +2006,11 @@
 ⛹🏾‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
 ⛹🏿‍♀️:mujer jugando baloncesto,deporte,cancha,balón,acción
 🏋️:levantamiento de pesas,gimnasio,fuerza,entrenamiento,fitness
-🏋🏻:person lifting weights: light skin tone
-🏋🏼:person lifting weights: medium-light skin tone
-🏋🏽:person lifting weights: medium skin tone
-🏋🏾:person lifting weights: medium-dark skin tone
-🏋🏿:person lifting weights: dark skin tone
+🏋🏻:person lifting weights
+🏋🏼:person lifting weights
+🏋🏽:person lifting weights
+🏋🏾:person lifting weights
+🏋🏿:person lifting weights
 🏋️‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
 🏋🏻‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
 🏋🏼‍♂️:hombre levantando pesas,gimnasio,fuerza,entrenamiento,bodybuilding
@@ -2095,66 +2095,66 @@
 🤼🏽‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
 🤼🏾‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
 🤼🏿‍♀️:mujeres luchando,combate,deporte,wrestling,competencia
-🧑🏻‍🫯‍🧑🏼:people wrestling: light skin tone, medium-light skin tone
-🧑🏻‍🫯‍🧑🏽:people wrestling: light skin tone, medium skin tone
-🧑🏻‍🫯‍🧑🏾:people wrestling: light skin tone, medium-dark skin tone
-🧑🏻‍🫯‍🧑🏿:people wrestling: light skin tone, dark skin tone
-🧑🏼‍🫯‍🧑🏻:people wrestling: medium-light skin tone, light skin tone
-🧑🏼‍🫯‍🧑🏽:people wrestling: medium-light skin tone, medium skin tone
-🧑🏼‍🫯‍🧑🏾:people wrestling: medium-light skin tone, medium-dark skin tone
-🧑🏼‍🫯‍🧑🏿:people wrestling: medium-light skin tone, dark skin tone
-🧑🏽‍🫯‍🧑🏻:people wrestling: medium skin tone, light skin tone
-🧑🏽‍🫯‍🧑🏼:people wrestling: medium skin tone, medium-light skin tone
-🧑🏽‍🫯‍🧑🏾:people wrestling: medium skin tone, medium-dark skin tone
-🧑🏽‍🫯‍🧑🏿:people wrestling: medium skin tone, dark skin tone
-🧑🏾‍🫯‍🧑🏻:people wrestling: medium-dark skin tone, light skin tone
-🧑🏾‍🫯‍🧑🏼:people wrestling: medium-dark skin tone, medium-light skin tone
-🧑🏾‍🫯‍🧑🏽:people wrestling: medium-dark skin tone, medium skin tone
-🧑🏾‍🫯‍🧑🏿:people wrestling: medium-dark skin tone, dark skin tone
-🧑🏿‍🫯‍🧑🏻:people wrestling: dark skin tone, light skin tone
-🧑🏿‍🫯‍🧑🏼:people wrestling: dark skin tone, medium-light skin tone
-🧑🏿‍🫯‍🧑🏽:people wrestling: dark skin tone, medium skin tone
-🧑🏿‍🫯‍🧑🏾:people wrestling: dark skin tone, medium-dark skin tone
-👨🏻‍🫯‍👨🏼:men wrestling: light skin tone, medium-light skin tone
-👨🏻‍🫯‍👨🏽:men wrestling: light skin tone, medium skin tone
-👨🏻‍🫯‍👨🏾:men wrestling: light skin tone, medium-dark skin tone
-👨🏻‍🫯‍👨🏿:men wrestling: light skin tone, dark skin tone
-👨🏼‍🫯‍👨🏻:men wrestling: medium-light skin tone, light skin tone
-👨🏼‍🫯‍👨🏽:men wrestling: medium-light skin tone, medium skin tone
-👨🏼‍🫯‍👨🏾:men wrestling: medium-light skin tone, medium-dark skin tone
-👨🏼‍🫯‍👨🏿:men wrestling: medium-light skin tone, dark skin tone
-👨🏽‍🫯‍👨🏻:men wrestling: medium skin tone, light skin tone
-👨🏽‍🫯‍👨🏼:men wrestling: medium skin tone, medium-light skin tone
-👨🏽‍🫯‍👨🏾:men wrestling: medium skin tone, medium-dark skin tone
-👨🏽‍🫯‍👨🏿:men wrestling: medium skin tone, dark skin tone
-👨🏾‍🫯‍👨🏻:men wrestling: medium-dark skin tone, light skin tone
-👨🏾‍🫯‍👨🏼:men wrestling: medium-dark skin tone, medium-light skin tone
-👨🏾‍🫯‍👨🏽:men wrestling: medium-dark skin tone, medium skin tone
-👨🏾‍🫯‍👨🏿:men wrestling: medium-dark skin tone, dark skin tone
-👨🏿‍🫯‍👨🏻:men wrestling: dark skin tone, light skin tone
-👨🏿‍🫯‍👨🏼:men wrestling: dark skin tone, medium-light skin tone
-👨🏿‍🫯‍👨🏽:men wrestling: dark skin tone, medium skin tone
-👨🏿‍🫯‍👨🏾:men wrestling: dark skin tone, medium-dark skin tone
-👩🏻‍🫯‍👩🏼:women wrestling: light skin tone, medium-light skin tone
-👩🏻‍🫯‍👩🏽:women wrestling: light skin tone, medium skin tone
-👩🏻‍🫯‍👩🏾:women wrestling: light skin tone, medium-dark skin tone
-👩🏻‍🫯‍👩🏿:women wrestling: light skin tone, dark skin tone
-👩🏼‍🫯‍👩🏻:women wrestling: medium-light skin tone, light skin tone
-👩🏼‍🫯‍👩🏽:women wrestling: medium-light skin tone, medium skin tone
-👩🏼‍🫯‍👩🏾:women wrestling: medium-light skin tone, medium-dark skin tone
-👩🏼‍🫯‍👩🏿:women wrestling: medium-light skin tone, dark skin tone
-👩🏽‍🫯‍👩🏻:women wrestling: medium skin tone, light skin tone
-👩🏽‍🫯‍👩🏼:women wrestling: medium skin tone, medium-light skin tone
-👩🏽‍🫯‍👩🏾:women wrestling: medium skin tone, medium-dark skin tone
-👩🏽‍🫯‍👩🏿:women wrestling: medium skin tone, dark skin tone
-👩🏾‍🫯‍👩🏻:women wrestling: medium-dark skin tone, light skin tone
-👩🏾‍🫯‍👩🏼:women wrestling: medium-dark skin tone, medium-light skin tone
-👩🏾‍🫯‍👩🏽:women wrestling: medium-dark skin tone, medium skin tone
-👩🏾‍🫯‍👩🏿:women wrestling: medium-dark skin tone, dark skin tone
-👩🏿‍🫯‍👩🏻:women wrestling: dark skin tone, light skin tone
-👩🏿‍🫯‍👩🏼:women wrestling: dark skin tone, medium-light skin tone
-👩🏿‍🫯‍👩🏽:women wrestling: dark skin tone, medium skin tone
-👩🏿‍🫯‍👩🏾:women wrestling: dark skin tone, medium-dark skin tone
+🧑🏻‍🫯‍🧑🏼:people wrestling
+🧑🏻‍🫯‍🧑🏽:people wrestling
+🧑🏻‍🫯‍🧑🏾:people wrestling
+🧑🏻‍🫯‍🧑🏿:people wrestling
+🧑🏼‍🫯‍🧑🏻:people wrestling
+🧑🏼‍🫯‍🧑🏽:people wrestling
+🧑🏼‍🫯‍🧑🏾:people wrestling
+🧑🏼‍🫯‍🧑🏿:people wrestling
+🧑🏽‍🫯‍🧑🏻:people wrestling
+🧑🏽‍🫯‍🧑🏼:people wrestling
+🧑🏽‍🫯‍🧑🏾:people wrestling
+🧑🏽‍🫯‍🧑🏿:people wrestling
+🧑🏾‍🫯‍🧑🏻:people wrestling
+🧑🏾‍🫯‍🧑🏼:people wrestling
+🧑🏾‍🫯‍🧑🏽:people wrestling
+🧑🏾‍🫯‍🧑🏿:people wrestling
+🧑🏿‍🫯‍🧑🏻:people wrestling
+🧑🏿‍🫯‍🧑🏼:people wrestling
+🧑🏿‍🫯‍🧑🏽:people wrestling
+🧑🏿‍🫯‍🧑🏾:people wrestling
+👨🏻‍🫯‍👨🏼:men wrestling
+👨🏻‍🫯‍👨🏽:men wrestling
+👨🏻‍🫯‍👨🏾:men wrestling
+👨🏻‍🫯‍👨🏿:men wrestling
+👨🏼‍🫯‍👨🏻:men wrestling
+👨🏼‍🫯‍👨🏽:men wrestling
+👨🏼‍🫯‍👨🏾:men wrestling
+👨🏼‍🫯‍👨🏿:men wrestling
+👨🏽‍🫯‍👨🏻:men wrestling
+👨🏽‍🫯‍👨🏼:men wrestling
+👨🏽‍🫯‍👨🏾:men wrestling
+👨🏽‍🫯‍👨🏿:men wrestling
+👨🏾‍🫯‍👨🏻:men wrestling
+👨🏾‍🫯‍👨🏼:men wrestling
+👨🏾‍🫯‍👨🏽:men wrestling
+👨🏾‍🫯‍👨🏿:men wrestling
+👨🏿‍🫯‍👨🏻:men wrestling
+👨🏿‍🫯‍👨🏼:men wrestling
+👨🏿‍🫯‍👨🏽:men wrestling
+👨🏿‍🫯‍👨🏾:men wrestling
+👩🏻‍🫯‍👩🏼:women wrestling
+👩🏻‍🫯‍👩🏽:women wrestling
+👩🏻‍🫯‍👩🏾:women wrestling
+👩🏻‍🫯‍👩🏿:women wrestling
+👩🏼‍🫯‍👩🏻:women wrestling
+👩🏼‍🫯‍👩🏽:women wrestling
+👩🏼‍🫯‍👩🏾:women wrestling
+👩🏼‍🫯‍👩🏿:women wrestling
+👩🏽‍🫯‍👩🏻:women wrestling
+👩🏽‍🫯‍👩🏼:women wrestling
+👩🏽‍🫯‍👩🏾:women wrestling
+👩🏽‍🫯‍👩🏿:women wrestling
+👩🏾‍🫯‍👩🏻:women wrestling
+👩🏾‍🫯‍👩🏼:women wrestling
+👩🏾‍🫯‍👩🏽:women wrestling
+👩🏾‍🫯‍👩🏿:women wrestling
+👩🏿‍🫯‍👩🏻:women wrestling
+👩🏿‍🫯‍👩🏼:women wrestling
+👩🏿‍🫯‍👩🏽:women wrestling
+👩🏿‍🫯‍👩🏾:women wrestling
 🤽:waterpolo,agua,deporte,competición,piscina
 🤽🏻:waterpolo,agua,deporte,competición,piscina
 🤽🏼:waterpolo,agua,deporte,competición,piscina
@@ -2267,81 +2267,81 @@
 🧑🏿‍🤝‍🧑🏿:personas de la mano,amistad,conexión,unión,relación
 👭:mujeres amigas,amistad,conexión,compañeras,relación
 👭🏻:mujeres amigas,amistad,conexión,compañeras,relación
-👩🏻‍🤝‍👩🏼:women holding hands: light skin tone, medium-light skin tone
-👩🏻‍🤝‍👩🏽:women holding hands: light skin tone, medium skin tone
-👩🏻‍🤝‍👩🏾:women holding hands: light skin tone, medium-dark skin tone
-👩🏻‍🤝‍👩🏿:women holding hands: light skin tone, dark skin tone
-👩🏼‍🤝‍👩🏻:women holding hands: medium-light skin tone, light skin tone
+👩🏻‍🤝‍👩🏼:women holding hands
+👩🏻‍🤝‍👩🏽:women holding hands
+👩🏻‍🤝‍👩🏾:women holding hands
+👩🏻‍🤝‍👩🏿:women holding hands
+👩🏼‍🤝‍👩🏻:women holding hands
 👭🏼:mujeres amigas,amistad,conexión,compañeras,relación
-👩🏼‍🤝‍👩🏽:women holding hands: medium-light skin tone, medium skin tone
-👩🏼‍🤝‍👩🏾:women holding hands: medium-light skin tone, medium-dark skin tone
-👩🏼‍🤝‍👩🏿:women holding hands: medium-light skin tone, dark skin tone
-👩🏽‍🤝‍👩🏻:women holding hands: medium skin tone, light skin tone
-👩🏽‍🤝‍👩🏼:women holding hands: medium skin tone, medium-light skin tone
+👩🏼‍🤝‍👩🏽:women holding hands
+👩🏼‍🤝‍👩🏾:women holding hands
+👩🏼‍🤝‍👩🏿:women holding hands
+👩🏽‍🤝‍👩🏻:women holding hands
+👩🏽‍🤝‍👩🏼:women holding hands
 👭🏽:mujeres amigas,amistad,conexión,compañeras,relación
-👩🏽‍🤝‍👩🏾:women holding hands: medium skin tone, medium-dark skin tone
-👩🏽‍🤝‍👩🏿:women holding hands: medium skin tone, dark skin tone
-👩🏾‍🤝‍👩🏻:women holding hands: medium-dark skin tone, light skin tone
-👩🏾‍🤝‍👩🏼:women holding hands: medium-dark skin tone, medium-light skin tone
-👩🏾‍🤝‍👩🏽:women holding hands: medium-dark skin tone, medium skin tone
+👩🏽‍🤝‍👩🏾:women holding hands
+👩🏽‍🤝‍👩🏿:women holding hands
+👩🏾‍🤝‍👩🏻:women holding hands
+👩🏾‍🤝‍👩🏼:women holding hands
+👩🏾‍🤝‍👩🏽:women holding hands
 👭🏾:mujeres amigas,amistad,conexión,compañeras,relación
-👩🏾‍🤝‍👩🏿:women holding hands: medium-dark skin tone, dark skin tone
-👩🏿‍🤝‍👩🏻:women holding hands: dark skin tone, light skin tone
-👩🏿‍🤝‍👩🏼:women holding hands: dark skin tone, medium-light skin tone
-👩🏿‍🤝‍👩🏽:women holding hands: dark skin tone, medium skin tone
-👩🏿‍🤝‍👩🏾:women holding hands: dark skin tone, medium-dark skin tone
+👩🏾‍🤝‍👩🏿:women holding hands
+👩🏿‍🤝‍👩🏻:women holding hands
+👩🏿‍🤝‍👩🏼:women holding hands
+👩🏿‍🤝‍👩🏽:women holding hands
+👩🏿‍🤝‍👩🏾:women holding hands
 👭🏿:mujeres amigas,amistad,conexión,compañeras,relación
 👫:pareja hombre mujer,relación,amor,amistad,conexión
 👫🏻:pareja hombre mujer,relación,amor,amistad,conexión
-👩🏻‍🤝‍👨🏼:woman and man holding hands: light skin tone, medium-light skin tone
-👩🏻‍🤝‍👨🏽:woman and man holding hands: light skin tone, medium skin tone
-👩🏻‍🤝‍👨🏾:woman and man holding hands: light skin tone, medium-dark skin tone
-👩🏻‍🤝‍👨🏿:woman and man holding hands: light skin tone, dark skin tone
-👩🏼‍🤝‍👨🏻:woman and man holding hands: medium-light skin tone, light skin tone
+👩🏻‍🤝‍👨🏼:woman and man holding hands
+👩🏻‍🤝‍👨🏽:woman and man holding hands
+👩🏻‍🤝‍👨🏾:woman and man holding hands
+👩🏻‍🤝‍👨🏿:woman and man holding hands
+👩🏼‍🤝‍👨🏻:woman and man holding hands
 👫🏼:pareja hombre mujer,relación,amor,amistad,conexión
-👩🏼‍🤝‍👨🏽:woman and man holding hands: medium-light skin tone, medium skin tone
-👩🏼‍🤝‍👨🏾:woman and man holding hands: medium-light skin tone, medium-dark skin tone
-👩🏼‍🤝‍👨🏿:woman and man holding hands: medium-light skin tone, dark skin tone
-👩🏽‍🤝‍👨🏻:woman and man holding hands: medium skin tone, light skin tone
-👩🏽‍🤝‍👨🏼:woman and man holding hands: medium skin tone, medium-light skin tone
+👩🏼‍🤝‍👨🏽:woman and man holding hands
+👩🏼‍🤝‍👨🏾:woman and man holding hands
+👩🏼‍🤝‍👨🏿:woman and man holding hands
+👩🏽‍🤝‍👨🏻:woman and man holding hands
+👩🏽‍🤝‍👨🏼:woman and man holding hands
 👫🏽:pareja hombre mujer,relación,amor,amistad,conexión
-👩🏽‍🤝‍👨🏾:woman and man holding hands: medium skin tone, medium-dark skin tone
-👩🏽‍🤝‍👨🏿:woman and man holding hands: medium skin tone, dark skin tone
-👩🏾‍🤝‍👨🏻:woman and man holding hands: medium-dark skin tone, light skin tone
-👩🏾‍🤝‍👨🏼:woman and man holding hands: medium-dark skin tone, medium-light skin tone
-👩🏾‍🤝‍👨🏽:woman and man holding hands: medium-dark skin tone, medium skin tone
+👩🏽‍🤝‍👨🏾:woman and man holding hands
+👩🏽‍🤝‍👨🏿:woman and man holding hands
+👩🏾‍🤝‍👨🏻:woman and man holding hands
+👩🏾‍🤝‍👨🏼:woman and man holding hands
+👩🏾‍🤝‍👨🏽:woman and man holding hands
 👫🏾:pareja hombre mujer,relación,amor,amistad,conexión
-👩🏾‍🤝‍👨🏿:woman and man holding hands: medium-dark skin tone, dark skin tone
-👩🏿‍🤝‍👨🏻:woman and man holding hands: dark skin tone, light skin tone
-👩🏿‍🤝‍👨🏼:woman and man holding hands: dark skin tone, medium-light skin tone
-👩🏿‍🤝‍👨🏽:woman and man holding hands: dark skin tone, medium skin tone
-👩🏿‍🤝‍👨🏾:woman and man holding hands: dark skin tone, medium-dark skin tone
+👩🏾‍🤝‍👨🏿:woman and man holding hands
+👩🏿‍🤝‍👨🏻:woman and man holding hands
+👩🏿‍🤝‍👨🏼:woman and man holding hands
+👩🏿‍🤝‍👨🏽:woman and man holding hands
+👩🏿‍🤝‍👨🏾:woman and man holding hands
 👫🏿:pareja hombre mujer,relación,amor,amistad,conexión
 👬:hombres amigos,amistad,hermandad,conexión,relación
 👬🏻:hombres amigos,amistad,hermandad,conexión,relación
-👨🏻‍🤝‍👨🏼:men holding hands: light skin tone, medium-light skin tone
-👨🏻‍🤝‍👨🏽:men holding hands: light skin tone, medium skin tone
-👨🏻‍🤝‍👨🏾:men holding hands: light skin tone, medium-dark skin tone
-👨🏻‍🤝‍👨🏿:men holding hands: light skin tone, dark skin tone
-👨🏼‍🤝‍👨🏻:men holding hands: medium-light skin tone, light skin tone
+👨🏻‍🤝‍👨🏼:men holding hands
+👨🏻‍🤝‍👨🏽:men holding hands
+👨🏻‍🤝‍👨🏾:men holding hands
+👨🏻‍🤝‍👨🏿:men holding hands
+👨🏼‍🤝‍👨🏻:men holding hands
 👬🏼:hombres amigos,amistad,hermandad,conexión,relación
-👨🏼‍🤝‍👨🏽:men holding hands: medium-light skin tone, medium skin tone
-👨🏼‍🤝‍👨🏾:men holding hands: medium-light skin tone, medium-dark skin tone
-👨🏼‍🤝‍👨🏿:men holding hands: medium-light skin tone, dark skin tone
-👨🏽‍🤝‍👨🏻:men holding hands: medium skin tone, light skin tone
-👨🏽‍🤝‍👨🏼:men holding hands: medium skin tone, medium-light skin tone
+👨🏼‍🤝‍👨🏽:men holding hands
+👨🏼‍🤝‍👨🏾:men holding hands
+👨🏼‍🤝‍👨🏿:men holding hands
+👨🏽‍🤝‍👨🏻:men holding hands
+👨🏽‍🤝‍👨🏼:men holding hands
 👬🏽:hombres amigos,amistad,hermandad,conexión,relación
-👨🏽‍🤝‍👨🏾:men holding hands: medium skin tone, medium-dark skin tone
-👨🏽‍🤝‍👨🏿:men holding hands: medium skin tone, dark skin tone
-👨🏾‍🤝‍👨🏻:men holding hands: medium-dark skin tone, light skin tone
-👨🏾‍🤝‍👨🏼:men holding hands: medium-dark skin tone, medium-light skin tone
-👨🏾‍🤝‍👨🏽:men holding hands: medium-dark skin tone, medium skin tone
+👨🏽‍🤝‍👨🏾:men holding hands
+👨🏽‍🤝‍👨🏿:men holding hands
+👨🏾‍🤝‍👨🏻:men holding hands
+👨🏾‍🤝‍👨🏼:men holding hands
+👨🏾‍🤝‍👨🏽:men holding hands
 👬🏾:hombres amigos,amistad,hermandad,conexión,relación
-👨🏾‍🤝‍👨🏿:men holding hands: medium-dark skin tone, dark skin tone
-👨🏿‍🤝‍👨🏻:men holding hands: dark skin tone, light skin tone
-👨🏿‍🤝‍👨🏼:men holding hands: dark skin tone, medium-light skin tone
-👨🏿‍🤝‍👨🏽:men holding hands: dark skin tone, medium skin tone
-👨🏿‍🤝‍👨🏾:men holding hands: dark skin tone, medium-dark skin tone
+👨🏾‍🤝‍👨🏿:men holding hands
+👨🏿‍🤝‍👨🏻:men holding hands
+👨🏿‍🤝‍👨🏼:men holding hands
+👨🏿‍🤝‍👨🏽:men holding hands
+👨🏿‍🤝‍👨🏾:men holding hands
 👬🏿:hombres amigos,amistad,hermandad,conexión,relación
 💏:beso romántico,amor,pareja,afecto,relación
 💏🏻:beso romántico,amor,pareja,afecto,relación
@@ -2349,26 +2349,26 @@
 💏🏽:beso romántico,amor,pareja,afecto,relación
 💏🏾:beso romántico,amor,pareja,afecto,relación
 💏🏿:beso romántico,amor,pareja,afecto,relación
-🧑🏻‍❤️‍💋‍🧑🏼:kiss: person, person, light skin tone, medium-light skin tone
-🧑🏻‍❤️‍💋‍🧑🏽:kiss: person, person, light skin tone, medium skin tone
-🧑🏻‍❤️‍💋‍🧑🏾:kiss: person, person, light skin tone, medium-dark skin tone
-🧑🏻‍❤️‍💋‍🧑🏿:kiss: person, person, light skin tone, dark skin tone
-🧑🏼‍❤️‍💋‍🧑🏻:kiss: person, person, medium-light skin tone, light skin tone
-🧑🏼‍❤️‍💋‍🧑🏽:kiss: person, person, medium-light skin tone, medium skin tone
-🧑🏼‍❤️‍💋‍🧑🏾:kiss: person, person, medium-light skin tone, medium-dark skin tone
-🧑🏼‍❤️‍💋‍🧑🏿:kiss: person, person, medium-light skin tone, dark skin tone
-🧑🏽‍❤️‍💋‍🧑🏻:kiss: person, person, medium skin tone, light skin tone
-🧑🏽‍❤️‍💋‍🧑🏼:kiss: person, person, medium skin tone, medium-light skin tone
-🧑🏽‍❤️‍💋‍🧑🏾:kiss: person, person, medium skin tone, medium-dark skin tone
-🧑🏽‍❤️‍💋‍🧑🏿:kiss: person, person, medium skin tone, dark skin tone
-🧑🏾‍❤️‍💋‍🧑🏻:kiss: person, person, medium-dark skin tone, light skin tone
-🧑🏾‍❤️‍💋‍🧑🏼:kiss: person, person, medium-dark skin tone, medium-light skin tone
-🧑🏾‍❤️‍💋‍🧑🏽:kiss: person, person, medium-dark skin tone, medium skin tone
-🧑🏾‍❤️‍💋‍🧑🏿:kiss: person, person, medium-dark skin tone, dark skin tone
-🧑🏿‍❤️‍💋‍🧑🏻:kiss: person, person, dark skin tone, light skin tone
-🧑🏿‍❤️‍💋‍🧑🏼:kiss: person, person, dark skin tone, medium-light skin tone
-🧑🏿‍❤️‍💋‍🧑🏽:kiss: person, person, dark skin tone, medium skin tone
-🧑🏿‍❤️‍💋‍🧑🏾:kiss: person, person, dark skin tone, medium-dark skin tone
+🧑🏻‍❤️‍💋‍🧑🏼:kiss
+🧑🏻‍❤️‍💋‍🧑🏽:kiss
+🧑🏻‍❤️‍💋‍🧑🏾:kiss
+🧑🏻‍❤️‍💋‍🧑🏿:kiss
+🧑🏼‍❤️‍💋‍🧑🏻:kiss
+🧑🏼‍❤️‍💋‍🧑🏽:kiss
+🧑🏼‍❤️‍💋‍🧑🏾:kiss
+🧑🏼‍❤️‍💋‍🧑🏿:kiss
+🧑🏽‍❤️‍💋‍🧑🏻:kiss
+🧑🏽‍❤️‍💋‍🧑🏼:kiss
+🧑🏽‍❤️‍💋‍🧑🏾:kiss
+🧑🏽‍❤️‍💋‍🧑🏿:kiss
+🧑🏾‍❤️‍💋‍🧑🏻:kiss
+🧑🏾‍❤️‍💋‍🧑🏼:kiss
+🧑🏾‍❤️‍💋‍🧑🏽:kiss
+🧑🏾‍❤️‍💋‍🧑🏿:kiss
+🧑🏿‍❤️‍💋‍🧑🏻:kiss
+🧑🏿‍❤️‍💋‍🧑🏼:kiss
+🧑🏿‍❤️‍💋‍🧑🏽:kiss
+🧑🏿‍❤️‍💋‍🧑🏾:kiss
 👩‍❤️‍💋‍👨:beso pareja mujer hombre,amor,romance,relación,afecto
 👩🏻‍❤️‍💋‍👨🏻:beso pareja mujer hombre,amor,romance,relación,afecto
 👩🏻‍❤️‍💋‍👨🏼:beso pareja mujer hombre,amor,romance,relación,afecto
@@ -2453,26 +2453,26 @@
 💑🏽:pareja enamorada,amor,relación,corazones,romance
 💑🏾:pareja enamorada,amor,relación,corazones,romance
 💑🏿:pareja enamorada,amor,relación,corazones,romance
-🧑🏻‍❤️‍🧑🏼:couple with heart: person, person, light skin tone, medium-light skin tone
-🧑🏻‍❤️‍🧑🏽:couple with heart: person, person, light skin tone, medium skin tone
-🧑🏻‍❤️‍🧑🏾:couple with heart: person, person, light skin tone, medium-dark skin tone
-🧑🏻‍❤️‍🧑🏿:couple with heart: person, person, light skin tone, dark skin tone
-🧑🏼‍❤️‍🧑🏻:couple with heart: person, person, medium-light skin tone, light skin tone
-🧑🏼‍❤️‍🧑🏽:couple with heart: person, person, medium-light skin tone, medium skin tone
-🧑🏼‍❤️‍🧑🏾:couple with heart: person, person, medium-light skin tone, medium-dark skin tone
-🧑🏼‍❤️‍🧑🏿:couple with heart: person, person, medium-light skin tone, dark skin tone
-🧑🏽‍❤️‍🧑🏻:couple with heart: person, person, medium skin tone, light skin tone
-🧑🏽‍❤️‍🧑🏼:couple with heart: person, person, medium skin tone, medium-light skin tone
-🧑🏽‍❤️‍🧑🏾:couple with heart: person, person, medium skin tone, medium-dark skin tone
-🧑🏽‍❤️‍🧑🏿:couple with heart: person, person, medium skin tone, dark skin tone
-🧑🏾‍❤️‍🧑🏻:couple with heart: person, person, medium-dark skin tone, light skin tone
-🧑🏾‍❤️‍🧑🏼:couple with heart: person, person, medium-dark skin tone, medium-light skin tone
-🧑🏾‍❤️‍🧑🏽:couple with heart: person, person, medium-dark skin tone, medium skin tone
-🧑🏾‍❤️‍🧑🏿:couple with heart: person, person, medium-dark skin tone, dark skin tone
-🧑🏿‍❤️‍🧑🏻:couple with heart: person, person, dark skin tone, light skin tone
-🧑🏿‍❤️‍🧑🏼:couple with heart: person, person, dark skin tone, medium-light skin tone
-🧑🏿‍❤️‍🧑🏽:couple with heart: person, person, dark skin tone, medium skin tone
-🧑🏿‍❤️‍🧑🏾:couple with heart: person, person, dark skin tone, medium-dark skin tone
+🧑🏻‍❤️‍🧑🏼:couple with heart
+🧑🏻‍❤️‍🧑🏽:couple with heart
+🧑🏻‍❤️‍🧑🏾:couple with heart
+🧑🏻‍❤️‍🧑🏿:couple with heart
+🧑🏼‍❤️‍🧑🏻:couple with heart
+🧑🏼‍❤️‍🧑🏽:couple with heart
+🧑🏼‍❤️‍🧑🏾:couple with heart
+🧑🏼‍❤️‍🧑🏿:couple with heart
+🧑🏽‍❤️‍🧑🏻:couple with heart
+🧑🏽‍❤️‍🧑🏼:couple with heart
+🧑🏽‍❤️‍🧑🏾:couple with heart
+🧑🏽‍❤️‍🧑🏿:couple with heart
+🧑🏾‍❤️‍🧑🏻:couple with heart
+🧑🏾‍❤️‍🧑🏼:couple with heart
+🧑🏾‍❤️‍🧑🏽:couple with heart
+🧑🏾‍❤️‍🧑🏿:couple with heart
+🧑🏿‍❤️‍🧑🏻:couple with heart
+🧑🏿‍❤️‍🧑🏼:couple with heart
+🧑🏿‍❤️‍🧑🏽:couple with heart
+🧑🏿‍❤️‍🧑🏾:couple with heart
 👩‍❤️‍👨:pareja mujer hombre,amor,relación,romance,corazón
 👩🏻‍❤️‍👨🏻:pareja mujer hombre,amor,relación,romance,corazón
 👩🏻‍❤️‍👨🏼:pareja mujer hombre,amor,relación,romance,corazón
@@ -3938,6 +3938,6 @@
 🇿🇦:Sudáfrica,país,África,bandera,geografía
 🇿🇲:Zambia,país,África,bandera,geografía
 🇿🇼:Zimbabue,país,África,bandera,geografía
-🏴󠁧󠁢󠁥󠁮󠁧󠁿:flag: England
-🏴󠁧󠁢󠁳󠁣󠁴󠁿:flag: Scotland
-🏴󠁧󠁢󠁷󠁬󠁳󠁿:flag: Wales
+🏴󠁧󠁢󠁥󠁮󠁧󠁿:flag
+🏴󠁧󠁢󠁳󠁣󠁴󠁿:flag
+🏴󠁧󠁢󠁷󠁬󠁳󠁿:flag
