@@ -279,6 +279,13 @@ window.addEventListener('focus', () => {
   searchInput.focus();
 });
 
+// Ocultar si se hace clic en la zona fuera de la tarjeta/contenedor
+window.addEventListener('mousedown', (e) => {
+  if (!e.target.closest('#container')) {
+    window.electronAPI.hideApp();
+  }
+});
+
 // Listener para cuando la ventana se muestra
 window.electronAPI.onWindowShown(async () => {
   searchInput.value = '';

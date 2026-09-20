@@ -85,10 +85,13 @@ function createWindow() {
     }, 50);
   });
 
-  // Removido: No ocultar automáticamente al perder el foco para permitir selección múltiple
-  // win.on('blur', () => {
-  //   win.hide();
-  // });
+  // Ocultar automáticamente al perder el foco (clic afuera)
+  win.on('blur', () => {
+    log('Ventana perdió el foco (blur): ocultando pestaña');
+    if (!win.isDestroyed() && win.isVisible()) {
+      win.hide();
+    }
+  });
 }
 
 function toggleWindow(sticky = false) {
