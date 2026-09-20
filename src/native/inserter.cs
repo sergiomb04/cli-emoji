@@ -111,23 +111,22 @@ namespace EmojiInserter
             keybd_event(VK_V, 0, KEYEVENTF_KEYUP, 0);
             keybd_event(VK_CONTROL, 0, KEYEVENTF_KEYUP, 0);
 
-            // 5. Restaurar el portapapeles original tras pegar para que el usuario no pierda lo que tenía
-            new Thread(() =>
+            // 5. Esperar a que el sistema y la app receptora procesen el pegado
+            Thread.Sleep(80);
+
+            // 6. Restaurar de inmediato el portapapeles original para que el emoji NO quede copiado
+            try
             {
-                Thread.Sleep(150);
-                try
+                if (!string.IsNullOrEmpty(previousText))
                 {
-                    if (previousText != null)
-                    {
-                        Clipboard.SetText(previousText);
-                    }
-                    else
-                    {
-                        Clipboard.Clear();
-                    }
+                    Clipboard.SetText(previousText);
                 }
-                catch { }
-            }).Start();
+                else
+                {
+                    Clipboard.Clear();
+                }
+            }
+            catch { }
         }
 
         static bool SetClipboardWithoutHistory(string text)
