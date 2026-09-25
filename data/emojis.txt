@@ -247,7 +247,7 @@
 🤌🏽:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
 🤌🏾:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
 🤌🏿:dedos juntos,italiano,¿qué?,expresar,énfasis,gesto,hablar
-🤏:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
+🤏:pellizco,poco,pequeño,cantidad,insignificante,minúsculo,poquito
 🤏🏻:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
 🤏🏼:pellizco,poco,pequeño,cantidad,insignificante,minúsculo
 🤏🏽:pellizco,poco,pequeño,cantidad,insignificante,minúsculo

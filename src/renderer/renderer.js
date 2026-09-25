@@ -2,12 +2,26 @@ const searchInput = document.getElementById('search');
 const resultsContainer = document.getElementById('results');
 const tabAll = document.getElementById('tab-all');
 const tabRecents = document.getElementById('tab-recents');
+const clearRecentsBtn = document.getElementById('clear-recents-btn');
+const clearBtnText = document.getElementById('clear-btn-text');
+const contextMenu = document.getElementById('context-menu');
+const ctxRemoveRecent = document.getElementById('ctx-remove-recent');
+const ctxClearRecents = document.getElementById('ctx-clear-recents');
+const toast = document.getElementById('toast');
+const toastMessage = document.getElementById('toast-message');
+const toastUndoBtn = document.getElementById('toast-undo-btn');
+const footerDeleteHint = document.getElementById('footer-delete-hint');
+const footerContextHint = document.getElementById('footer-context-hint');
 
 let activeTab = 'all'; // 'all' | 'recents'
 let results = [];
 let selectedIndex = 0;
 let openVariantIndices = new Set();
 let debounceTimer = null;
+let toastTimer = null;
+let clearConfirmTimer = null;
+let lastUndoAction = null; // { prevList: string[] }
+let contextTarget = null; // { emoji: string, index: number }
 
 function getGridColumns() {
   const first = resultsContainer.querySelector('.grid-item');
@@ -17,13 +31,145 @@ function getGridColumns() {
   return Math.max(1, Math.floor(containerWidth / itemWidth)) || 6;
 }
 
+function updateFooterHints() {
+  if (activeTab === 'recents') {
+    footerDeleteHint.classList.remove('hidden');
+    footerContextHint.classList.remove('hidden');
+  } else {
+    footerDeleteHint.classList.add('hidden');
+    footerContextHint.classList.add('hidden');
+  }
+}
+
+function updateClearButtonVisibility() {
+  if (activeTab === 'recents' && results.length > 0) {
+    clearRecentsBtn.classList.remove('hidden');
+  } else {
+    clearRecentsBtn.classList.add('hidden');
+    resetClearConfirm();
+  }
+}
+
+function resetClearConfirm() {
+  if (clearConfirmTimer) {
+    clearTimeout(clearConfirmTimer);
+    clearConfirmTimer = null;
+  }
+  clearRecentsBtn.classList.remove('confirming');
+  clearBtnText.textContent = 'Vaciar';
+}
+
+function showToast(message, canUndo = false) {
+  if (toastTimer) {
+    clearTimeout(toastTimer);
+  }
+  toastMessage.textContent = message;
+  toastUndoBtn.style.display = canUndo ? 'inline-block' : 'none';
+  toast.classList.remove('hidden');
+
+  toastTimer = setTimeout(() => {
+    hideToast();
+  }, 3500);
+}
+
+function hideToast() {
+  toast.classList.add('hidden');
+  if (toastTimer) {
+    clearTimeout(toastTimer);
+    toastTimer = null;
+  }
+}
+
+async function undoLastAction() {
+  if (!lastUndoAction || !lastUndoAction.prevList) return;
+  hideToast();
+
+  const restoreList = [...lastUndoAction.prevList];
+  lastUndoAction = null;
+
+  await window.electronAPI.setRecents(restoreList);
+  if (activeTab === 'recents') {
+    await loadRecentsView();
+  }
+  showToast('Historial restaurado', false);
+}
+
+function openContextMenu(x, y, emoji, index) {
+  contextTarget = { emoji, index };
+  ctxRemoveRecent.innerHTML = `<span class="ctx-icon">❌</span> Quitar <span class="ctx-emoji-target">${emoji}</span> <span class="ctx-shortcut">Supr</span>`;
+  const menuWidth = 215;
+  const menuHeight = 90;
+  const posX = Math.min(x, window.innerWidth - menuWidth - 10);
+  const posY = Math.min(y, window.innerHeight - menuHeight - 10);
+
+  contextMenu.style.left = `${Math.max(10, posX)}px`;
+  contextMenu.style.top = `${Math.max(10, posY)}px`;
+  contextMenu.classList.remove('hidden');
+}
+
+function closeContextMenu() {
+  contextMenu.classList.add('hidden');
+  contextTarget = null;
+}
+
+async function removeRecentAtIndex(index) {
+  if (index < 0 || index >= results.length) return;
+  closeContextMenu();
+
+  const itemToRemove = results[index];
+  const emoji = itemToRemove.emoji;
+
+  // Guardar lista completa previa para deshacer de forma 100% exacta
+  lastUndoAction = {
+    prevList: results.map(r => r.emoji),
+    emoji: emoji
+  };
+
+  // Modificación inmediata de la UI
+  results.splice(index, 1);
+  if (selectedIndex >= results.length) {
+    selectedIndex = Math.max(0, results.length - 1);
+  }
+
+  // Notificar al backend
+  window.electronAPI.removeRecent(emoji);
+
+  renderRecentsGrid();
+  updateClearButtonVisibility();
+  showToast(`Emoji ${emoji} quitado de recientes`, true);
+}
+
+async function clearAllRecents() {
+  if (results.length === 0) return;
+  closeContextMenu();
+  resetClearConfirm();
+
+  // Guardar lista previa para deshacer
+  lastUndoAction = {
+    prevList: results.map(r => r.emoji)
+  };
+
+  results = [];
+  selectedIndex = 0;
+
+  window.electronAPI.clearRecents();
+
+  renderRecentsGrid();
+  updateClearButtonVisibility();
+  showToast('Todos los recientes eliminados', true);
+}
+
 async function switchTab(tab) {
   if (activeTab === tab && results.length > 0) return;
   activeTab = tab;
+  closeContextMenu();
+  resetClearConfirm();
+  updateFooterHints();
 
   if (activeTab === 'all') {
     tabAll.classList.add('active');
     tabRecents.classList.remove('active');
+    updateClearButtonVisibility();
     await updateResults();
   } else {
     tabRecents.classList.add('active');
@@ -37,6 +183,7 @@ async function loadRecentsView() {
   selectedIndex = 0;
   openVariantIndices.clear();
   renderRecentsGrid();
+  updateClearButtonVisibility();
 }
 
 async function updateResults() {
@@ -47,6 +194,8 @@ async function updateResults() {
     activeTab = 'all';
     tabAll.classList.add('active');
     tabRecents.classList.remove('active');
+    updateFooterHints();
+    updateClearButtonVisibility();
   }
 
   results = await window.electronAPI.search(query);
@@ -78,12 +227,34 @@ function renderRecentsGrid() {
   results.forEach((item, index) => {
     const div = document.createElement('div');
     div.className = `grid-item ${index === selectedIndex ? 'selected' : ''}`;
-    div.innerHTML = item.emoji;
-    div.title = `${item.emoji} ${item.keywords ? item.keywords.join(', ') : ''}`;
+    div.title = `${item.emoji} ${item.keywords ? item.keywords.join(', ') : ''} (Supr para quitar)`;
+
+    const emojiSpan = document.createElement('span');
+    emojiSpan.className = 'grid-emoji';
+    emojiSpan.textContent = item.emoji;
+    div.appendChild(emojiSpan);
+
+    const deleteBtn = document.createElement('button');
+    deleteBtn.className = 'grid-item-delete';
+    deleteBtn.innerHTML = '&times;';
+    deleteBtn.title = 'Quitar de recientes';
+    deleteBtn.onclick = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      removeRecentAtIndex(index);
+    };
+    div.appendChild(deleteBtn);
 
     div.onclick = (e) => {
+      if (e.target.closest('.grid-item-delete')) return;
       e.stopPropagation();
       selectSpecificEmoji(item.emoji);
+    };
+
+    div.oncontextmenu = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      openContextMenu(e.clientX, e.clientY, item.emoji, index);
     };
 
     resultsContainer.appendChild(div);
@@ -180,6 +351,39 @@ function selectEmoji(index) {
 tabAll.addEventListener('click', () => switchTab('all'));
 tabRecents.addEventListener('click', () => switchTab('recents'));
 
+// Clear recents button event listener with confirmation state
+clearRecentsBtn.addEventListener('click', (e) => {
+  e.stopPropagation();
+  if (clearRecentsBtn.classList.contains('confirming')) {
+    clearAllRecents();
+  } else {
+    clearRecentsBtn.classList.add('confirming');
+    clearBtnText.textContent = '¿Vaciar todo?';
+    clearConfirmTimer = setTimeout(() => {
+      resetClearConfirm();
+    }, 3000);
+  }
+});
+
+// Context menu item listeners
+ctxRemoveRecent.addEventListener('click', (e) => {
+  e.stopPropagation();
+  if (contextTarget) {
+    removeRecentAtIndex(contextTarget.index);
+  }
+});
+
+ctxClearRecents.addEventListener('click', (e) => {
+  e.stopPropagation();
+  clearAllRecents();
+});
+
+// Toast undo button listener
+toastUndoBtn.addEventListener('click', (e) => {
+  e.stopPropagation();
+  undoLastAction();
+});
+
 searchInput.addEventListener('input', handleInput);
 
 document.getElementById('close-btn').addEventListener('click', () => {
@@ -199,10 +403,46 @@ document.getElementById('reload-btn').addEventListener('click', () => {
     } else {
       updateResults();
     }
-  }, 500);
+    showToast('↻ Emojis recargados', false);
+  }, 400);
 });
 
+const buildBtn = document.getElementById('build-btn');
+if (buildBtn) {
+  buildBtn.addEventListener('click', async () => {
+    buildBtn.classList.add('loading');
+    buildBtn.disabled = true;
+
+    try {
+      const res = await window.electronAPI.buildAndReloadData();
+      if (activeTab === 'recents') {
+        await loadRecentsView();
+      } else {
+        await updateResults();
+      }
+      showToast(`⚡ TXT compilado a JSON (${res.total} emojis)`, false);
+    } catch (err) {
+      console.error('Error al compilar emojis:', err);
+      showToast('❌ Error al compilar TXT a JSON', false);
+    } finally {
+      setTimeout(() => {
+        buildBtn.classList.remove('loading');
+        buildBtn.disabled = false;
+      }, 400);
+    }
+  });
+}
+
 window.addEventListener('keydown', (e) => {
+  // Deshacer con Ctrl+Z
+  if (e.ctrlKey && (e.key === 'z' || e.key === 'Z')) {
+    if (lastUndoAction) {
+      e.preventDefault();
+      undoLastAction();
+      return;
+    }
+  }
+
   // Atajo Tab para alternar entre pestañas
   if (e.key === 'Tab') {
     e.preventDefault();
@@ -225,8 +465,29 @@ window.addEventListener('keydown', (e) => {
 
   // Navegación en modo Grid (Recientes)
   if (activeTab === 'recents') {
+    // Si el menú contextual o confirmación están abiertos, Escape los cierra
+    if (e.key === 'Escape') {
+      if (!contextMenu.classList.contains('hidden')) {
+        closeContextMenu();
+        return;
+      }
+      if (clearRecentsBtn.classList.contains('confirming')) {
+        resetClearConfirm();
+        return;
+      }
+      window.electronAPI.hideApp();
+      return;
+    }
+
     if (results.length === 0) return;
     const columns = getGridColumns();
+
+    // Eliminar emoji seleccionado con Supr o Backspace (si el buscador está vacío)
+    if (e.key === 'Delete' || (e.key === 'Backspace' && searchInput.value === '')) {
+      e.preventDefault();
+      removeRecentAtIndex(selectedIndex);
+      return;
+    }
 
     if (e.key === 'ArrowRight') {
       selectedIndex = (selectedIndex + 1) % results.length;
@@ -242,8 +503,6 @@ window.addEventListener('keydown', (e) => {
       renderRecentsGrid();
     } else if (e.key === 'Enter') {
       selectEmoji(selectedIndex);
-    } else if (e.key === 'Escape') {
-      window.electronAPI.hideApp();
     }
     return;
   }
@@ -279,8 +538,14 @@ window.addEventListener('focus', () => {
   searchInput.focus();
 });
 
-// Ocultar si se hace clic en la zona fuera de la tarjeta/contenedor
+// Cerrar menús o confirmaciones en clic global
 window.addEventListener('mousedown', (e) => {
+  if (!e.target.closest('#context-menu')) {
+    closeContextMenu();
+  }
+  if (!e.target.closest('#clear-recents-btn')) {
+    resetClearConfirm();
+  }
   if (!e.target.closest('#container')) {
     window.electronAPI.hideApp();
   }
@@ -290,6 +555,8 @@ window.addEventListener('mousedown', (e) => {
 window.electronAPI.onWindowShown(async () => {
   searchInput.value = '';
   openVariantIndices.clear();
+  closeContextMenu();
+  resetClearConfirm();
 
   // Si hay recientes, mostrar la pestaña de recientes por defecto para acceso rápido;
   // de lo contrario, arrancar en 'all'
@@ -309,3 +576,4 @@ window.electronAPI.onWindowShown(async () => {
   setTimeout(focusInput, 50);
   setTimeout(focusInput, 150);
 });
+

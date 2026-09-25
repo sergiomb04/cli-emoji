@@ -10,19 +10,21 @@ process.on('uncaughtException', (err) => { log(`UNCAUGHT: ${err.stack || err}`);
 process.on('unhandledRejection', (err) => { log(`REJECTION: ${err.stack || err}`); });
 log('Iniciando main.js...');
 
-const { loadEmojis, reloadEmojis } = require('../logic/data');
+const { loadEmojis, reloadEmojis, buildAndReloadEmojis } = require('../logic/data');
 const { searchEmojis, clearSearchCache } = require('../logic/search');
 const { RecentEmojisService } = require('../logic/recents');
 
 const gotTheLock = app.requestSingleInstanceLock();
 if (!gotTheLock) {
   log('Otra instancia ya está ejecutándose. Saliendo de esta instancia...');
-  app.quit();
+  app.exit(0);
+  return;
 }
 
 app.on('second-instance', () => {
   log('Segunda instancia invocada: mostrando ventana...');
   if (win) {
+    if (win.isMinimized()) win.restore();
     toggleWindow(false);
   }
 });
@@ -203,6 +205,21 @@ ipcMain.on('track-emoji', (event, emoji) => {
   recentsService.addRecent(emoji);
 });
 
+ipcMain.handle('remove-recent', (event, emoji) => {
+  recentsService.removeRecent(emoji);
+  return true;
+});
+
+ipcMain.handle('clear-recents', () => {
+  recentsService.clear();
+  return true;
+});
+
+ipcMain.handle('set-recents', (event, list) => {
+  recentsService.setRecents(list);
+  return true;
+});
+
 ipcMain.on('insert-emoji', (event, emoji) => {
   log(`ipcMain insert-emoji recibido: ${emoji}, destino HWND: ${lastForegroundHwnd}`);
   recentsService.addRecent(emoji);
@@ -258,6 +275,17 @@ ipcMain.on('reload-data', () => {
   clearSearchCache();
   emojiData = reloadEmojis();
   console.log('Emoji data reloaded');
+});
+
+ipcMain.handle('build-and-reload-data', () => {
+  clearSearchCache();
+  const result = buildAndReloadEmojis();
+  emojiData = result.emojis;
+  log(`build-and-reload-data completado: ${result.total} emojis base cargados.`);
+  return {
+    success: true,
+    total: result.total
+  };
 });
 
 ipcMain.on('quit-app', () => {

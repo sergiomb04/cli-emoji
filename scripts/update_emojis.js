@@ -86,6 +86,12 @@ function updateEmojis() {
   } catch (err) {
     console.error('Error al regenerar caché:', err);
   }
+
+  return { addedCount, updatedCount };
 }
 
-updateEmojis();
+if (require.main === module) {
+  updateEmojis();
+}
+
+module.exports = { updateEmojis };
