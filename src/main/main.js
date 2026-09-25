@@ -17,12 +17,14 @@ const { RecentEmojisService } = require('../logic/recents');
 const gotTheLock = app.requestSingleInstanceLock();
 if (!gotTheLock) {
   log('Otra instancia ya está ejecutándose. Saliendo de esta instancia...');
-  app.quit();
+  app.exit(0);
+  return;
 }
 
 app.on('second-instance', () => {
   log('Segunda instancia invocada: mostrando ventana...');
   if (win) {
+    if (win.isMinimized()) win.restore();
     toggleWindow(false);
   }
 });
@@ -201,6 +203,21 @@ ipcMain.handle('get-recents', () => {
 
 ipcMain.on('track-emoji', (event, emoji) => {
   recentsService.addRecent(emoji);
+});
+
+ipcMain.handle('remove-recent', (event, emoji) => {
+  recentsService.removeRecent(emoji);
+  return true;
+});
+
+ipcMain.handle('clear-recents', () => {
+  recentsService.clear();
+  return true;
+});
+
+ipcMain.handle('set-recents', (event, list) => {
+  recentsService.setRecents(list);
+  return true;
 });
 
 ipcMain.on('insert-emoji', (event, emoji) => {

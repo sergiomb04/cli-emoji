@@ -13,16 +13,37 @@
             <input type="text" id="search" placeholder="Buscar emojis..." autofocus autocomplete="off">
         </div>
         <div id="nav-tabs">
-            <button class="nav-tab active" data-tab="all" id="tab-all" title="Ver catálogo completo (Ctrl+1)">
-                <span class="tab-icon">🔍</span> Todos
-            </button>
-            <button class="nav-tab" data-tab="recents" id="tab-recents" title="Ver emojis recientes (Ctrl+2)">
-                <span class="tab-icon">🕒</span> Recientes
+            <div class="tabs-group">
+                <button class="nav-tab active" data-tab="all" id="tab-all" title="Ver catálogo completo (Ctrl+1)">
+                    <span class="tab-icon">🔍</span> Todos
+                </button>
+                <button class="nav-tab" data-tab="recents" id="tab-recents" title="Ver emojis recientes (Ctrl+2)">
+                    <span class="tab-icon">🕒</span> Recientes
+                </button>
+            </div>
+            <button id="clear-recents-btn" class="clear-recents-btn hidden" title="Vaciar todos los emojis recientes">
+                <span class="clear-icon">🗑️</span> <span id="clear-btn-text">Vaciar</span>
             </button>
         </div>
         <div id="results"></div>
+        <div id="context-menu" class="context-menu hidden">
+            <div class="context-menu-item" id="ctx-remove-recent">
+                <span class="ctx-icon">❌</span> Quitar de recientes
+                <span class="ctx-shortcut">Supr</span>
+            </div>
+            <div class="context-menu-separator"></div>
+            <div class="context-menu-item danger" id="ctx-clear-recents">
+                <span class="ctx-icon">🗑️</span> Vaciar todos los recientes
+            </div>
+        </div>
+        <div id="toast" class="toast hidden">
+            <span id="toast-message">Emoji quitado de recientes</span>
+            <button id="toast-undo-btn" class="toast-undo">Deshacer</button>
+        </div>
         <div id="footer">
-            <span class="footer-hint"><span class="key">Tab</span> Cambiar pestaña</span>
+            <span id="footer-delete-hint" class="footer-hint hidden"><span class="key">Supr</span> Quitar</span>
+            <span id="footer-context-hint" class="footer-hint hidden"><span class="key">Clic der.</span> Opciones</span>
+            <span class="footer-hint"><span class="key">Tab</span> Pestañas</span>
             <span class="footer-hint"><span class="key">Esc</span> Ocultar</span>
         </div>
     </div>

@@ -53,6 +53,46 @@ class RecentEmojisService {
     this.scheduleSave();
   }
 
+  removeRecent(emoji) {
+    if (!emoji || typeof emoji !== 'string') return this.recents;
+    const cleanEmoji = emoji.trim();
+    if (!cleanEmoji) return this.recents;
+
+    if (!this.isLoaded) {
+      this.load();
+    }
+
+    const prevLength = this.recents.length;
+    this.recents = this.recents.filter(e => e !== cleanEmoji);
+
+    if (this.recents.length !== prevLength) {
+      this.scheduleSave();
+    }
+
+    return [...this.recents];
+  }
+
+  setRecents(list) {
+    if (!Array.isArray(list)) return this.recents;
+
+    if (!this.isLoaded) {
+      this.load();
+    }
+
+    if (this.saveTimeout) {
+      clearTimeout(this.saveTimeout);
+      this.saveTimeout = null;
+    }
+
+    this.recents = list
+      .filter(e => typeof e === 'string' && e.trim().length > 0)
+      .map(e => e.trim())
+      .slice(0, MAX_RECENTS);
+
+    this.saveSync();
+    return [...this.recents];
+  }
+
   scheduleSave() {
     if (this.saveTimeout) {
       clearTimeout(this.saveTimeout);
@@ -77,8 +117,13 @@ class RecentEmojisService {
   }
 
   clear() {
+    if (this.saveTimeout) {
+      clearTimeout(this.saveTimeout);
+      this.saveTimeout = null;
+    }
     this.recents = [];
     this.saveSync();
+    return [...this.recents];
   }
 }
 
