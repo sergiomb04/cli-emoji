@@ -11,5 +11,6 @@ contextBridge.exposeInMainWorld('electronAPI', {
   onWindowShown: (callback) => ipcRenderer.on('window-shown', callback),
   hideApp: () => ipcRenderer.send('hide-app'),
   reloadData: () => ipcRenderer.send('reload-data'),
+  buildAndReloadData: () => ipcRenderer.invoke('build-and-reload-data'),
   quitApp: () => ipcRenderer.send('quit-app')
 });

@@ -403,8 +403,35 @@ document.getElementById('reload-btn').addEventListener('click', () => {
     } else {
       updateResults();
     }
-  }, 500);
+    showToast('↻ Emojis recargados', false);
+  }, 400);
 });
+
+const buildBtn = document.getElementById('build-btn');
+if (buildBtn) {
+  buildBtn.addEventListener('click', async () => {
+    buildBtn.classList.add('loading');
+    buildBtn.disabled = true;
+
+    try {
+      const res = await window.electronAPI.buildAndReloadData();
+      if (activeTab === 'recents') {
+        await loadRecentsView();
+      } else {
+        await updateResults();
+      }
+      showToast(`⚡ TXT compilado a JSON (${res.total} emojis)`, false);
+    } catch (err) {
+      console.error('Error al compilar emojis:', err);
+      showToast('❌ Error al compilar TXT a JSON', false);
+    } finally {
+      setTimeout(() => {
+        buildBtn.classList.remove('loading');
+        buildBtn.disabled = false;
+      }, 400);
+    }
+  });
+}
 
 window.addEventListener('keydown', (e) => {
   // Deshacer con Ctrl+Z

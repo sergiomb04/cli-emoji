@@ -92,8 +92,25 @@ function reloadEmojis() {
   return loadEmojis();
 }
 
+function buildAndReloadEmojis() {
+  memoryCache = null;
+
+  // Compilar emojis.txt -> emojis.cache.json
+  const { buildEmojiData } = require('../../scripts/build-data');
+  const buildResult = buildEmojiData();
+
+  // Actualizar memoria
+  memoryCache = buildResult.emojis;
+
+  return {
+    total: buildResult.totalEmojis,
+    emojis: memoryCache
+  };
+}
+
 module.exports = {
   loadEmojis,
   loadEmojisFromTxt: loadEmojis, // Alias para compatibilidad hacia atrás
-  reloadEmojis
+  reloadEmojis,
+  buildAndReloadEmojis
 };

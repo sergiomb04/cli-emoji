@@ -10,7 +10,7 @@ process.on('uncaughtException', (err) => { log(`UNCAUGHT: ${err.stack || err}`);
 process.on('unhandledRejection', (err) => { log(`REJECTION: ${err.stack || err}`); });
 log('Iniciando main.js...');
 
-const { loadEmojis, reloadEmojis } = require('../logic/data');
+const { loadEmojis, reloadEmojis, buildAndReloadEmojis } = require('../logic/data');
 const { searchEmojis, clearSearchCache } = require('../logic/search');
 const { RecentEmojisService } = require('../logic/recents');
 
@@ -275,6 +275,17 @@ ipcMain.on('reload-data', () => {
   clearSearchCache();
   emojiData = reloadEmojis();
   console.log('Emoji data reloaded');
+});
+
+ipcMain.handle('build-and-reload-data', () => {
+  clearSearchCache();
+  const result = buildAndReloadEmojis();
+  emojiData = result.emojis;
+  log(`build-and-reload-data completado: ${result.total} emojis base cargados.`);
+  return {
+    success: true,
+    total: result.total
+  };
 });
 
 ipcMain.on('quit-app', () => {

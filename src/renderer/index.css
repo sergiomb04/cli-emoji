@@ -6,12 +6,12 @@
   --selected-bg: rgba(0, 122, 255, 0.4);
 }
 
-#close-btn, #reload-btn {
+#close-btn, #reload-btn, #build-btn {
   position: absolute;
   top: 8px;
   background: transparent;
   border: none;
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.25);
   cursor: pointer;
   z-index: 100;
   line-height: 1;
@@ -30,6 +30,12 @@
   top: 11px; /* Ajuste fino para alinear con la X */
 }
 
+#build-btn {
+  right: 68px;
+  font-size: 16px;
+  top: 12px;
+}
+
 #close-btn:hover {
   color: #ff453a;
 }
@@ -39,13 +45,34 @@
   transform: rotate(180deg);
 }
 
+#build-btn:hover {
+  color: #f5a623;
+  transform: scale(1.2);
+}
+
 #reload-btn.loading {
   animation: spin 0.5s linear infinite;
+}
+
+#build-btn.loading {
+  animation: pulse-build 0.5s ease-in-out infinite alternate;
+  color: #f5a623;
 }
 
 @keyframes spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+@keyframes pulse-build {
+  from {
+    transform: scale(0.9);
+    opacity: 0.5;
+  }
+  to {
+    transform: scale(1.3);
+    opacity: 1;
+  }
 }
 
 body {
