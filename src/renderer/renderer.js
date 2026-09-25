@@ -5,13 +5,33 @@ const tabRecents = document.getElementById('tab-recents');
 const clearRecentsBtn = document.getElementById('clear-recents-btn');
 const clearBtnText = document.getElementById('clear-btn-text');
 const contextMenu = document.getElementById('context-menu');
+const ctxEditEmoji = document.getElementById('ctx-edit-emoji');
+const ctxEditText = document.getElementById('ctx-edit-text');
 const ctxRemoveRecent = document.getElementById('ctx-remove-recent');
+const ctxSeparator = document.getElementById('ctx-separator');
 const ctxClearRecents = document.getElementById('ctx-clear-recents');
 const toast = document.getElementById('toast');
 const toastMessage = document.getElementById('toast-message');
 const toastUndoBtn = document.getElementById('toast-undo-btn');
 const footerDeleteHint = document.getElementById('footer-delete-hint');
 const footerContextHint = document.getElementById('footer-context-hint');
+
+// Modal Elements
+const addBtn = document.getElementById('add-btn');
+const modalOverlay = document.getElementById('modal-overlay');
+const emojiModal = document.getElementById('emoji-modal');
+const modalTitle = document.getElementById('modal-title');
+const modalCloseBtn = document.getElementById('modal-close-btn');
+const emojiForm = document.getElementById('emoji-form');
+const emojiInput = document.getElementById('emoji-input');
+const emojiPreview = document.getElementById('emoji-preview');
+const keywordsTags = document.getElementById('keywords-tags');
+const keywordsInput = document.getElementById('keywords-input');
+const addKeywordBtn = document.getElementById('add-keyword-btn');
+const modalError = document.getElementById('modal-error');
+const modalDeleteBtn = document.getElementById('modal-delete-btn');
+const modalCancelBtn = document.getElementById('modal-cancel-btn');
+const modalSaveBtn = document.getElementById('modal-save-btn');
 
 let activeTab = 'all'; // 'all' | 'recents'
 let results = [];
@@ -21,7 +41,18 @@ let debounceTimer = null;
 let toastTimer = null;
 let clearConfirmTimer = null;
 let lastUndoAction = null; // { prevList: string[] }
-let contextTarget = null; // { emoji: string, index: number }
+let contextTarget = null; // { emoji: string, index: number, source: string, item: object }
+
+// Modal State
+let modalMode = 'create'; // 'create' | 'edit'
+let modalOriginalEmoji = null;
+let modalKeywords = [];
+let isModalOpen = false;
+
+function escapeHtml(str) {
+  if (!str) return '';
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
 
 function getGridColumns() {
   const first = resultsContainer.querySelector('.grid-item');
@@ -94,11 +125,23 @@ async function undoLastAction() {
   showToast('Historial restaurado', false);
 }
 
-function openContextMenu(x, y, emoji, index) {
-  contextTarget = { emoji, index };
-  ctxRemoveRecent.innerHTML = `<span class="ctx-icon">❌</span> Quitar <span class="ctx-emoji-target">${emoji}</span> <span class="ctx-shortcut">Supr</span>`;
-  const menuWidth = 215;
-  const menuHeight = 90;
+function openContextMenu(x, y, emoji, index, source = 'recents', item = null) {
+  contextTarget = { emoji, index, source, item };
+  ctxEditText.textContent = `Editar ${emoji} y keywords`;
+
+  if (source === 'recents') {
+    ctxRemoveRecent.classList.remove('hidden');
+    ctxRemoveRecent.innerHTML = `<span class="ctx-icon">❌</span> Quitar <span class="ctx-emoji-target">${emoji}</span> <span class="ctx-shortcut">Supr</span>`;
+    ctxSeparator.classList.remove('hidden');
+    ctxClearRecents.classList.remove('hidden');
+  } else {
+    ctxRemoveRecent.classList.add('hidden');
+    ctxSeparator.classList.add('hidden');
+    ctxClearRecents.classList.add('hidden');
+  }
+
+  const menuWidth = 220;
+  const menuHeight = source === 'recents' ? 120 : 45;
   const posX = Math.min(x, window.innerWidth - menuWidth - 10);
   const posY = Math.min(y, window.innerHeight - menuHeight - 10);
 
@@ -254,7 +297,7 @@ function renderRecentsGrid() {
     div.oncontextmenu = (e) => {
       e.preventDefault();
       e.stopPropagation();
-      openContextMenu(e.clientX, e.clientY, item.emoji, index);
+      openContextMenu(e.clientX, e.clientY, item.emoji, index, 'recents', item);
     };
 
     resultsContainer.appendChild(div);
@@ -269,16 +312,61 @@ function renderListView() {
   resultsContainer.className = '';
   resultsContainer.innerHTML = '';
 
+  if (!results || results.length === 0) {
+    const query = searchInput.value.trim();
+    const empty = document.createElement('div');
+    empty.className = 'empty-state';
+    if (query) {
+      empty.innerHTML = `
+        <div class="empty-state-icon">🔍</div>
+        <div class="empty-state-text">No se encontraron emojis para "<strong>${escapeHtml(query)}</strong>"</div>
+        <button type="button" id="empty-create-btn" class="btn-secondary empty-create-btn">➕ Añadir "${escapeHtml(query)}" al catálogo</button>
+      `;
+      const btn = empty.querySelector('#empty-create-btn');
+      if (btn) {
+        btn.onclick = (e) => {
+          e.stopPropagation();
+          openCreateModal(query);
+        };
+      }
+    } else {
+      empty.innerHTML = `
+        <div class="empty-state-icon">🔍</div>
+        <div class="empty-state-text">Escribe algo en el buscador para encontrar emojis.</div>
+      `;
+    }
+    resultsContainer.appendChild(empty);
+    return;
+  }
+
   results.forEach((item, index) => {
     const div = document.createElement('div');
     div.className = `result-item ${index === selectedIndex ? 'selected' : ''}`;
 
     const mainDiv = document.createElement('div');
     mainDiv.className = 'result-main';
-    mainDiv.innerHTML = `
-      <span class="emoji">${item.emoji}</span>
-      <span class="keyword">${item.keywords[0] || ''}</span>
-    `;
+
+    const emojiSpan = document.createElement('span');
+    emojiSpan.className = 'emoji';
+    emojiSpan.textContent = item.emoji;
+
+    const keywordSpan = document.createElement('span');
+    keywordSpan.className = 'keyword';
+    keywordSpan.textContent = item.keywords[0] || '';
+
+    const actionsDiv = document.createElement('div');
+    actionsDiv.className = 'result-actions';
+
+    const editBtn = document.createElement('button');
+    editBtn.type = 'button';
+    editBtn.className = 'item-edit-btn';
+    editBtn.title = 'Editar emoji y palabras clave';
+    editBtn.innerHTML = '✏️';
+    editBtn.onclick = (e) => {
+      e.stopPropagation();
+      openEditModal(item);
+    };
+    actionsDiv.appendChild(editBtn);
 
     if (item.variants && item.variants.length > 0) {
       const toggle = document.createElement('div');
@@ -290,14 +378,24 @@ function renderListView() {
         else openVariantIndices.add(index);
         renderListView();
       };
-      mainDiv.appendChild(toggle);
+      actionsDiv.appendChild(toggle);
     }
 
+    mainDiv.appendChild(emojiSpan);
+    mainDiv.appendChild(keywordSpan);
+    mainDiv.appendChild(actionsDiv);
+
     mainDiv.onclick = (e) => {
-      if (e.target.closest('.variants-toggle')) return;
+      if (e.target.closest('.variants-toggle') || e.target.closest('.item-edit-btn')) return;
       selectEmoji(index);
     };
     div.appendChild(mainDiv);
+
+    div.oncontextmenu = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      openContextMenu(e.clientX, e.clientY, item.emoji, index, 'all', item);
+    };
 
     if (item.variants && item.variants.length > 0 && openVariantIndices.has(index)) {
       const variantsContainer = document.createElement('div');
@@ -307,9 +405,15 @@ function renderListView() {
         const variantSpan = document.createElement('span');
         variantSpan.className = 'variant-emoji';
         variantSpan.innerHTML = variant.emoji;
+        variantSpan.title = `${variant.emoji} (Clic para insertar, clic der. para editar)`;
         variantSpan.onclick = (e) => {
           e.stopPropagation();
           selectSpecificEmoji(variant.emoji);
+        };
+        variantSpan.oncontextmenu = (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          openContextMenu(e.clientX, e.clientY, variant.emoji, index, 'all', variant);
         };
         variantsContainer.appendChild(variantSpan);
       });
@@ -366,6 +470,17 @@ clearRecentsBtn.addEventListener('click', (e) => {
 });
 
 // Context menu item listeners
+if (ctxEditEmoji) {
+  ctxEditEmoji.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (contextTarget) {
+      const target = contextTarget;
+      closeContextMenu();
+      openEditModal(target.item || target.emoji);
+    }
+  });
+}
+
 ctxRemoveRecent.addEventListener('click', (e) => {
   e.stopPropagation();
   if (contextTarget) {
@@ -433,7 +548,295 @@ if (buildBtn) {
   });
 }
 
+// Add Button (+)
+if (addBtn) {
+  addBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    openCreateModal(searchInput.value.trim());
+  });
+}
+
+// ==========================================
+// Modal Logic (Crear / Editar Emojis)
+// ==========================================
+
+function openCreateModal(initialKeyword = '', initialEmoji = '') {
+  closeContextMenu();
+  modalMode = 'create';
+  modalOriginalEmoji = null;
+  modalTitle.textContent = '✨ Añadir nuevo emoji';
+  modalError.classList.add('hidden');
+  modalError.textContent = '';
+  modalDeleteBtn.classList.add('hidden');
+  modalSaveBtn.textContent = 'Guardar';
+  modalSaveBtn.disabled = false;
+
+  let emojiVal = initialEmoji;
+  let kwVal = initialKeyword;
+  if (!emojiVal && kwVal && /\p{Extended_Pictographic}/u.test(kwVal)) {
+    emojiVal = kwVal.trim();
+    kwVal = '';
+  }
+
+  emojiInput.value = emojiVal;
+  emojiPreview.textContent = emojiVal || '✨';
+  keywordsInput.value = '';
+
+  modalKeywords = [];
+  if (kwVal) {
+    kwVal.split(',').forEach(k => {
+      const trimmed = k.trim().toLowerCase();
+      if (trimmed && !modalKeywords.includes(trimmed)) {
+        modalKeywords.push(trimmed);
+      }
+    });
+  }
+  renderModalTags();
+
+  modalOverlay.classList.remove('hidden');
+  isModalOpen = true;
+
+  setTimeout(() => {
+    if (!emojiInput.value) {
+      emojiInput.focus();
+    } else {
+      keywordsInput.focus();
+    }
+  }, 50);
+}
+
+async function openEditModal(target) {
+  closeContextMenu();
+  modalMode = 'edit';
+  modalError.classList.add('hidden');
+  modalError.textContent = '';
+  modalDeleteBtn.classList.remove('hidden');
+  modalSaveBtn.textContent = 'Guardar';
+  modalSaveBtn.disabled = false;
+
+  const targetEmoji = (typeof target === 'string') ? target : target.emoji;
+  modalOriginalEmoji = targetEmoji;
+  modalTitle.textContent = `✏️ Editar emoji: ${targetEmoji}`;
+
+  emojiInput.value = targetEmoji;
+  emojiPreview.textContent = targetEmoji;
+  keywordsInput.value = '';
+
+  let kws = (target && Array.isArray(target.keywords)) ? [...target.keywords] : [];
+  try {
+    const details = await window.electronAPI.getEmojiDetails(targetEmoji);
+    if (details && Array.isArray(details.keywords) && details.keywords.length > 0) {
+      kws = details.keywords;
+    }
+  } catch (e) {
+    console.error('Error al obtener detalles del emoji:', e);
+  }
+
+  modalKeywords = [...new Set(kws.map(k => k.trim().toLowerCase()).filter(Boolean))];
+  renderModalTags();
+
+  modalOverlay.classList.remove('hidden');
+  isModalOpen = true;
+
+  setTimeout(() => {
+    keywordsInput.focus();
+  }, 50);
+}
+
+function closeModal() {
+  modalOverlay.classList.add('hidden');
+  isModalOpen = false;
+  modalOriginalEmoji = null;
+  modalKeywords = [];
+  modalError.classList.add('hidden');
+  modalError.textContent = '';
+  searchInput.focus();
+}
+
+function renderModalTags() {
+  keywordsTags.innerHTML = '';
+  modalKeywords.forEach((kw, idx) => {
+    const chip = document.createElement('span');
+    chip.className = 'tag-chip';
+
+    const text = document.createElement('span');
+    text.textContent = kw;
+    chip.appendChild(text);
+
+    const removeBtn = document.createElement('button');
+    removeBtn.type = 'button';
+    removeBtn.className = 'tag-remove';
+    removeBtn.innerHTML = '&times;';
+    removeBtn.title = 'Quitar palabra clave';
+    removeBtn.onclick = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      modalKeywords.splice(idx, 1);
+      renderModalTags();
+    };
+    chip.appendChild(removeBtn);
+
+    keywordsTags.appendChild(chip);
+  });
+}
+
+function addKeywordTagFromInput() {
+  const text = keywordsInput.value.trim();
+  if (!text) return false;
+
+  const parts = text.split(',').map(p => p.trim().toLowerCase()).filter(Boolean);
+  let added = false;
+  for (const part of parts) {
+    if (!modalKeywords.includes(part)) {
+      modalKeywords.push(part);
+      added = true;
+    }
+  }
+  keywordsInput.value = '';
+  if (added) {
+    renderModalTags();
+  }
+  return added;
+}
+
+// Eventos de formulario de modal
+emojiForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  modalError.classList.add('hidden');
+  modalError.textContent = '';
+
+  addKeywordTagFromInput();
+
+  const emoji = emojiInput.value.trim();
+  if (!emoji) {
+    modalError.textContent = 'Por favor, escribe o pega un emoji.';
+    modalError.classList.remove('hidden');
+    emojiInput.focus();
+    return;
+  }
+
+  if (modalKeywords.length === 0) {
+    modalError.textContent = 'Añade al menos una palabra clave para poder buscar este emoji.';
+    modalError.classList.remove('hidden');
+    keywordsInput.focus();
+    return;
+  }
+
+  modalSaveBtn.disabled = true;
+  modalSaveBtn.textContent = 'Guardando...';
+
+  try {
+    const res = await window.electronAPI.saveEmoji({
+      emoji,
+      keywords: modalKeywords,
+      originalEmoji: modalOriginalEmoji,
+      overwrite: true
+    });
+
+    if (res.success) {
+      closeModal();
+      showToast(res.isNew ? `✨ Emoji ${emoji} guardado con éxito!` : `✏️ Emoji ${emoji} actualizado con éxito!`, false);
+      if (activeTab === 'recents') {
+        await loadRecentsView();
+      } else {
+        await updateResults();
+      }
+    } else {
+      modalError.textContent = res.message || 'Error al guardar el emoji.';
+      modalError.classList.remove('hidden');
+    }
+  } catch (err) {
+    console.error('Error al guardar emoji:', err);
+    modalError.textContent = 'Error inesperado al guardar el emoji.';
+    modalError.classList.remove('hidden');
+  } finally {
+    modalSaveBtn.disabled = false;
+    modalSaveBtn.textContent = 'Guardar';
+  }
+});
+
+modalDeleteBtn.addEventListener('click', async (e) => {
+  e.stopPropagation();
+  if (!modalOriginalEmoji) return;
+
+  const confirmed = confirm(`¿Estás seguro de que quieres eliminar el emoji ${modalOriginalEmoji} del catálogo?`);
+  if (!confirmed) return;
+
+  modalDeleteBtn.disabled = true;
+  try {
+    const res = await window.electronAPI.deleteEmoji(modalOriginalEmoji);
+    if (res.success) {
+      closeModal();
+      showToast(`🗑️ Emoji ${modalOriginalEmoji} eliminado del catálogo`, false);
+      if (activeTab === 'recents') {
+        await loadRecentsView();
+      } else {
+        await updateResults();
+      }
+    } else {
+      modalError.textContent = res.message || 'Error al eliminar el emoji.';
+      modalError.classList.remove('hidden');
+    }
+  } catch (err) {
+    console.error('Error al eliminar emoji:', err);
+    modalError.textContent = 'Error al eliminar el emoji.';
+    modalError.classList.remove('hidden');
+  } finally {
+    modalDeleteBtn.disabled = false;
+  }
+});
+
+emojiInput.addEventListener('input', () => {
+  const val = emojiInput.value.trim();
+  emojiPreview.textContent = val || '✨';
+});
+
+keywordsInput.addEventListener('keydown', (e) => {
+  if (e.key === ',' || e.key === 'Enter') {
+    e.preventDefault();
+    addKeywordTagFromInput();
+  } else if (e.key === 'Backspace' && keywordsInput.value === '' && modalKeywords.length > 0) {
+    modalKeywords.pop();
+    renderModalTags();
+  }
+});
+
+addKeywordBtn.addEventListener('click', (e) => {
+  e.preventDefault();
+  addKeywordTagFromInput();
+  keywordsInput.focus();
+});
+
+modalCloseBtn.addEventListener('click', closeModal);
+modalCancelBtn.addEventListener('click', closeModal);
+
+modalOverlay.addEventListener('mousedown', (e) => {
+  if (e.target === modalOverlay) {
+    closeModal();
+  }
+});
+
+// ==========================================
+// Keyboard Navigation & Shortcuts
+// ==========================================
+
 window.addEventListener('keydown', (e) => {
+  // Manejo exclusivo cuando el modal está abierto
+  if (isModalOpen) {
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      closeModal();
+    }
+    return;
+  }
+
+  // Atajo Ctrl+N para crear nuevo emoji
+  if (e.ctrlKey && (e.key === 'n' || e.key === 'N')) {
+    e.preventDefault();
+    openCreateModal(searchInput.value.trim());
+    return;
+  }
+
   // Deshacer con Ctrl+Z
   if (e.ctrlKey && (e.key === 'z' || e.key === 'Z')) {
     if (lastUndoAction) {
@@ -465,7 +868,6 @@ window.addEventListener('keydown', (e) => {
 
   // Navegación en modo Grid (Recientes)
   if (activeTab === 'recents') {
-    // Si el menú contextual o confirmación están abiertos, Escape los cierra
     if (e.key === 'Escape') {
       if (!contextMenu.classList.contains('hidden')) {
         closeContextMenu();
@@ -482,7 +884,6 @@ window.addEventListener('keydown', (e) => {
     if (results.length === 0) return;
     const columns = getGridColumns();
 
-    // Eliminar emoji seleccionado con Supr o Backspace (si el buscador está vacío)
     if (e.key === 'Delete' || (e.key === 'Backspace' && searchInput.value === '')) {
       e.preventDefault();
       removeRecentAtIndex(selectedIndex);
@@ -535,11 +936,19 @@ window.addEventListener('keydown', (e) => {
 
 // Asegurar que el input tenga el foco siempre que la ventana gane foco
 window.addEventListener('focus', () => {
-  searchInput.focus();
+  if (!isModalOpen) {
+    searchInput.focus();
+  }
 });
 
 // Cerrar menús o confirmaciones en clic global
 window.addEventListener('mousedown', (e) => {
+  if (isModalOpen) {
+    if (!e.target.closest('#emoji-modal')) {
+      closeModal();
+    }
+    return;
+  }
   if (!e.target.closest('#context-menu')) {
     closeContextMenu();
   }
@@ -553,13 +962,15 @@ window.addEventListener('mousedown', (e) => {
 
 // Listener para cuando la ventana se muestra
 window.electronAPI.onWindowShown(async () => {
+  if (isModalOpen) {
+    closeModal();
+  }
+
   searchInput.value = '';
   openVariantIndices.clear();
   closeContextMenu();
   resetClearConfirm();
 
-  // Si hay recientes, mostrar la pestaña de recientes por defecto para acceso rápido;
-  // de lo contrario, arrancar en 'all'
   const recents = await window.electronAPI.getRecents();
   if (recents && recents.length > 0) {
     await switchTab('recents');
@@ -576,4 +987,5 @@ window.electronAPI.onWindowShown(async () => {
   setTimeout(focusInput, 50);
   setTimeout(focusInput, 150);
 });
+
 
