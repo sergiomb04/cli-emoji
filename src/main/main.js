@@ -10,7 +10,7 @@ process.on('uncaughtException', (err) => { log(`UNCAUGHT: ${err.stack || err}`);
 process.on('unhandledRejection', (err) => { log(`REJECTION: ${err.stack || err}`); });
 log('Iniciando main.js...');
 
-const { loadEmojis, reloadEmojis, buildAndReloadEmojis } = require('../logic/data');
+const { loadEmojis, reloadEmojis, buildAndReloadEmojis, getEmojiDetails, saveEmoji, deleteEmoji } = require('../logic/data');
 const { searchEmojis, clearSearchCache } = require('../logic/search');
 const { RecentEmojisService } = require('../logic/recents');
 
@@ -286,6 +286,32 @@ ipcMain.handle('build-and-reload-data', () => {
     success: true,
     total: result.total
   };
+});
+
+ipcMain.handle('get-emoji-details', (event, emojiChar) => {
+  return getEmojiDetails(emojiChar);
+});
+
+ipcMain.handle('save-emoji', (event, payload) => {
+  log(`ipcMain save-emoji recibido para: ${payload ? payload.emoji : 'desconocido'}`);
+  const result = saveEmoji(payload);
+  if (result.success) {
+    clearSearchCache();
+    emojiData = result.emojis || loadEmojis();
+    log(`Emoji guardado con éxito. Total emojis base: ${result.total}`);
+  }
+  return result;
+});
+
+ipcMain.handle('delete-emoji', (event, emojiChar) => {
+  log(`ipcMain delete-emoji recibido para: ${emojiChar}`);
+  const result = deleteEmoji(emojiChar);
+  if (result.success) {
+    clearSearchCache();
+    emojiData = result.emojis || loadEmojis();
+    log(`Emoji eliminado con éxito. Total emojis base: ${result.total}`);
+  }
+  return result;
 });
 
 ipcMain.on('quit-app', () => {

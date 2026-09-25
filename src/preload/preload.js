@@ -12,5 +12,8 @@ contextBridge.exposeInMainWorld('electronAPI', {
   hideApp: () => ipcRenderer.send('hide-app'),
   reloadData: () => ipcRenderer.send('reload-data'),
   buildAndReloadData: () => ipcRenderer.invoke('build-and-reload-data'),
+  getEmojiDetails: (emoji) => ipcRenderer.invoke('get-emoji-details', emoji),
+  saveEmoji: (data) => ipcRenderer.invoke('save-emoji', data),
+  deleteEmoji: (emoji) => ipcRenderer.invoke('delete-emoji', emoji),
   quitApp: () => ipcRenderer.send('quit-app')
 });

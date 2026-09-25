@@ -7,6 +7,7 @@
 </head>
 <body>
     <div id="container">
+        <button id="add-btn" title="Añadir nuevo emoji (Ctrl+N)">+</button>
         <button id="build-btn" title="Compilar TXT a JSON con los cambios y recargar">⚡</button>
         <button id="reload-btn" title="Recargar emojis">↻</button>
         <button id="close-btn" title="Cerrar app completamente">×</button>
@@ -28,11 +29,14 @@
         </div>
         <div id="results"></div>
         <div id="context-menu" class="context-menu hidden">
+            <div class="context-menu-item" id="ctx-edit-emoji">
+                <span class="ctx-icon">✏️</span> <span id="ctx-edit-text">Editar emoji y keywords</span>
+            </div>
             <div class="context-menu-item" id="ctx-remove-recent">
                 <span class="ctx-icon">❌</span> Quitar de recientes
                 <span class="ctx-shortcut">Supr</span>
             </div>
-            <div class="context-menu-separator"></div>
+            <div class="context-menu-separator" id="ctx-separator"></div>
             <div class="context-menu-item danger" id="ctx-clear-recents">
                 <span class="ctx-icon">🗑️</span> Vaciar todos los recientes
             </div>
@@ -44,8 +48,49 @@
         <div id="footer">
             <span id="footer-delete-hint" class="footer-hint hidden"><span class="key">Supr</span> Quitar</span>
             <span id="footer-context-hint" class="footer-hint hidden"><span class="key">Clic der.</span> Opciones</span>
+            <span class="footer-hint"><span class="key">Ctrl+N</span> Nuevo</span>
             <span class="footer-hint"><span class="key">Tab</span> Pestañas</span>
             <span class="footer-hint"><span class="key">Esc</span> Ocultar</span>
+        </div>
+    </div>
+
+    <!-- Modal para Crear / Editar Emoji -->
+    <div id="modal-overlay" class="modal-overlay hidden">
+        <div id="emoji-modal" class="modal-card">
+            <div class="modal-header">
+                <h3 id="modal-title">✨ Añadir nuevo emoji</h3>
+                <button type="button" id="modal-close-btn" class="modal-close-btn" title="Cerrar (Esc)">&times;</button>
+            </div>
+            <form id="emoji-form">
+                <div class="form-group emoji-group">
+                    <label for="emoji-input">Emoji / Símbolo</label>
+                    <div class="emoji-input-wrapper">
+                        <input type="text" id="emoji-input" class="emoji-input" placeholder="✨" required autocomplete="off">
+                        <div id="emoji-preview" class="emoji-preview" title="Vista previa">✨</div>
+                    </div>
+                    <span class="field-hint">Introduce o pega el emoji (también puedes usar el teclado de Windows con Win + .)</span>
+                </div>
+
+                <div class="form-group">
+                    <label for="keywords-input">Palabras clave asociadas</label>
+                    <div class="keywords-tags-container" id="keywords-tags"></div>
+                    <div class="keywords-input-wrapper">
+                        <input type="text" id="keywords-input" class="keywords-input" placeholder="Ej: destellos, brillo, magia..." autocomplete="off">
+                        <button type="button" id="add-keyword-btn" class="btn-secondary btn-small">Añadir</button>
+                    </div>
+                    <span class="field-hint">Separa con comas (,) o Enter. Cuantas más keywords, más fácil será encontrarlo.</span>
+                </div>
+
+                <div id="modal-error" class="modal-error hidden"></div>
+
+                <div class="modal-footer">
+                    <button type="button" id="modal-delete-btn" class="btn-danger hidden" title="Eliminar este emoji del catálogo de forma permanente">🗑️ Eliminar</button>
+                    <div class="modal-actions-right">
+                        <button type="button" id="modal-cancel-btn" class="btn-secondary">Cancelar</button>
+                        <button type="submit" id="modal-save-btn" class="btn-primary">Guardar</button>
+                    </div>
+                </div>
+            </form>
         </div>
     </div>
     <script src="renderer.js"></script>
